@@ -1,0 +1,55 @@
+
+majiangzai.png
+size: 1798,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangci035
+  rotate: false
+  xy: 1027, 258
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guangyun02
+  rotate: false
+  xy: 1284, 258
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guangyun037
+  rotate: false
+  xy: 1027, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guangyun07
+  rotate: false
+  xy: 1541, 258
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+huan1
+  rotate: false
+  xy: 1, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+huan2
+  rotate: false
+  xy: 1284, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+huan3
+  rotate: false
+  xy: 514, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1

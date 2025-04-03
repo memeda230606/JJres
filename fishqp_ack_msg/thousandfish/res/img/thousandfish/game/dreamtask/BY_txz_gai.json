@@ -1,0 +1,111 @@
+{
+"skeleton": { "hash": "SPDXpmy3G+W5BErT+rQcj49iPg8", "spine": "3.7.94", "width": 379.78, "height": 89.25, "images": "", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "chengzhangkuang", "parent": "root" },
+	{ "name": "kuang_saoguang", "parent": "root", "scaleX": 1.899, "scaleY": 1.899, "color": "ff0000ff" },
+	{ "name": "kuang_saoguang2", "parent": "root", "scaleX": 1.899, "scaleY": 1.899, "color": "ff0000ff" }
+],
+"slots": [
+	{ "name": "右侧成长底", "bone": "chengzhangkuang" },
+	{ "name": "kuang_saoguang", "bone": "kuang_saoguang", "attachment": "kuang_saoguang/saoguang_0016", "blend": "additive" },
+	{ "name": "kuang_saoguang2", "bone": "kuang_saoguang2", "attachment": "kuang_saoguang/saoguang_0016", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"kuang_saoguang": {
+			"kuang_saoguang/saoguang_0000": { "y": 0.26, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0001": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0002": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0003": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0004": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0005": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0006": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0007": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0008": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0009": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0010": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0011": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0012": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0013": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0014": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0015": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0016": { "y": 0.26, "width": 200, "height": 47 }
+		},
+		"kuang_saoguang2": {
+			"kuang_saoguang/saoguang_0000": { "y": 0.26, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0001": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0002": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0003": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0004": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0005": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0006": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0007": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0008": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0009": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0010": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0011": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0012": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0013": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0014": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0015": { "y": 0.5, "width": 200, "height": 47 },
+			"kuang_saoguang/saoguang_0016": { "y": 0.26, "width": 200, "height": 47 }
+		}
+	}
+},
+"animations": {
+	"chengzhang": {
+		"slots": {
+			"kuang_saoguang": {
+				"attachment": [
+					{ "time": 0, "name": "kuang_saoguang/saoguang_0000" },
+					{ "time": 0.0667, "name": "kuang_saoguang/saoguang_0001" },
+					{ "time": 0.1333, "name": "kuang_saoguang/saoguang_0002" },
+					{ "time": 0.2, "name": "kuang_saoguang/saoguang_0003" },
+					{ "time": 0.2667, "name": "kuang_saoguang/saoguang_0004" },
+					{ "time": 0.3333, "name": "kuang_saoguang/saoguang_0005" },
+					{ "time": 0.4, "name": "kuang_saoguang/saoguang_0006" },
+					{ "time": 0.4667, "name": "kuang_saoguang/saoguang_0007" },
+					{ "time": 0.5333, "name": "kuang_saoguang/saoguang_0008" },
+					{ "time": 0.6, "name": "kuang_saoguang/saoguang_0009" },
+					{ "time": 0.6667, "name": "kuang_saoguang/saoguang_0010" },
+					{ "time": 0.7333, "name": "kuang_saoguang/saoguang_0011" },
+					{ "time": 0.8, "name": "kuang_saoguang/saoguang_0012" },
+					{ "time": 0.8667, "name": "kuang_saoguang/saoguang_0013" },
+					{ "time": 0.9333, "name": "kuang_saoguang/saoguang_0014" },
+					{ "time": 1, "name": "kuang_saoguang/saoguang_0015" },
+					{ "time": 1.0667, "name": "kuang_saoguang/saoguang_0016" }
+				]
+			},
+			"kuang_saoguang2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0667, "color": "ffffff8b", "curve": "stepped" },
+					{ "time": 1, "color": "ffffff8b" },
+					{ "time": 1.0667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "kuang_saoguang/saoguang_0000" },
+					{ "time": 0.0667, "name": "kuang_saoguang/saoguang_0001" },
+					{ "time": 0.1333, "name": "kuang_saoguang/saoguang_0002" },
+					{ "time": 0.2, "name": "kuang_saoguang/saoguang_0003" },
+					{ "time": 0.2667, "name": "kuang_saoguang/saoguang_0004" },
+					{ "time": 0.3333, "name": "kuang_saoguang/saoguang_0005" },
+					{ "time": 0.4, "name": "kuang_saoguang/saoguang_0006" },
+					{ "time": 0.4667, "name": "kuang_saoguang/saoguang_0007" },
+					{ "time": 0.5333, "name": "kuang_saoguang/saoguang_0008" },
+					{ "time": 0.6, "name": "kuang_saoguang/saoguang_0009" },
+					{ "time": 0.6667, "name": "kuang_saoguang/saoguang_0010" },
+					{ "time": 0.7333, "name": "kuang_saoguang/saoguang_0011" },
+					{ "time": 0.8, "name": "kuang_saoguang/saoguang_0012" },
+					{ "time": 0.8667, "name": "kuang_saoguang/saoguang_0013" },
+					{ "time": 0.9333, "name": "kuang_saoguang/saoguang_0014" },
+					{ "time": 1, "name": "kuang_saoguang/saoguang_0015" },
+					{ "time": 1.0667, "name": "kuang_saoguang/saoguang_0016" },
+					{ "time": 1.5, "name": "kuang_saoguang/saoguang_0016" }
+				]
+			}
+		}
+	}
+}
+}

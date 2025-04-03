@@ -1,0 +1,223 @@
+
+xuanwo_fashetai_qiu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heidi
+  rotate: false
+  xy: 2, 402
+  size: 92, 92
+  orig: 280, 250
+  offset: 95, 34
+  index: -1
+xiaoxuanwo_00
+  rotate: true
+  xy: 2, 302
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_01
+  rotate: false
+  xy: 96, 408
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_02
+  rotate: true
+  xy: 2, 202
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_03
+  rotate: false
+  xy: 196, 408
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_04
+  rotate: true
+  xy: 2, 102
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_05
+  rotate: false
+  xy: 296, 408
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_06
+  rotate: true
+  xy: 2, 2
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_07
+  rotate: false
+  xy: 396, 408
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_08
+  rotate: false
+  xy: 496, 408
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_09
+  rotate: false
+  xy: 596, 408
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_10
+  rotate: false
+  xy: 696, 408
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_11
+  rotate: false
+  xy: 796, 408
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_12
+  rotate: false
+  xy: 896, 408
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_13
+  rotate: true
+  xy: 90, 302
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_14
+  rotate: true
+  xy: 90, 202
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_15
+  rotate: true
+  xy: 90, 102
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_16
+  rotate: true
+  xy: 90, 2
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_17
+  rotate: false
+  xy: 178, 320
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_18
+  rotate: false
+  xy: 178, 232
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_19
+  rotate: false
+  xy: 278, 320
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_20
+  rotate: false
+  xy: 178, 144
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_21
+  rotate: false
+  xy: 278, 232
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_22
+  rotate: false
+  xy: 378, 320
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_23
+  rotate: false
+  xy: 178, 56
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_24
+  rotate: false
+  xy: 278, 144
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_25
+  rotate: false
+  xy: 378, 232
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_26
+  rotate: false
+  xy: 478, 320
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_27
+  rotate: false
+  xy: 278, 56
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_28
+  rotate: false
+  xy: 378, 144
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1
+xiaoxuanwo_29
+  rotate: false
+  xy: 478, 232
+  size: 98, 86
+  orig: 280, 250
+  offset: 92, 43
+  index: -1

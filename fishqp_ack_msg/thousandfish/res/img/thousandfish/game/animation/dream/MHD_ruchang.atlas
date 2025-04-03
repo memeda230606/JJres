@@ -1,0 +1,265 @@
+
+MHD_ruchang.png
+size: 1796,1788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow
+  rotate: false
+  xy: 1138, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+images/ks_00002
+  rotate: false
+  xy: 304, 1504
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00004
+  rotate: false
+  xy: 606, 1504
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00006
+  rotate: false
+  xy: 908, 1504
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00008
+  rotate: false
+  xy: 1210, 1504
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00010
+  rotate: true
+  xy: 1512, 1486
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00012
+  rotate: false
+  xy: 2, 1220
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00014
+  rotate: false
+  xy: 304, 1220
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00016
+  rotate: false
+  xy: 606, 1220
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00018
+  rotate: false
+  xy: 908, 1220
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00020
+  rotate: false
+  xy: 1210, 1220
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00022
+  rotate: true
+  xy: 1512, 1184
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00024
+  rotate: true
+  xy: 2, 918
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00026
+  rotate: false
+  xy: 286, 936
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00028
+  rotate: false
+  xy: 588, 936
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00030
+  rotate: false
+  xy: 890, 936
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00032
+  rotate: false
+  xy: 1192, 936
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00034
+  rotate: false
+  xy: 1494, 900
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00036
+  rotate: true
+  xy: 286, 634
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00038
+  rotate: true
+  xy: 2, 616
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00040
+  rotate: false
+  xy: 570, 652
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00042
+  rotate: false
+  xy: 872, 652
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00044
+  rotate: false
+  xy: 1174, 652
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00046
+  rotate: false
+  xy: 1476, 616
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00048
+  rotate: true
+  xy: 570, 350
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00050
+  rotate: true
+  xy: 286, 332
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00052
+  rotate: true
+  xy: 2, 314
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00054
+  rotate: false
+  xy: 854, 368
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00056
+  rotate: false
+  xy: 1156, 368
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00058
+  rotate: false
+  xy: 1458, 332
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00060
+  rotate: true
+  xy: 854, 66
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00062
+  rotate: true
+  xy: 570, 48
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00064
+  rotate: true
+  xy: 286, 30
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00066
+  rotate: true
+  xy: 2, 12
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00068
+  rotate: false
+  xy: 1138, 84
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00070
+  rotate: true
+  xy: 1440, 30
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+images/ks_00072
+  rotate: false
+  xy: 2, 1504
+  size: 300, 282
+  orig: 300, 282
+  offset: 0, 0
+  index: -1

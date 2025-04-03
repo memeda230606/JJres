@@ -1,0 +1,27 @@
+
+DJ.png
+size: 502,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pao
+  rotate: false
+  xy: 373, 105
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 1, 1
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+yu01
+  rotate: true
+  xy: 234, 42
+  size: 191, 138
+  orig: 191, 138
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+{
+"skeleton": { "hash": "ty4XmA3eqNai/vtsOCYK1jGZ0wE", "spine": "3.7.42-beta", "width": 797.46, "height": 442.65, "images": "./设置弹板/", "audio": "F:/捕鱼/2018/千炮捕鱼/10月/游戏内设置/设置弹板" },
+"bones": [
+	{ "name": "root", "x": -0.42, "y": 0.19 },
+	{ "name": "bg_diban", "parent": "root", "x": 382.06, "y": -158.28 },
+	{ "name": "bg_chilun", "parent": "bg_diban", "x": -169.19, "y": 211.38 },
+	{ "name": "bg_chilun1", "parent": "bg_diban", "x": -199.6, "y": 202.19 },
+	{ "name": "bg_daodan", "parent": "bg_diban", "x": 0.09, "y": 184.31 },
+	{ "name": "bg_daodan1", "parent": "bg_diban", "x": 97.56, "y": 196.85 },
+	{ "name": "txt_shezhi", "parent": "bg_diban", "x": -291.55, "y": 200.18 },
+	{ "name": "shezhiliangguang", "parent": "txt_shezhi", "x": -1.87, "y": 0.28 }
+],
+"slots": [
+	{ "name": "shezhiliangguang", "bone": "shezhiliangguang", "blend": "additive" },
+	{ "name": "bg_diban2", "bone": "bg_diban" },
+	{ "name": "bg_yuanhua", "bone": "bg_diban" },
+	{ "name": "bg_daodan", "bone": "bg_daodan", "attachment": "bg_daodan" },
+	{ "name": "bg_daodan1", "bone": "bg_daodan1", "attachment": "bg_daodan1" },
+	{ "name": "bg_diban1", "bone": "bg_diban" },
+	{ "name": "txt_shezhi", "bone": "txt_shezhi", "attachment": "txt_shezhi" },
+	{ "name": "bg_chilun", "bone": "bg_chilun", "attachment": "bg_chilun" },
+	{ "name": "bg_chilun1", "bone": "bg_chilun1", "attachment": "bg_chilun1" },
+	{ "name": "guangzhezhao", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"bg_chilun": {
+			"bg_chilun": { "x": 0.57, "y": -0.45, "width": 28, "height": 28 }
+		},
+		"bg_chilun1": {
+			"bg_chilun1": { "x": 0.13, "y": -0.17, "width": 39, "height": 39 }
+		},
+		"bg_daodan": {
+			"bg_daodan": { "x": 16.67, "y": 5.57, "width": 151, "height": 61 }
+		},
+		"bg_daodan1": {
+			"bg_daodan1": { "x": 7.11, "y": 1.7, "width": 79, "height": 40 }
+		},
+		"txt_shezhi": {
+			"txt_shezhi": { "x": 10.3, "y": 0.29, "width": 202, "height": 87 }
+		}
+	}
+},
+"animations": {
+	"shezhitanban_changtai": {
+		"slots": {
+			"shezhiliangguang": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffff7b" },
+					{ "time": 4, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"bg_chilun1": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 4, "angle": 87.6 }
+				]
+			},
+			"bg_chilun": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 4, "angle": -87.6 }
+				]
+			},
+			"bg_daodan": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0, "y": 3.86 },
+					{ "time": 2, "x": 0, "y": 0 },
+					{ "time": 3, "x": 0, "y": 3.86 },
+					{ "time": 4, "x": 0, "y": 0 }
+				]
+			},
+			"bg_daodan1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1, "x": 0, "y": -2.9 },
+					{ "time": 2, "x": 0, "y": 0 },
+					{ "time": 3, "x": 0, "y": -2.9 },
+					{ "time": 4, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

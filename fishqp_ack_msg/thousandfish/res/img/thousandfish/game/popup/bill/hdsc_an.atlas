@@ -1,0 +1,111 @@
+
+hdsc_an.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jz/jz_00
+  rotate: false
+  xy: 2, 402
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+jz/jz_01
+  rotate: false
+  xy: 2, 322
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+jz/jz_02
+  rotate: false
+  xy: 129, 402
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+jz/jz_03
+  rotate: false
+  xy: 2, 242
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+jz/jz_04
+  rotate: false
+  xy: 129, 322
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+jz/jz_05
+  rotate: false
+  xy: 256, 402
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+jz/jz_06
+  rotate: false
+  xy: 2, 162
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+jz/jz_07
+  rotate: false
+  xy: 129, 242
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+jz/jz_08
+  rotate: false
+  xy: 256, 322
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+jz/jz_09
+  rotate: false
+  xy: 383, 402
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+jz/jz_10
+  rotate: false
+  xy: 2, 82
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+jz/jz_11
+  rotate: false
+  xy: 129, 162
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+jz/jz_12
+  rotate: false
+  xy: 256, 242
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+jz/jz_13
+  rotate: false
+  xy: 383, 322
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1
+jz/jz_14
+  rotate: false
+  xy: 2, 2
+  size: 125, 78
+  orig: 125, 78
+  offset: 0, 0
+  index: -1

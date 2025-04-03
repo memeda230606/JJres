@@ -1,0 +1,27 @@
+
+guangquan.png
+size: 418,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun
+  rotate: false
+  xy: 289, 16
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+halo_circle_big
+  rotate: false
+  xy: 1, 1
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+halo_circle_small
+  rotate: false
+  xy: 145, 1
+  size: 143, 143
+  orig: 143, 143
+  offset: 0, 0
+  index: -1

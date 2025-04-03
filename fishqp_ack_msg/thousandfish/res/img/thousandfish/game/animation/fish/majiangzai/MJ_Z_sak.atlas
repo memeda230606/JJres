@@ -1,0 +1,354 @@
+
+MJ_Z_sak.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_BG_X
+  rotate: false
+  xy: 1, 575
+  size: 240, 120
+  orig: 240, 120
+  offset: 0, 0
+  index: -1
+Glow_BG_blue
+  rotate: true
+  xy: 256, 7
+  size: 228, 180
+  orig: 228, 180
+  offset: 0, 0
+  index: -1
+QiLin_Body
+  rotate: true
+  xy: 256, 236
+  size: 459, 336
+  orig: 459, 336
+  offset: 0, 0
+  index: -1
+QiLin_Foot
+  rotate: true
+  xy: 857, 130
+  size: 117, 165
+  orig: 117, 165
+  offset: 0, 0
+  index: -1
+QiLin_Foot1
+  rotate: false
+  xy: 593, 7
+  size: 263, 240
+  orig: 263, 240
+  offset: 0, 0
+  index: -1
+QiLin_Foot3
+  rotate: true
+  xy: 437, 127
+  size: 108, 154
+  orig: 108, 154
+  offset: 0, 0
+  index: -1
+QiLin_Head
+  rotate: false
+  xy: 593, 248
+  size: 422, 254
+  orig: 422, 254
+  offset: 0, 0
+  index: -1
+QiLin_Head1
+  rotate: false
+  xy: 594, 725
+  size: 275, 84
+  orig: 275, 84
+  offset: 0, 0
+  index: -1
+QiLin_Head2
+  rotate: false
+  xy: 437, 29
+  size: 131, 97
+  orig: 131, 97
+  offset: 0, 0
+  index: -1
+Stone_L
+  rotate: false
+  xy: 986, 80
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+bg_xingkong_L1
+  rotate: false
+  xy: 604, 810
+  size: 376, 213
+  orig: 376, 213
+  offset: 0, 0
+  index: -1
+bg_xingkong_Middle
+  rotate: true
+  xy: 1, 2
+  size: 500, 254
+  orig: 500, 254
+  offset: 0, 0
+  index: -1
+glow_li
+  rotate: false
+  xy: 857, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow_taizi1
+  rotate: false
+  xy: 594, 503
+  size: 429, 212
+  orig: 429, 212
+  offset: 0, 0
+  index: -1
+lizi_yellow
+  rotate: false
+  xy: 1, 510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+stone_small
+  rotate: false
+  xy: 242, 681
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+tex_hei
+  rotate: false
+  xy: 66, 510
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+xiangyun1
+  rotate: true
+  xy: 981, 716
+  size: 307, 37
+  orig: 307, 37
+  offset: 0, 0
+  index: -1
+xiangyunL
+  rotate: false
+  xy: 1, 696
+  size: 592, 188
+  orig: 592, 188
+  offset: 0, 0
+  index: -1
+xiangyunR
+  rotate: false
+  xy: 1, 885
+  size: 602, 138
+  orig: 602, 138
+  offset: 0, 0
+  index: -1
+
+MJ_Z_sak2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_BG_pouple
+  rotate: false
+  xy: 1, 519
+  size: 372, 237
+  orig: 372, 237
+  offset: 0, 0
+  index: -1
+QiLin_Foot2
+  rotate: false
+  xy: 1, 258
+  size: 260, 260
+  orig: 260, 260
+  offset: 0, 0
+  index: -1
+Taizi
+  rotate: true
+  xy: 588, 528
+  size: 472, 273
+  orig: 472, 273
+  offset: 0, 0
+  index: -1
+Taizi_glow_luo
+  rotate: false
+  xy: 586, 227
+  size: 236, 300
+  orig: 236, 300
+  offset: 0, 0
+  index: -1
+ZI_SAK
+  rotate: false
+  xy: 1, 757
+  size: 586, 243
+  orig: 586, 243
+  offset: 0, 0
+  index: -1
+bg_xingkong_R1
+  rotate: true
+  xy: 374, 391
+  size: 365, 211
+  orig: 365, 211
+  offset: 0, 0
+  index: -1
+dilie1s
+  rotate: false
+  xy: 262, 134
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_q_midd
+  rotate: true
+  xy: 862, 737
+  size: 263, 161
+  orig: 263, 161
+  offset: 0, 0
+  index: -1
+stone_R
+  rotate: false
+  xy: 823, 329
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+tex_c2
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+wb_smoke_1
+  rotate: true
+  xy: 862, 480
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_01
+  rotate: false
+  xy: 823, 200
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_02
+  rotate: false
+  xy: 519, 98
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_03
+  rotate: false
+  xy: 258, 5
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_04
+  rotate: false
+  xy: 387, 5
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_05
+  rotate: false
+  xy: 648, 98
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_06
+  rotate: false
+  xy: 777, 71
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+
+MJ_Z_sak3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tex_ray_kuo1
+  rotate: false
+  xy: 1, 130
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_07
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_08
+  rotate: false
+  xy: 258, 258
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_09
+  rotate: false
+  xy: 387, 258
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_10
+  rotate: false
+  xy: 516, 258
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_11
+  rotate: false
+  xy: 645, 258
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_12
+  rotate: false
+  xy: 774, 258
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_13
+  rotate: false
+  xy: 130, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_14
+  rotate: false
+  xy: 259, 129
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_15
+  rotate: false
+  xy: 388, 129
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xulie1/images/fire1_16
+  rotate: false
+  xy: 517, 129
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+qp_tehuilibao.png
+size: 198,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light3
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bg_jinbi
+  rotate: false
+  xy: 132, 32
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+bg_jinbi1
+  rotate: false
+  xy: 132, 7
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+bg_libao
+  rotate: false
+  xy: 132, 61
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1

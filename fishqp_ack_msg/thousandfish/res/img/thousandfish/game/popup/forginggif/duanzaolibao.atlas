@@ -1,0 +1,243 @@
+
+duanzaolibao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z1
+  rotate: false
+  xy: 957, 460
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+z10
+  rotate: false
+  xy: 439, 17
+  size: 278, 264
+  orig: 278, 264
+  offset: 0, 0
+  index: -1
+z11
+  rotate: true
+  xy: 740, 66
+  size: 307, 96
+  orig: 307, 96
+  offset: 0, 0
+  index: -1
+z12
+  rotate: true
+  xy: 957, 835
+  size: 188, 66
+  orig: 188, 66
+  offset: 0, 0
+  index: -1
+z14
+  rotate: false
+  xy: 955, 20
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+z15
+  rotate: false
+  xy: 955, 48
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+z16
+  rotate: false
+  xy: 957, 408
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+z17
+  rotate: false
+  xy: 957, 561
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+z18
+  rotate: false
+  xy: 957, 772
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+z19
+  rotate: false
+  xy: 957, 613
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 957, 510
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+z21
+  rotate: false
+  xy: 439, 283
+  size: 299, 273
+  orig: 299, 273
+  offset: 0, 0
+  index: -1
+z22
+  rotate: false
+  xy: 839, 306
+  size: 184, 85
+  orig: 184, 85
+  offset: 0, 0
+  index: -1
+z24
+  rotate: true
+  xy: 839, 393
+  size: 630, 116
+  orig: 630, 116
+  offset: 0, 0
+  index: -1
+z26
+  rotate: false
+  xy: 1, 558
+  size: 836, 465
+  orig: 836, 465
+  offset: 0, 0
+  index: -1
+z27
+  rotate: false
+  xy: 838, 92
+  size: 115, 90
+  orig: 115, 90
+  offset: 0, 0
+  index: -1
+z28
+  rotate: true
+  xy: 957, 680
+  size: 90, 46
+  orig: 90, 46
+  offset: 0, 0
+  index: -1
+z29
+  rotate: true
+  xy: 276, 9
+  size: 106, 116
+  orig: 106, 116
+  offset: 0, 0
+  index: -1
+z3
+  rotate: true
+  xy: 987, 239
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+z30
+  rotate: true
+  xy: 838, 9
+  size: 81, 115
+  orig: 81, 115
+  offset: 0, 0
+  index: -1
+z31
+  rotate: false
+  xy: 955, 101
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+z32
+  rotate: false
+  xy: 719, 17
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+z4
+  rotate: true
+  xy: 394, 68
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+z5
+  rotate: true
+  xy: 987, 190
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+z6
+  rotate: false
+  xy: 838, 184
+  size: 147, 120
+  orig: 147, 120
+  offset: 0, 0
+  index: -1
+z7
+  rotate: true
+  xy: 740, 375
+  size: 181, 97
+  orig: 181, 97
+  offset: 0, 0
+  index: -1
+z8
+  rotate: false
+  xy: 1, 117
+  size: 436, 439
+  orig: 436, 439
+  offset: 0, 0
+  index: -1
+z9
+  rotate: false
+  xy: 1, 1
+  size: 273, 114
+  orig: 273, 114
+  offset: 0, 0
+  index: -1
+
+duanzaolibao2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z13
+  rotate: false
+  xy: 1, 172
+  size: 349, 137
+  orig: 349, 137
+  offset: 0, 0
+  index: -1
+z20
+  rotate: true
+  xy: 678, 403
+  size: 100, 327
+  orig: 100, 327
+  offset: 0, 0
+  index: -1
+z23
+  rotate: false
+  xy: 1, 77
+  size: 373, 93
+  orig: 373, 93
+  offset: 0, 0
+  index: -1
+z25
+  rotate: false
+  xy: 1, 311
+  size: 675, 192
+  orig: 675, 192
+  offset: 0, 0
+  index: -1
+z33
+  rotate: true
+  xy: 1, 1
+  size: 74, 85
+  orig: 74, 85
+  offset: 0, 0
+  index: -1

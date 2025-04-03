@@ -1,0 +1,76 @@
+
+zhangyu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ky
+  rotate: false
+  xy: 140, 26
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+yy1
+  rotate: false
+  xy: 140, 61
+  size: 100, 44
+  orig: 100, 44
+  offset: 0, 0
+  index: -1
+yy2
+  rotate: false
+  xy: 446, 163
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+yy3
+  rotate: false
+  xy: 242, 61
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+yy4
+  rotate: false
+  xy: 352, 109
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+yy5
+  rotate: false
+  xy: 446, 193
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+yy6
+  rotate: false
+  xy: 352, 141
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+yy7
+  rotate: false
+  xy: 180, 107
+  size: 170, 131
+  orig: 170, 131
+  offset: 0, 0
+  index: -1
+yy8
+  rotate: false
+  xy: 1, 1
+  size: 137, 104
+  orig: 137, 104
+  offset: 0, 0
+  index: -1
+yy9
+  rotate: false
+  xy: 1, 107
+  size: 177, 131
+  orig: 177, 132
+  offset: 0, 1
+  index: -1

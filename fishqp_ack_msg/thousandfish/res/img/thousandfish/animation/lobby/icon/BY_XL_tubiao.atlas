@@ -1,0 +1,90 @@
+
+BY_XL_tubiao.png
+size: 933,362
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B01
+  rotate: false
+  xy: 260, 181
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+B02
+  rotate: false
+  xy: 439, 181
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+B03
+  rotate: false
+  xy: 618, 181
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+B04
+  rotate: true
+  xy: 260, 2
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+B05
+  rotate: true
+  xy: 441, 2
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+B06
+  rotate: true
+  xy: 622, 2
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+BingaQiu
+  rotate: false
+  xy: 797, 232
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Ddz_XingXing_002
+  rotate: false
+  xy: 79, 38
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Star_01
+  rotate: false
+  xy: 2, 104
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TuBIao
+  rotate: false
+  xy: 2, 32
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+TuBIao_G
+  rotate: false
+  xy: 803, 30
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+XH
+  rotate: false
+  xy: 803, 102
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

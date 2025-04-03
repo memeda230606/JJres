@@ -1,0 +1,174 @@
+
+xinshoulibao_shang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_lijigoumai
+  rotate: false
+  xy: 2, 163
+  size: 199, 91
+  orig: 199, 91
+  offset: 0, 0
+  index: -1
+lijigoumai_zi01
+  rotate: true
+  xy: 2, 2
+  size: 16, 12
+  orig: 162, 61
+  offset: 19, 37
+  index: -1
+lijigoumai_zi02
+  rotate: false
+  xy: 337, 120
+  size: 33, 35
+  orig: 162, 61
+  offset: 17, 19
+  index: -1
+lijigoumai_zi03
+  rotate: false
+  xy: 93, 19
+  size: 56, 43
+  orig: 162, 61
+  offset: 14, 11
+  index: -1
+lijigoumai_zi04
+  rotate: false
+  xy: 113, 114
+  size: 72, 47
+  orig: 162, 61
+  offset: 14, 7
+  index: -1
+lijigoumai_zi05
+  rotate: false
+  xy: 307, 208
+  size: 89, 46
+  orig: 162, 61
+  offset: 14, 7
+  index: -1
+lijigoumai_zi06
+  rotate: false
+  xy: 203, 208
+  size: 102, 46
+  orig: 162, 61
+  offset: 18, 7
+  index: -1
+lijigoumai_zi07
+  rotate: false
+  xy: 2, 115
+  size: 109, 46
+  orig: 162, 61
+  offset: 27, 7
+  index: -1
+lijigoumai_zi08
+  rotate: false
+  xy: 2, 68
+  size: 103, 45
+  orig: 162, 61
+  offset: 43, 8
+  index: -1
+lijigoumai_zi09
+  rotate: false
+  xy: 2, 20
+  size: 89, 46
+  orig: 162, 61
+  offset: 61, 7
+  index: -1
+lijigoumai_zi10
+  rotate: false
+  xy: 398, 208
+  size: 71, 46
+  orig: 162, 61
+  offset: 79, 7
+  index: -1
+lijigoumai_zi11
+  rotate: false
+  xy: 167, 62
+  size: 55, 43
+  orig: 162, 61
+  offset: 95, 7
+  index: -1
+lijigoumai_zi12
+  rotate: false
+  xy: 471, 218
+  size: 39, 36
+  orig: 162, 61
+  offset: 111, 7
+  index: -1
+lijigoumai_zi13
+  rotate: false
+  xy: 224, 85
+  size: 18, 20
+  orig: 162, 61
+  offset: 128, 8
+  index: -1
+xiao_icon_lizi_00
+  rotate: true
+  xy: 245, 105
+  size: 48, 41
+  orig: 118, 107
+  offset: 43, 26
+  index: -1
+xiao_icon_lizi_01
+  rotate: false
+  xy: 445, 153
+  size: 50, 53
+  orig: 118, 107
+  offset: 42, 27
+  index: -1
+xiao_icon_lizi_02
+  rotate: true
+  xy: 386, 155
+  size: 51, 57
+  orig: 118, 107
+  offset: 41, 26
+  index: -1
+xiao_icon_lizi_03
+  rotate: true
+  xy: 203, 155
+  size: 51, 59
+  orig: 118, 107
+  offset: 41, 25
+  index: -1
+xiao_icon_lizi_04
+  rotate: true
+  xy: 264, 156
+  size: 50, 59
+  orig: 118, 107
+  offset: 41, 25
+  index: -1
+xiao_icon_lizi_05
+  rotate: true
+  xy: 325, 157
+  size: 49, 59
+  orig: 118, 107
+  offset: 41, 25
+  index: -1
+xiao_icon_lizi_06
+  rotate: true
+  xy: 107, 64
+  size: 48, 58
+  orig: 118, 107
+  offset: 41, 25
+  index: -1
+xiao_icon_lizi_07
+  rotate: true
+  xy: 187, 107
+  size: 46, 56
+  orig: 118, 107
+  offset: 42, 25
+  index: -1
+xiao_icon_lizi_08
+  rotate: true
+  xy: 151, 14
+  size: 46, 54
+  orig: 118, 107
+  offset: 42, 26
+  index: -1
+xiao_icon_lizi_09
+  rotate: false
+  xy: 288, 103
+  size: 47, 51
+  orig: 118, 107
+  offset: 42, 26
+  index: -1

@@ -1,0 +1,62 @@
+
+qp_tb_hd_zqyb.png
+size: 390,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dikuang
+  rotate: false
+  xy: 223, 60
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+glow_06
+  rotate: false
+  xy: 295, 69
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+halo_cl_uv_01
+  rotate: false
+  xy: 1, 5
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 360, 12
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+star_05
+  rotate: false
+  xy: 295, 4
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+zqyb_shayu
+  rotate: false
+  xy: 130, 56
+  size: 92, 77
+  orig: 92, 77
+  offset: 0, 0
+  index: -1
+zqyb_wenzi
+  rotate: true
+  xy: 360, 42
+  size: 91, 25
+  orig: 91, 25
+  offset: 0, 0
+  index: -1
+zqyb_yuebing
+  rotate: false
+  xy: 130, 1
+  size: 99, 54
+  orig: 99, 54
+  offset: 0, 0
+  index: -1

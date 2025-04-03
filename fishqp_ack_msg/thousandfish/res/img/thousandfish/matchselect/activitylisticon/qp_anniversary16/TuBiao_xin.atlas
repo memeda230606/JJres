@@ -1,0 +1,118 @@
+
+TuBiao_xin.png
+size: 399,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jd/libao
+  rotate: false
+  xy: 323, 35
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+qp/libao
+  rotate: false
+  xy: 323, 35
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+jd/libaobeijing
+  rotate: false
+  xy: 234, 189
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+jd/shu
+  rotate: true
+  xy: 231, 6
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+qp/shu
+  rotate: true
+  xy: 231, 6
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+qp/beijing
+  rotate: true
+  xy: 321, 194
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1, 45
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+xin/16zhoun
+  rotate: false
+  xy: 234, 78
+  size: 88, 26
+  orig: 88, 26
+  offset: 0, 0
+  index: -1
+xin/bao1
+  rotate: false
+  xy: 1, 1
+  size: 100, 43
+  orig: 100, 43
+  offset: 0, 0
+  index: -1
+xin/bao2
+  rotate: false
+  xy: 102, 5
+  size: 98, 39
+  orig: 98, 39
+  offset: 0, 0
+  index: -1
+xin/dangao
+  rotate: false
+  xy: 234, 105
+  size: 86, 83
+  orig: 86, 83
+  offset: 0, 0
+  index: -1
+xin/di
+  rotate: false
+  xy: 321, 122
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+xin/qiqiu1
+  rotate: false
+  xy: 201, 5
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+xin/qiqiu2
+  rotate: false
+  xy: 280, 16
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+xin/ziying
+  rotate: false
+  xy: 234, 43
+  size: 71, 34
+  orig: 71, 34
+  offset: 0, 0
+  index: -1
+xin/zuanshi
+  rotate: false
+  xy: 323, 81
+  size: 69, 40
+  orig: 69, 40
+  offset: 0, 0
+  index: -1

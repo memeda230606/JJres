@@ -1,0 +1,69 @@
+
+ddg_tb_dream.png
+size: 286,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diudiu/qp_bg_diban
+  rotate: true
+  xy: 2, 672
+  size: 317, 147
+  orig: 317, 147
+  offset: 0, 0
+  index: -1
+diudiu/qp_bg_jiao1
+  rotate: true
+  xy: 2, 353
+  size: 317, 147
+  orig: 317, 147
+  offset: 0, 0
+  index: -1
+diudiu/qp_bg_jiao2
+  rotate: true
+  xy: 2, 34
+  size: 317, 147
+  orig: 317, 147
+  offset: 0, 0
+  index: -1
+diudiu/qp_light_blue
+  rotate: true
+  xy: 151, 678
+  size: 311, 133
+  orig: 311, 133
+  offset: 0, 0
+  index: -1
+diudiu/qp_light_empty
+  rotate: true
+  xy: 151, 365
+  size: 311, 133
+  orig: 311, 133
+  offset: 0, 0
+  index: -1
+diudiu/qp_light_yellow
+  rotate: true
+  xy: 151, 52
+  size: 311, 133
+  orig: 311, 133
+  offset: 0, 0
+  index: -1
+diudiu/qp_shipin_chibang
+  rotate: false
+  xy: 151, 9
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1
+diudiu/qp_shipin_huangguan
+  rotate: false
+  xy: 2, 2
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+diudiu/qp_shipin_jinbi
+  rotate: false
+  xy: 2, 991
+  size: 258, 38
+  orig: 258, 38
+  offset: 0, 0
+  index: -1

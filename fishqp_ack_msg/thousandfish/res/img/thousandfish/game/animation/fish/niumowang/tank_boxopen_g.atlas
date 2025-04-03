@@ -1,0 +1,55 @@
+
+tank_boxopen_g.png
+size: 820,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+halo_cl_uv_01
+  rotate: false
+  xy: 496, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lightball
+  rotate: false
+  xy: 269, 74
+  size: 226, 223
+  orig: 226, 223
+  offset: 0, 0
+  index: -1
+rainbowball
+  rotate: false
+  xy: 1, 24
+  size: 267, 273
+  orig: 267, 273
+  offset: 0, 0
+  index: -1
+ststtt
+  rotate: false
+  xy: 754, 66
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+toplight_b
+  rotate: false
+  xy: 496, 130
+  size: 161, 167
+  orig: 161, 167
+  offset: 0, 0
+  index: -1
+toplight_g
+  rotate: false
+  xy: 658, 130
+  size: 161, 167
+  orig: 161, 167
+  offset: 0, 0
+  index: -1
+xuanzhuan02
+  rotate: false
+  xy: 625, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

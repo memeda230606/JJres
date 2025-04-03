@@ -1,0 +1,125 @@
+
+hongbao_zhuanpan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 719
+  size: 292, 294
+  orig: 300, 300
+  offset: 4, 2
+  index: -1
+2
+  rotate: false
+  xy: 2, 458
+  size: 263, 259
+  orig: 300, 300
+  offset: 20, 16
+  index: -1
+3
+  rotate: false
+  xy: 552, 763
+  size: 254, 250
+  orig: 256, 256
+  offset: 1, 6
+  index: -1
+333333
+  rotate: false
+  xy: 486, 124
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+3333335
+  rotate: false
+  xy: 616, 146
+  size: 115, 116
+  orig: 128, 128
+  offset: 6, 7
+  index: -1
+lizi_00
+  rotate: false
+  xy: 267, 74
+  size: 217, 178
+  orig: 350, 350
+  offset: 55, 76
+  index: -1
+lizi_01
+  rotate: true
+  xy: 296, 509
+  size: 243, 255
+  orig: 350, 350
+  offset: 49, 53
+  index: -1
+lizi_02
+  rotate: false
+  xy: 296, 754
+  size: 254, 259
+  orig: 350, 350
+  offset: 46, 51
+  index: -1
+lizi_03
+  rotate: false
+  xy: 2, 211
+  size: 261, 245
+  orig: 350, 350
+  offset: 46, 67
+  index: -1
+lizi_04
+  rotate: false
+  xy: 267, 306
+  size: 263, 201
+  orig: 350, 350
+  offset: 46, 70
+  index: -1
+lizi_05
+  rotate: true
+  xy: 808, 759
+  size: 254, 203
+  orig: 350, 350
+  offset: 58, 71
+  index: -1
+lizi_06
+  rotate: false
+  xy: 2, 2
+  size: 263, 207
+  orig: 350, 350
+  offset: 50, 70
+  index: -1
+lizi_07
+  rotate: true
+  xy: 782, 485
+  size: 272, 217
+  orig: 350, 350
+  offset: 43, 65
+  index: -1
+lizi_08
+  rotate: true
+  xy: 553, 497
+  size: 264, 227
+  orig: 350, 350
+  offset: 38, 58
+  index: -1
+lizi_09
+  rotate: false
+  xy: 532, 264
+  size: 234, 231
+  orig: 350, 350
+  offset: 35, 54
+  index: -1
+tga_xphuoyan2
+  rotate: false
+  xy: 768, 272
+  size: 215, 211
+  orig: 256, 256
+  offset: 25, 20
+  index: -1
+图层 1316 拷贝 3
+  rotate: false
+  xy: 265, 254
+  size: 261, 50
+  orig: 261, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+qp_huodongfuli.png
+size: 197,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light3
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bg_hdfl
+  rotate: true
+  xy: 132, 50
+  size: 80, 63
+  orig: 80, 63
+  offset: 0, 0
+  index: -1

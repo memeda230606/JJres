@@ -1,0 +1,202 @@
+
+BY_STL_tanchuang.png
+size: 1436,1045
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ddz_CircledStar
+  rotate: false
+  xy: 1042, 145
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+G
+  rotate: false
+  xy: 1, 1
+  size: 230, 245
+  orig: 230, 245
+  offset: 0, 0
+  index: -1
+Xin/Huo_01
+  rotate: false
+  xy: 737, 6
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Xin/Huo_02
+  rotate: false
+  xy: 819, 6
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Xin/Huo_03
+  rotate: true
+  xy: 1042, 63
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Xin/Huo_04
+  rotate: true
+  xy: 1132, 63
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Xin/Huo_05
+  rotate: false
+  xy: 1222, 55
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Xin/Huo_06
+  rotate: false
+  xy: 1304, 83
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Xin/Huo_07
+  rotate: true
+  xy: 1304, 1
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Xin/LZ_01
+  rotate: false
+  xy: 1284, 302
+  size: 139, 138
+  orig: 139, 138
+  offset: 0, 0
+  index: -1
+Xin/LZ_02
+  rotate: true
+  xy: 903, 107
+  size: 139, 138
+  orig: 139, 138
+  offset: 0, 0
+  index: -1
+Xin/smoke_02
+  rotate: false
+  xy: 1171, 145
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bailong
+  rotate: false
+  xy: 1, 247
+  size: 1025, 398
+  orig: 1025, 398
+  offset: 0, 0
+  index: -1
+cicici
+  rotate: false
+  xy: 1028, 788
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+da_star_01
+  rotate: false
+  xy: 1300, 173
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+halo_03
+  rotate: false
+  xy: 1028, 531
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+halo_04
+  rotate: false
+  xy: 1027, 274
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+heilong
+  rotate: false
+  xy: 1, 646
+  size: 1026, 398
+  orig: 1026, 398
+  offset: 0, 0
+  index: -1
+long/yuan_sd01
+  rotate: false
+  xy: 1285, 894
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+long/yuan_sd02
+  rotate: false
+  xy: 1285, 743
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+long/yuan_sd03
+  rotate: false
+  xy: 1285, 592
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+long/yuan_sd04
+  rotate: false
+  xy: 1285, 441
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+long/yuan_sd05
+  rotate: false
+  xy: 601, 96
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+long/yuan_sd06
+  rotate: false
+  xy: 752, 96
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+pk_pp_suipian01
+  rotate: false
+  xy: 601, 1
+  size: 135, 94
+  orig: 135, 94
+  offset: 0, 0
+  index: -1
+shan_glow_guang01
+  rotate: false
+  xy: 232, 136
+  size: 368, 110
+  orig: 368, 110
+  offset: 0, 0
+  index: -1
+shan_glow_guang02
+  rotate: false
+  xy: 232, 25
+  size: 368, 110
+  orig: 368, 110
+  offset: 0, 0
+  index: -1
+star_shiti
+  rotate: true
+  xy: 1386, 127
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1

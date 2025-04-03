@@ -1,0 +1,104 @@
+
+qp_biaoqing_zhakai.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z1
+  rotate: false
+  xy: 1, 6
+  size: 246, 242
+  orig: 246, 242
+  offset: 0, 0
+  index: -1
+z10
+  rotate: false
+  xy: 812, 46
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+z11
+  rotate: false
+  xy: 398, 11
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+z12
+  rotate: false
+  xy: 325, 4
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+z13
+  rotate: true
+  xy: 762, 61
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+z14
+  rotate: false
+  xy: 649, 58
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 649, 107
+  size: 162, 141
+  orig: 165, 141
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 813, 166
+  size: 98, 82
+  orig: 98, 82
+  offset: 0, 0
+  index: -1
+z4
+  rotate: false
+  xy: 813, 91
+  size: 87, 73
+  orig: 87, 73
+  offset: 0, 0
+  index: -1
+z5
+  rotate: false
+  xy: 249, 66
+  size: 211, 182
+  orig: 211, 182
+  offset: 0, 0
+  index: -1
+z6
+  rotate: false
+  xy: 706, 60
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+z7
+  rotate: false
+  xy: 249, 1
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+z8
+  rotate: false
+  xy: 913, 173
+  size: 88, 75
+  orig: 88, 75
+  offset: 0, 0
+  index: -1
+z9
+  rotate: true
+  xy: 462, 77
+  size: 171, 185
+  orig: 171, 185
+  offset: 0, 0
+  index: -1

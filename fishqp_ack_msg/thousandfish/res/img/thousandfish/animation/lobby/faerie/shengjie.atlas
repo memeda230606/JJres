@@ -1,0 +1,104 @@
+
+shengjie.png
+size: 500,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengji
+  rotate: true
+  xy: 194, 6
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+dianliang
+  rotate: false
+  xy: 467, 104
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 363, 69
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+guangyun02
+  rotate: false
+  xy: 234, 7
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+saoguang/jinjie_0000
+  rotate: false
+  xy: 1, 1
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+saoguang/jinjie_0001
+  rotate: false
+  xy: 363, 30
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+saoguang/jinjie_0002
+  rotate: false
+  xy: 428, 95
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+saoguang/jinjie_0003
+  rotate: false
+  xy: 40, 1
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+saoguang/jinjie_0004
+  rotate: false
+  xy: 79, 1
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+saoguang/jinjie_0005
+  rotate: false
+  xy: 118, 1
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1, 40
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+tuoyuan01
+  rotate: true
+  xy: 371, 134
+  size: 138, 128
+  orig: 138, 128
+  offset: 0, 0
+  index: -1
+tuoyuan02
+  rotate: false
+  xy: 234, 136
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+waifaguang
+  rotate: false
+  xy: 157, 3
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

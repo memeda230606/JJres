@@ -1,0 +1,27 @@
+
+Newfish_Crown.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+crown
+  rotate: false
+  xy: 260, 335
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+frame_2
+  rotate: false
+  xy: 2, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+saoguang
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

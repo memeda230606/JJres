@@ -1,0 +1,97 @@
+
+BY_XL_dipinhuofeng.png
+size: 535,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BZ_01
+  rotate: false
+  xy: 260, 392
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_02
+  rotate: false
+  xy: 390, 392
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_03
+  rotate: false
+  xy: 260, 262
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_04
+  rotate: false
+  xy: 390, 262
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_05
+  rotate: false
+  xy: 145, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_06
+  rotate: false
+  xy: 275, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_07
+  rotate: false
+  xy: 405, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_08
+  rotate: false
+  xy: 145, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_09
+  rotate: false
+  xy: 275, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+H
+  rotate: false
+  xy: 2, 117
+  size: 141, 145
+  orig: 141, 145
+  offset: 0, 0
+  index: -1
+HHLZ
+  rotate: false
+  xy: 2, 70
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+ci_01
+  rotate: false
+  xy: 2, 264
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_02
+  rotate: false
+  xy: 405, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

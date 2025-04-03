@@ -1,0 +1,76 @@
+
+hyzsrk.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiang1
+  rotate: false
+  xy: 2, 2
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+baoxiang2
+  rotate: false
+  xy: 164, 82
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+hongbaoshi1
+  rotate: true
+  xy: 234, 100
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+hongbaoshi2
+  rotate: false
+  xy: 86, 6
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+huangguan
+  rotate: false
+  xy: 186, 50
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+lanbaoshi
+  rotate: true
+  xy: 70, 14
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+lvbaoshi
+  rotate: false
+  xy: 186, 26
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 90, 61
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 2, 38
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+zidi
+  rotate: false
+  xy: 90, 33
+  size: 94, 26
+  orig: 94, 26
+  offset: 0, 0
+  index: -1

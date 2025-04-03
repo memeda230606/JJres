@@ -1,0 +1,34 @@
+
+xinshouqiandao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_xinshouqiandao
+  rotate: false
+  xy: 2, 245
+  size: 959, 630
+  orig: 1020, 634
+  offset: 17, 0
+  index: -1
+biaoti
+  rotate: false
+  xy: 2, 112
+  size: 446, 131
+  orig: 450, 151
+  offset: 2, 2
+  index: -1
+glow
+  rotate: false
+  xy: 2, 2
+  size: 192, 108
+  orig: 193, 108
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 963, 862
+  size: 34, 13
+  orig: 40, 18
+  offset: 3, 2
+  index: -1

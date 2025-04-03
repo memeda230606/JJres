@@ -1,0 +1,83 @@
+
+gaobeijinengzhangyu.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cx1
+  rotate: false
+  xy: 210, 30
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+cx2
+  rotate: false
+  xy: 1, 1
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+cx3
+  rotate: true
+  xy: 127, 7
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+cx4
+  rotate: true
+  xy: 241, 37
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+g
+  rotate: true
+  xy: 98, 8
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+gb
+  rotate: false
+  xy: 148, 16
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+p
+  rotate: false
+  xy: 49, 18
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+t
+  rotate: false
+  xy: 1, 11
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 98, 35
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+yp1
+  rotate: false
+  xy: 137, 36
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+yp2
+  rotate: false
+  xy: 174, 36
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1

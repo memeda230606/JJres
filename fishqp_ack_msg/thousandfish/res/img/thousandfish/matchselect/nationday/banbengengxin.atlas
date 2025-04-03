@@ -1,0 +1,27 @@
+
+banbengengxin.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_bbgx
+  rotate: false
+  xy: 2, 145
+  size: 254, 85
+  orig: 254, 85
+  offset: 0, 0
+  index: -1
+liangguang
+  rotate: false
+  xy: 2, 2
+  size: 290, 10
+  orig: 290, 10
+  offset: 0, 0
+  index: -1
+saoguang
+  rotate: false
+  xy: 2, 14
+  size: 209, 129
+  orig: 209, 129
+  offset: 0, 0
+  index: -1

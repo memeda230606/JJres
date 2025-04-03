@@ -1,0 +1,69 @@
+
+Result.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Suc_glow_3
+  rotate: true
+  xy: 1444, 331
+  size: 879, 154
+  orig: 879, 154
+  offset: 0, 0
+  index: -1
+bg_bottom
+  rotate: false
+  xy: 2, 1324
+  size: 1440, 562
+  orig: 1440, 562
+  offset: 0, 0
+  index: -1
+bg_bottom_2
+  rotate: false
+  xy: 2, 804
+  size: 1440, 518
+  orig: 1440, 518
+  offset: 0, 0
+  index: -1
+bg_left
+  rotate: true
+  xy: 1444, 1212
+  size: 674, 503
+  orig: 674, 503
+  offset: 0, 0
+  index: -1
+bg_ringht
+  rotate: false
+  xy: 2, 260
+  size: 626, 503
+  orig: 626, 503
+  offset: 0, 0
+  index: -1
+bg_title
+  rotate: false
+  xy: 2, 765
+  size: 1143, 37
+  orig: 1143, 37
+  offset: 0, 0
+  index: -1
+frame_1
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_1
+  rotate: false
+  xy: 630, 251
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+text_1
+  rotate: true
+  xy: 1949, 1626
+  size: 260, 80
+  orig: 260, 80
+  offset: 0, 0
+  index: -1

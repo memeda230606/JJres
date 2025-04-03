@@ -1,0 +1,42 @@
+{
+"skeleton": { "hash": "WKZpqOj3zfOYrnYGgcTvHcMUi8A", "spine": "3.7.94", "width": 144, "height": 122, "images": "", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "anniu", "parent": "root" }
+],
+"slots": [
+	{ "name": "anniu", "bone": "anniu", "attachment": "anniu" }
+],
+"skins": {
+	"default": {
+		"anniu": {
+			"anniu": { "width": 144, "height": 122 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"anniu": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.5,
+						"y": 0.5,
+						"curve": [ 0, 0.27, 0.75, 1 ]
+					},
+					{
+						"time": 0.2333,
+						"x": 3,
+						"y": 3,
+						"curve": [ 0.25, 0, 1, 0.78 ]
+					},
+					{ "time": 0.3, "x": 1, "y": 1 },
+					{ "time": 0.3667, "x": 0.9, "y": 0.9 },
+					{ "time": 0.4667, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

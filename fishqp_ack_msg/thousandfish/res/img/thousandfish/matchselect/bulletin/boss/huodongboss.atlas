@@ -1,0 +1,300 @@
+
+huodongboss.png
+size: 1969,572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 1641, 109
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FM_Whirl_01
+  rotate: false
+  xy: 1771, 109
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Lsg01
+  rotate: false
+  xy: 1451, 42
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bg_shijian
+  rotate: true
+  xy: 1937, 239
+  size: 331, 30
+  orig: 331, 30
+  offset: 0, 0
+  index: -1
+g
+  rotate: true
+  xy: 1410, 38
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+haiou_0000
+  rotate: true
+  xy: 2, 107
+  size: 463, 167
+  orig: 463, 167
+  offset: 0, 0
+  index: -1
+haiou_0001
+  rotate: true
+  xy: 171, 107
+  size: 463, 167
+  orig: 463, 167
+  offset: 0, 0
+  index: -1
+haiou_0002
+  rotate: true
+  xy: 340, 107
+  size: 463, 167
+  orig: 463, 167
+  offset: 0, 0
+  index: -1
+haiou_0003
+  rotate: true
+  xy: 509, 107
+  size: 463, 167
+  orig: 463, 167
+  offset: 0, 0
+  index: -1
+haiou_0004
+  rotate: true
+  xy: 678, 107
+  size: 463, 167
+  orig: 463, 167
+  offset: 0, 0
+  index: -1
+huoyan_1
+  rotate: true
+  xy: 150, 8
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+huoyan_10
+  rotate: true
+  xy: 726, 8
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+huoyan_11
+  rotate: true
+  xy: 790, 8
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+huoyan_12
+  rotate: true
+  xy: 854, 9
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+huoyan_13
+  rotate: true
+  xy: 918, 9
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+huoyan_14
+  rotate: true
+  xy: 982, 9
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+huoyan_15
+  rotate: true
+  xy: 1046, 9
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+huoyan_2
+  rotate: true
+  xy: 214, 8
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+huoyan_3
+  rotate: true
+  xy: 278, 8
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+huoyan_4
+  rotate: true
+  xy: 342, 8
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+huoyan_5
+  rotate: true
+  xy: 406, 8
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+huoyan_6
+  rotate: true
+  xy: 470, 8
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+huoyan_7
+  rotate: true
+  xy: 534, 8
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+huoyan_8
+  rotate: true
+  xy: 598, 8
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+huoyan_9
+  rotate: true
+  xy: 662, 8
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+pp_1
+  rotate: true
+  xy: 1443, 11
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+ship
+  rotate: true
+  xy: 1597, 251
+  size: 319, 338
+  orig: 319, 338
+  offset: 0, 0
+  index: -1
+ship_mao
+  rotate: false
+  xy: 1649, 56
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+ship_qi
+  rotate: true
+  xy: 1410, 3
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+shui_0
+  rotate: false
+  xy: 847, 108
+  size: 748, 462
+  orig: 748, 462
+  offset: 0, 0
+  index: -1
+shui_1
+  rotate: true
+  xy: 1187, 20
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+shui_10
+  rotate: false
+  xy: 1464, 2
+  size: 161, 38
+  orig: 161, 38
+  offset: 0, 0
+  index: -1
+shui_12
+  rotate: true
+  xy: 1381, 22
+  size: 84, 27
+  orig: 84, 27
+  offset: 0, 0
+  index: -1
+shui_2
+  rotate: false
+  xy: 1627, 3
+  size: 108, 39
+  orig: 108, 39
+  offset: 0, 0
+  index: -1
+shui_3
+  rotate: true
+  xy: 1351, 20
+  size: 86, 28
+  orig: 86, 28
+  offset: 0, 0
+  index: -1
+shui_4
+  rotate: false
+  xy: 1688, 61
+  size: 135, 46
+  orig: 135, 46
+  offset: 0, 0
+  index: -1
+shui_5
+  rotate: true
+  xy: 44, 5
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+shui_7
+  rotate: true
+  xy: 1597, 108
+  size: 141, 42
+  orig: 141, 42
+  offset: 0, 0
+  index: -1
+shui_9
+  rotate: false
+  xy: 1517, 44
+  size: 130, 62
+  orig: 130, 62
+  offset: 0, 0
+  index: -1
+txt_haidaochuan
+  rotate: true
+  xy: 2, 3
+  size: 102, 40
+  orig: 102, 40
+  offset: 0, 0
+  index: -1
+yu1
+  rotate: false
+  xy: 1110, 19
+  size: 75, 87
+  orig: 75, 87
+  offset: 0, 0
+  index: -1
+yu2
+  rotate: true
+  xy: 1273, 20
+  size: 86, 76
+  orig: 86, 76
+  offset: 0, 0
+  index: -1

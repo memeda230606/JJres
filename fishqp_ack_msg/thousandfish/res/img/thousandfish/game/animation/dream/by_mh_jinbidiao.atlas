@@ -1,0 +1,160 @@
+
+by_mh_jinbidiao.png
+size: 1804,769
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imagse/01
+  rotate: false
+  xy: 2, 260
+  size: 1800, 72
+  orig: 1800, 72
+  offset: 0, 0
+  index: -1
+imagse/02
+  rotate: false
+  xy: 2, 334
+  size: 1800, 122
+  orig: 1800, 122
+  offset: 0, 0
+  index: -1
+imagse/03
+  rotate: false
+  xy: 2, 588
+  size: 1800, 179
+  orig: 1800, 179
+  offset: 0, 0
+  index: -1
+imagse/04
+  rotate: false
+  xy: 2, 458
+  size: 1800, 128
+  orig: 1800, 128
+  offset: 0, 0
+  index: -1
+imagse/JB1
+  rotate: false
+  xy: 260, 120
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/JB2
+  rotate: false
+  xy: 260, 120
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/JB10
+  rotate: false
+  xy: 616, 206
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/JB11
+  rotate: false
+  xy: 670, 206
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/JB12
+  rotate: false
+  xy: 724, 206
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/JB13
+  rotate: false
+  xy: 778, 206
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/JB14
+  rotate: false
+  xy: 832, 206
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/JB15
+  rotate: false
+  xy: 886, 206
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/JB16
+  rotate: false
+  xy: 940, 206
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/JB3
+  rotate: false
+  xy: 346, 206
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/JB4
+  rotate: false
+  xy: 260, 66
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/JB5
+  rotate: false
+  xy: 400, 206
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/JB6
+  rotate: false
+  xy: 260, 12
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/JB7
+  rotate: false
+  xy: 454, 206
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/JB8
+  rotate: false
+  xy: 508, 206
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/JB9
+  rotate: false
+  xy: 562, 206
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+imagse/Star
+  rotate: false
+  xy: 260, 174
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+imagse/pk_liangdian
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

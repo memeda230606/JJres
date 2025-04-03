@@ -1,0 +1,83 @@
+
+chengzhangyindao_lingqu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow1
+  rotate: false
+  xy: 2, 368
+  size: 137, 140
+  orig: 154, 154
+  offset: 9, 7
+  index: -1
+xulie_00
+  rotate: false
+  xy: 321, 419
+  size: 88, 89
+  orig: 103, 99
+  offset: 8, 6
+  index: -1
+xulie_01
+  rotate: false
+  xy: 2, 2
+  size: 88, 89
+  orig: 103, 99
+  offset: 8, 6
+  index: -1
+xulie_02
+  rotate: false
+  xy: 411, 419
+  size: 88, 89
+  orig: 103, 99
+  offset: 8, 6
+  index: -1
+xulie_03
+  rotate: true
+  xy: 141, 328
+  size: 88, 89
+  orig: 103, 99
+  offset: 8, 6
+  index: -1
+xulie_04
+  rotate: false
+  xy: 141, 418
+  size: 88, 90
+  orig: 103, 99
+  offset: 8, 5
+  index: -1
+xulie_05
+  rotate: false
+  xy: 2, 185
+  size: 88, 90
+  orig: 103, 99
+  offset: 8, 5
+  index: -1
+xulie_06
+  rotate: false
+  xy: 231, 418
+  size: 88, 90
+  orig: 103, 99
+  offset: 8, 5
+  index: -1
+xulie_07
+  rotate: false
+  xy: 2, 93
+  size: 88, 90
+  orig: 103, 99
+  offset: 8, 5
+  index: -1
+xulie_08
+  rotate: false
+  xy: 2, 277
+  size: 90, 89
+  orig: 103, 99
+  offset: 7, 6
+  index: -1
+xulie_09
+  rotate: false
+  xy: 232, 327
+  size: 88, 89
+  orig: 103, 99
+  offset: 8, 6
+  index: -1

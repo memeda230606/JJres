@@ -1,0 +1,69 @@
+
+renwuyvbeilu.png
+size: 1628,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liemodarenjineng/贴图/Tex_Smoke_23_1
+  rotate: false
+  xy: 1498, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+qianpao/caiban/bg_diguang
+  rotate: false
+  xy: 478, 57
+  size: 202, 203
+  orig: 202, 203
+  offset: 0, 0
+  index: -1
+qianpao/caiban/bg_languang
+  rotate: false
+  xy: 260, 44
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+qianpao/caiban/bg_waikuang
+  rotate: false
+  xy: 682, 57
+  size: 202, 203
+  orig: 202, 203
+  offset: 0, 0
+  index: -1
+qianpao/caiban/bg_waiyuanhuan
+  rotate: false
+  xy: 886, 57
+  size: 202, 203
+  orig: 202, 203
+  offset: 0, 0
+  index: -1
+qianpao/caiban/bg_yuandi
+  rotate: false
+  xy: 1090, 57
+  size: 202, 203
+  orig: 202, 203
+  offset: 0, 0
+  index: -1
+qianpao/caiban/bg_yuanhuan
+  rotate: false
+  xy: 1294, 57
+  size: 202, 203
+  orig: 202, 203
+  offset: 0, 0
+  index: -1
+qianpao/eu_circle_1
+  rotate: false
+  xy: 1498, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+qianpao/renwuyu/tga_xphuoyan2
+  rotate: false
+  xy: 2, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

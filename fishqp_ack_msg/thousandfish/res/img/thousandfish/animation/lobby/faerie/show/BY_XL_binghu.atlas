@@ -1,0 +1,139 @@
+
+BY_XL_binghu.png
+size: 751,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BH_bozi
+  rotate: false
+  xy: 2, 21
+  size: 144, 107
+  orig: 144, 107
+  offset: 0, 0
+  index: -1
+BH_duzi
+  rotate: true
+  xy: 148, 17
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1
+BH_shou_L
+  rotate: false
+  xy: 308, 54
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+BH_shou_R
+  rotate: true
+  xy: 228, 44
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+BH_tou
+  rotate: false
+  xy: 260, 330
+  size: 193, 205
+  orig: 193, 205
+  offset: 0, 0
+  index: -1
+BH_tui_L
+  rotate: true
+  xy: 228, 2
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+BH_tui_R
+  rotate: true
+  xy: 312, 8
+  size: 44, 84
+  orig: 44, 84
+  offset: 0, 0
+  index: -1
+BH_weiba_L
+  rotate: false
+  xy: 556, 151
+  size: 193, 162
+  orig: 193, 162
+  offset: 0, 0
+  index: -1
+BH_weiba_LR_H
+  rotate: false
+  xy: 2, 130
+  size: 328, 147
+  orig: 328, 147
+  offset: 0, 0
+  index: -1
+BH_weiba_LR_H01
+  rotate: false
+  xy: 398, 2
+  size: 207, 136
+  orig: 207, 136
+  offset: 0, 0
+  index: -1
+BH_weiba_M
+  rotate: true
+  xy: 332, 140
+  size: 152, 222
+  orig: 152, 222
+  offset: 0, 0
+  index: -1
+BH_weiba_R
+  rotate: true
+  xy: 455, 315
+  size: 220, 163
+  orig: 220, 163
+  offset: 0, 0
+  index: -1
+BiYan_L
+  rotate: false
+  xy: 394, 294
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+BiYan_R
+  rotate: false
+  xy: 260, 294
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+Star_01
+  rotate: false
+  xy: 2, 279
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+XH
+  rotate: false
+  xy: 607, 21
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+YanJing_L
+  rotate: true
+  xy: 620, 366
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+YanJing_R
+  rotate: false
+  xy: 328, 294
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+glow_02
+  rotate: false
+  xy: 620, 407
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

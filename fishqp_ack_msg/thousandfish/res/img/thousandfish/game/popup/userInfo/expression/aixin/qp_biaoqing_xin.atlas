@@ -1,0 +1,27 @@
+
+qp_biaoqing_xin.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan
+  rotate: false
+  xy: 249, 65
+  size: 178, 178
+  orig: 448, 252
+  offset: 141, 36
+  index: -1
+hongxin
+  rotate: false
+  xy: 249, 1
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 1, 1
+  size: 246, 242
+  orig: 246, 242
+  offset: 0, 0
+  index: -1

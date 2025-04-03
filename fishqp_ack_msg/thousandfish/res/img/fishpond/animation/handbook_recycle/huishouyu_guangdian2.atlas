@@ -1,0 +1,20 @@
+
+huishouyu_guangdian2.png
+size: 363,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 234, 105
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+guangquan1
+  rotate: false
+  xy: 1, 1
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1

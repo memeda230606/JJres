@@ -1,0 +1,62 @@
+
+paotaitanchuang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow001
+  rotate: false
+  xy: 2, 78
+  size: 211, 96
+  orig: 257, 96
+  offset: 30, 0
+  index: -1
+sanjiaoguang1
+  rotate: false
+  xy: 302, 196
+  size: 58, 42
+  orig: 61, 45
+  offset: 1, 1
+  index: -1
+sanjiaoguang2
+  rotate: false
+  xy: 362, 209
+  size: 41, 29
+  orig: 45, 31
+  offset: 2, 1
+  index: -1
+sanjiaoguang3
+  rotate: false
+  xy: 2, 34
+  size: 54, 42
+  orig: 57, 45
+  offset: 1, 1
+  index: -1
+sanjiaoguang4
+  rotate: false
+  xy: 215, 141
+  size: 40, 33
+  orig: 43, 35
+  offset: 1, 1
+  index: -1
+sanjiaoguang5
+  rotate: false
+  xy: 2, 2
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+sanjiaoguang6
+  rotate: false
+  xy: 58, 44
+  size: 28, 32
+  orig: 30, 35
+  offset: 1, 2
+  index: -1
+title_genghuanpaotai
+  rotate: false
+  xy: 2, 176
+  size: 298, 62
+  orig: 298, 62
+  offset: 0, 0
+  index: -1

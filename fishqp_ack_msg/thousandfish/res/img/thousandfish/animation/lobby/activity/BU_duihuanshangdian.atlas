@@ -1,0 +1,125 @@
+
+BU_duihuanshangdian.png
+size: 2030,882
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bullet_011_gu_uv
+  rotate: false
+  xy: 1057, 6
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+dikuang
+  rotate: true
+  xy: 2, 2
+  size: 878, 431
+  orig: 878, 431
+  offset: 0, 0
+  index: -1
+duihuan_biaoti
+  rotate: true
+  xy: 1755, 157
+  size: 437, 134
+  orig: 437, 134
+  offset: 0, 0
+  index: -1
+duihuan_di
+  rotate: false
+  xy: 1006, 739
+  size: 1022, 141
+  orig: 1022, 141
+  offset: 0, 0
+  index: -1
+lihe
+  rotate: true
+  xy: 1057, 72
+  size: 167, 93
+  orig: 167, 93
+  offset: 0, 0
+  index: -1
+logo01
+  rotate: false
+  xy: 1057, 596
+  size: 949, 141
+  orig: 949, 141
+  offset: 0, 0
+  index: -1
+logo02
+  rotate: true
+  xy: 880, 245
+  size: 635, 124
+  orig: 635, 124
+  offset: 0, 0
+  index: -1
+qiqiu
+  rotate: false
+  xy: 1152, 76
+  size: 133, 163
+  orig: 133, 163
+  offset: 0, 0
+  index: -1
+shan_glow_guang01
+  rotate: true
+  xy: 1891, 123
+  size: 368, 110
+  orig: 368, 110
+  offset: 0, 0
+  index: -1
+shui01
+  rotate: true
+  xy: 435, 237
+  size: 643, 443
+  orig: 643, 443
+  offset: 0, 0
+  index: -1
+shui02
+  rotate: false
+  xy: 1006, 241
+  size: 322, 353
+  orig: 322, 353
+  offset: 0, 0
+  index: -1
+shui03
+  rotate: true
+  xy: 435, 34
+  size: 201, 351
+  orig: 201, 351
+  offset: 0, 0
+  index: -1
+star_05
+  rotate: false
+  xy: 1755, 57
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+sy_benti
+  rotate: false
+  xy: 1330, 57
+  size: 423, 537
+  orig: 423, 537
+  offset: 0, 0
+  index: -1
+sy_kouqiang
+  rotate: true
+  xy: 1891, 493
+  size: 101, 116
+  orig: 101, 116
+  offset: 0, 0
+  index: -1
+sy_qi_zuo
+  rotate: false
+  xy: 1187, 10
+  size: 108, 64
+  orig: 108, 64
+  offset: 0, 0
+  index: -1
+yueliang_benti
+  rotate: false
+  xy: 788, 52
+  size: 267, 183
+  orig: 267, 183
+  offset: 0, 0
+  index: -1

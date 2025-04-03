@@ -1,0 +1,90 @@
+
+jiujijin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beike
+  rotate: false
+  xy: 2, 463
+  size: 720, 492
+  orig: 720, 492
+  offset: 0, 0
+  index: -1
+bg_biaoti
+  rotate: false
+  xy: 2, 338
+  size: 458, 123
+  orig: 458, 123
+  offset: 0, 0
+  index: -1
+bg_diguang
+  rotate: false
+  xy: 2, 136
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guangmang
+  rotate: false
+  xy: 724, 466
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+jinbi_00
+  rotate: false
+  xy: 462, 374
+  size: 41, 58
+  orig: 64, 64
+  offset: 14, 3
+  index: -1
+jinbi_01
+  rotate: false
+  xy: 982, 666
+  size: 37, 56
+  orig: 64, 64
+  offset: 11, 4
+  index: -1
+jinbi_02
+  rotate: true
+  xy: 642, 438
+  size: 23, 55
+  orig: 64, 64
+  offset: 23, 4
+  index: -1
+jinbi_03
+  rotate: false
+  xy: 204, 281
+  size: 55, 55
+  orig: 64, 64
+  offset: 4, 4
+  index: -1
+liangguang
+  rotate: false
+  xy: 2, 34
+  size: 85, 100
+  orig: 85, 100
+  offset: 0, 0
+  index: -1
+qipao
+  rotate: false
+  xy: 2, 2
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+txt_jinrikelingqucishu
+  rotate: false
+  xy: 462, 434
+  size: 178, 27
+  orig: 178, 27
+  offset: 0, 0
+  index: -1
+xiangzibihe
+  rotate: false
+  xy: 724, 724
+  size: 298, 231
+  orig: 298, 231
+  offset: 0, 0
+  index: -1

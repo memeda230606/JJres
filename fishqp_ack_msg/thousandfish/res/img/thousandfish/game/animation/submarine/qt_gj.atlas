@@ -1,0 +1,48 @@
+
+qt_gj.png
+size: 932,618
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+光波/qp_qt_gb_00
+  rotate: false
+  xy: 2, 312
+  size: 308, 304
+  orig: 308, 304
+  offset: 0, 0
+  index: -1
+光波/qp_qt_gb_01
+  rotate: true
+  xy: 2, 2
+  size: 308, 304
+  orig: 308, 304
+  offset: 0, 0
+  index: -1
+光波/qp_qt_gb_02
+  rotate: true
+  xy: 308, 2
+  size: 308, 304
+  orig: 308, 304
+  offset: 0, 0
+  index: -1
+光波/qp_qt_gb_03
+  rotate: false
+  xy: 312, 312
+  size: 308, 304
+  orig: 308, 304
+  offset: 0, 0
+  index: -1
+光波/qp_qt_gb_04
+  rotate: true
+  xy: 614, 2
+  size: 308, 304
+  orig: 308, 304
+  offset: 0, 0
+  index: -1
+光波/qp_qt_gb_05
+  rotate: false
+  xy: 622, 312
+  size: 308, 304
+  orig: 308, 304
+  offset: 0, 0
+  index: -1

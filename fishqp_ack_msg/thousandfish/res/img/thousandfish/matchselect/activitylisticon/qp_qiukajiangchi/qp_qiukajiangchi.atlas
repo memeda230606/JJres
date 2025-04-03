@@ -1,0 +1,27 @@
+
+qp_qiukajiangchi.png
+size: 195,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 68, 3
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 134, 11
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+jiukajiangchi
+  rotate: false
+  xy: 2, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

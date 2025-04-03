@@ -1,0 +1,69 @@
+
+BY_baoxiang.png
+size: 559,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BX_G
+  rotate: false
+  xy: 390, 150
+  size: 121, 110
+  orig: 121, 110
+  offset: 0, 0
+  index: -1
+BX_GaiZi01
+  rotate: true
+  xy: 513, 108
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+BX_GaiZi02
+  rotate: true
+  xy: 513, 185
+  size: 75, 44
+  orig: 75, 44
+  offset: 0, 0
+  index: -1
+BX_Xia01
+  rotate: true
+  xy: 390, 25
+  size: 123, 46
+  orig: 123, 46
+  offset: 0, 0
+  index: -1
+BX_xia02
+  rotate: true
+  xy: 438, 53
+  size: 95, 47
+  orig: 95, 47
+  offset: 0, 0
+  index: -1
+Ddz_XingXing_002
+  rotate: false
+  xy: 487, 42
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+GuanGCi
+  rotate: false
+  xy: 260, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Star_01
+  rotate: false
+  xy: 2, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_02
+  rotate: false
+  xy: 260, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

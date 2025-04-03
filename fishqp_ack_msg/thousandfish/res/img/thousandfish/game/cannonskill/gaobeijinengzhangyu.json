@@ -1,0 +1,166 @@
+{
+"skeleton": { "hash": "kJ9eH+yOiv58Bj0JGTu95uZd0uo", "spine": "3.7.42-beta", "width": 81, "height": 59, "images": "./images/", "audio": "F:/捕鱼/2018/千炮捕鱼/11月/高倍技能章鱼/images" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "t", "parent": "root", "length": 38.8, "rotation": 108.28, "x": 36.62, "y": 19.96 },
+	{ "name": "cx1", "parent": "t", "length": 15.18, "rotation": 144.9, "x": 9.07, "y": 6.97 },
+	{ "name": "p", "parent": "cx1", "length": 36.76, "rotation": 139.05, "x": 12.87, "y": 5.3 },
+	{ "name": "cx2", "parent": "p", "length": 4.99, "rotation": 176.07, "x": 28.95, "y": -17.45 },
+	{ "name": "cx3", "parent": "t", "length": 9.85, "rotation": 130.76, "x": 4.35, "y": 13.16 },
+	{ "name": "cx4", "parent": "cx3", "length": 6.17, "rotation": -49.57, "x": 9.85 },
+	{ "name": "cx5", "parent": "cx4", "length": 11.26, "rotation": -50.81, "x": 6.17 },
+	{ "name": "cx6", "parent": "t", "length": 9.08, "rotation": -153.28, "x": -7.36, "y": -6.11 },
+	{ "name": "gb", "parent": "p", "x": 43.06, "y": -0.78 },
+	{ "name": "g", "parent": "gb", "x": 3.55, "y": 0.56 },
+	{ "name": "yj", "parent": "t", "rotation": -108.28, "x": 34.68, "y": -6.59 },
+	{ "name": "yp1", "parent": "t", "x": 21.93, "y": -6.89 }
+],
+"slots": [
+	{ "name": "cx4", "bone": "cx6", "attachment": "cx4" },
+	{ "name": "cx3", "bone": "cx3", "attachment": "cx3" },
+	{ "name": "t", "bone": "t", "attachment": "t" },
+	{ "name": "yj", "bone": "yj", "attachment": "yj" },
+	{ "name": "yp1", "bone": "yp1", "attachment": "yp2" },
+	{ "name": "p", "bone": "p", "attachment": "p" },
+	{ "name": "g", "bone": "g", "attachment": "g" },
+	{ "name": "gb", "bone": "gb", "attachment": "gb" },
+	{ "name": "cx2", "bone": "cx2", "attachment": "cx2" },
+	{ "name": "cx1", "bone": "cx1", "attachment": "cx1" }
+],
+"skins": {
+	"default": {
+		"cx1": {
+			"cx1": { "x": 11.26, "y": 8.1, "rotation": 106.82, "width": 29, "height": 26 }
+		},
+		"cx2": {
+			"cx2": { "x": 4.54, "y": -1.38, "rotation": 151.7, "width": 11, "height": 8 }
+		},
+		"cx3": {
+			"cx3": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0.75558, 1, 0.39059, 1, 0, 1, 0, 0, 0.44058, 0, 0.59558, 0, 1, 0 ],
+				"triangles": [ 2, 5, 6, 5, 2, 4, 2, 3, 4, 1, 2, 6, 1, 7, 0, 1, 6, 7 ],
+				"vertices": [ 2, 5, 10.86, 10.47, 0.48233, 6, -7.32, 7.56, 0.51767, 2, 5, 14.13, 5.02, 0.1302, 6, -1.05, 6.51, 0.8698, 2, 6, 8.31, 4.95, 0.40816, 7, -2.48, 4.79, 0.59184, 1, 7, 5.14, 11.5, 1, 2, 5, 7.94, -21.6, 0.00292, 7, 17.69, -2.77, 0.99708, 3, 5, 2.05, -11.77, 0.34576, 6, 3.9, -13.58, 0.0311, 7, 9.09, -10.33, 0.62314, 3, 5, -0.02, -8.32, 0.63846, 6, -0.07, -12.91, 0.03487, 7, 6.07, -13, 0.32667, 1, 5, -5.43, 0.7, 1 ],
+				"hull": 8,
+				"edges": [ 6, 8, 0, 14, 8, 10, 4, 6, 10, 12, 12, 14, 0, 2, 2, 4 ],
+				"width": 26,
+				"height": 19
+			}
+		},
+		"cx4": {
+			"cx4": { "x": 7.11, "y": 2.68, "rotation": 45, "width": 19, "height": 13 }
+		},
+		"g": {
+			"g": { "x": -0.79, "y": -2.38, "rotation": -32.23, "width": 25, "height": 27 }
+		},
+		"gb": {
+			"gb": { "x": 0.69, "y": -2.29, "rotation": -32.23, "width": 16, "height": 18 }
+		},
+		"p": {
+			"p": { "x": 23.08, "y": -3.04, "rotation": -32.23, "width": 47, "height": 38 }
+		},
+		"t": {
+			"t": { "x": 17.35, "y": -1.03, "rotation": -108.28, "width": 46, "height": 45 }
+		},
+		"yj": {
+			"yj": { "x": 1.65, "y": -13.19, "width": 37, "height": 21 }
+		},
+		"yp1": {
+			"yp1": { "x": -0.77, "y": 3.02, "rotation": -108.28, "width": 35, "height": 20 },
+			"yp2": { "x": -0.93, "y": 2.55, "rotation": -108.28, "width": 34, "height": 20 }
+		}
+	}
+},
+"animations": {
+	"gaobeijinengzhangyu": {
+		"slots": {
+			"p": {
+				"attachment": [
+					{ "time": 3.5333, "name": "p" }
+				]
+			},
+			"yp1": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.9333, "name": "yp2" },
+					{ "time": 0.9667, "name": "yp1" },
+					{ "time": 1.0333, "name": "yp2" },
+					{ "time": 1.0667, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"cx1": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1, "angle": 6.12 },
+					{ "time": 2, "angle": 0 },
+					{ "time": 3, "angle": 6.12 },
+					{ "time": 4, "angle": 0 }
+				]
+			},
+			"gb": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1, "x": 1.158, "y": 1.158 },
+					{ "time": 2, "x": 1, "y": 1 },
+					{ "time": 3, "x": 1.158, "y": 1.158 },
+					{ "time": 4, "x": 1, "y": 1 }
+				]
+			},
+			"t": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1, "angle": 1.82 },
+					{ "time": 2, "angle": 0 },
+					{ "time": 3, "angle": 1.82 },
+					{ "time": 4, "angle": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1, "x": 1.021, "y": 1.021 },
+					{ "time": 2, "x": 1, "y": 1 },
+					{ "time": 3, "x": 1.021, "y": 1.021 },
+					{ "time": 4, "x": 1, "y": 1 }
+				]
+			},
+			"cx3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1, "angle": 0.14 },
+					{ "time": 2, "angle": 0 },
+					{ "time": 3, "angle": 0.14 },
+					{ "time": 4, "angle": 0 }
+				]
+			},
+			"cx4": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1, "angle": 4.07 },
+					{ "time": 2, "angle": 0 },
+					{ "time": 3, "angle": 4.07 },
+					{ "time": 4, "angle": 0 }
+				]
+			},
+			"cx5": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1, "angle": 15 },
+					{ "time": 2, "angle": 0 },
+					{ "time": 3, "angle": 15 },
+					{ "time": 4, "angle": 0 }
+				]
+			},
+			"cx6": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1, "angle": -10.84 },
+					{ "time": 2, "angle": 0 },
+					{ "time": 3, "angle": -10.84 },
+					{ "time": 4, "angle": 0 }
+				]
+			}
+		}
+	}
+}
+}

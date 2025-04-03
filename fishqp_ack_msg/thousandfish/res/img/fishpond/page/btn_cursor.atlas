@@ -1,0 +1,265 @@
+
+btn_cursor.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_huangsebiaoqian2
+  rotate: false
+  xy: 2, 195
+  size: 447, 59
+  orig: 467, 59
+  offset: 20, 0
+  index: -1
+huangtiao_liuguang_00
+  rotate: true
+  xy: 126, 4
+  size: 15, 18
+  orig: 149, 30
+  offset: 8, 10
+  index: -1
+huangtiao_liuguang_01
+  rotate: true
+  xy: 486, 165
+  size: 26, 24
+  orig: 149, 30
+  offset: 7, 5
+  index: -1
+huangtiao_liuguang_02
+  rotate: true
+  xy: 131, 69
+  size: 28, 26
+  orig: 149, 30
+  offset: 7, 4
+  index: -1
+huangtiao_liuguang_03
+  rotate: false
+  xy: 400, 107
+  size: 32, 26
+  orig: 149, 30
+  offset: 6, 4
+  index: -1
+huangtiao_liuguang_04
+  rotate: false
+  xy: 315, 134
+  size: 42, 27
+  orig: 149, 30
+  offset: 6, 3
+  index: -1
+huangtiao_liuguang_05
+  rotate: true
+  xy: 126, 21
+  size: 44, 27
+  orig: 149, 30
+  offset: 6, 3
+  index: -1
+huangtiao_liuguang_06
+  rotate: false
+  xy: 438, 164
+  size: 46, 27
+  orig: 149, 30
+  offset: 6, 3
+  index: -1
+huangtiao_liuguang_07
+  rotate: true
+  xy: 97, 8
+  size: 57, 27
+  orig: 149, 30
+  offset: 7, 3
+  index: -1
+huangtiao_liuguang_08
+  rotate: false
+  xy: 269, 165
+  size: 61, 28
+  orig: 149, 30
+  offset: 7, 2
+  index: -1
+huangtiao_liuguang_09
+  rotate: false
+  xy: 137, 132
+  size: 64, 29
+  orig: 149, 30
+  offset: 8, 1
+  index: -1
+huangtiao_liuguang_10
+  rotate: false
+  xy: 203, 164
+  size: 64, 29
+  orig: 149, 30
+  offset: 13, 1
+  index: -1
+huangtiao_liuguang_11
+  rotate: false
+  xy: 68, 67
+  size: 61, 30
+  orig: 149, 30
+  offset: 21, 0
+  index: -1
+huangtiao_liuguang_12
+  rotate: false
+  xy: 70, 163
+  size: 65, 30
+  orig: 149, 30
+  offset: 23, 0
+  index: -1
+huangtiao_liuguang_13
+  rotate: false
+  xy: 2, 99
+  size: 65, 30
+  orig: 149, 30
+  offset: 27, 0
+  index: -1
+huangtiao_liuguang_14
+  rotate: false
+  xy: 34, 35
+  size: 61, 30
+  orig: 149, 30
+  offset: 35, 0
+  index: -1
+huangtiao_liuguang_15
+  rotate: false
+  xy: 203, 132
+  size: 61, 30
+  orig: 149, 30
+  offset: 40, 0
+  index: -1
+huangtiao_liuguang_16
+  rotate: false
+  xy: 137, 163
+  size: 64, 30
+  orig: 149, 30
+  offset: 42, 0
+  index: -1
+huangtiao_liuguang_17
+  rotate: false
+  xy: 2, 163
+  size: 66, 30
+  orig: 149, 30
+  offset: 46, 0
+  index: -1
+huangtiao_liuguang_18
+  rotate: false
+  xy: 2, 131
+  size: 66, 30
+  orig: 149, 30
+  offset: 50, 0
+  index: -1
+huangtiao_liuguang_19
+  rotate: false
+  xy: 70, 131
+  size: 65, 30
+  orig: 149, 30
+  offset: 55, 0
+  index: -1
+huangtiao_liuguang_20
+  rotate: false
+  xy: 2, 67
+  size: 64, 30
+  orig: 149, 30
+  offset: 61, 0
+  index: -1
+huangtiao_liuguang_21
+  rotate: true
+  xy: 2, 2
+  size: 63, 30
+  orig: 149, 30
+  offset: 66, 0
+  index: -1
+huangtiao_liuguang_22
+  rotate: false
+  xy: 69, 99
+  size: 64, 30
+  orig: 149, 30
+  offset: 70, 0
+  index: -1
+huangtiao_liuguang_23
+  rotate: false
+  xy: 34, 3
+  size: 61, 30
+  orig: 149, 30
+  offset: 74, 0
+  index: -1
+huangtiao_liuguang_24
+  rotate: false
+  xy: 451, 224
+  size: 57, 30
+  orig: 149, 30
+  offset: 79, 0
+  index: -1
+huangtiao_liuguang_25
+  rotate: false
+  xy: 332, 163
+  size: 52, 30
+  orig: 149, 30
+  offset: 84, 0
+  index: -1
+huangtiao_liuguang_26
+  rotate: false
+  xy: 386, 163
+  size: 50, 30
+  orig: 149, 30
+  offset: 90, 0
+  index: -1
+huangtiao_liuguang_27
+  rotate: false
+  xy: 451, 193
+  size: 47, 29
+  orig: 149, 30
+  offset: 94, 1
+  index: -1
+huangtiao_liuguang_28
+  rotate: false
+  xy: 269, 134
+  size: 44, 29
+  orig: 149, 30
+  offset: 98, 1
+  index: -1
+huangtiao_liuguang_29
+  rotate: false
+  xy: 359, 133
+  size: 39, 28
+  orig: 149, 30
+  offset: 103, 2
+  index: -1
+huangtiao_liuguang_30
+  rotate: false
+  xy: 400, 135
+  size: 35, 26
+  orig: 149, 30
+  offset: 107, 4
+  index: -1
+huangtiao_liuguang_31
+  rotate: true
+  xy: 135, 101
+  size: 28, 25
+  orig: 149, 30
+  offset: 114, 5
+  index: -1
+huangtiao_liuguang_32
+  rotate: false
+  xy: 162, 108
+  size: 25, 22
+  orig: 149, 30
+  offset: 117, 8
+  index: -1
+huangtiao_liuguang_33
+  rotate: false
+  xy: 189, 116
+  size: 16, 14
+  orig: 149, 30
+  offset: 126, 16
+  index: -1
+huangtiao_liuguang_34
+  rotate: false
+  xy: 207, 117
+  size: 12, 13
+  orig: 149, 30
+  offset: 129, 17
+  index: -1
+huangtiao_liuguang_35
+  rotate: false
+  xy: 221, 119
+  size: 9, 11
+  orig: 149, 30
+  offset: 131, 19
+  index: -1

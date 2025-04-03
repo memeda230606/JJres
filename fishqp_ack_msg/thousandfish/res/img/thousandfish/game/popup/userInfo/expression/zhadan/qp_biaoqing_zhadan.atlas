@@ -1,0 +1,76 @@
+
+qp_biaoqing_zhadan.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z15
+  rotate: true
+  xy: 111, 7
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+z16
+  rotate: true
+  xy: 238, 55
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+z17
+  rotate: false
+  xy: 111, 77
+  size: 104, 50
+  orig: 104, 50
+  offset: 0, 0
+  index: -1
+z18
+  rotate: true
+  xy: 139, 7
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+z19
+  rotate: false
+  xy: 167, 7
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+z20
+  rotate: false
+  xy: 111, 34
+  size: 97, 41
+  orig: 97, 46
+  offset: 0, 0
+  index: -1
+z21
+  rotate: true
+  xy: 1, 1
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+z22
+  rotate: true
+  xy: 217, 75
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+z23
+  rotate: false
+  xy: 1, 18
+  size: 108, 109
+  orig: 108, 116
+  offset: 0, 0
+  index: -1
+z24
+  rotate: false
+  xy: 210, 45
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1

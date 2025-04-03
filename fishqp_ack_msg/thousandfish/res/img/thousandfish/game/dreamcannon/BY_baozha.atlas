@@ -1,0 +1,153 @@
+
+BY_baozha.png
+size: 1115,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ddz_CircledStar
+  rotate: false
+  xy: 746, 298
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+G
+  rotate: false
+  xy: 515, 292
+  size: 230, 245
+  orig: 230, 245
+  offset: 0, 0
+  index: -1
+Xin/Huo_01
+  rotate: true
+  xy: 884, 216
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Xin/Huo_02
+  rotate: true
+  xy: 884, 134
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Xin/Huo_03
+  rotate: false
+  xy: 644, 91
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Xin/Huo_04
+  rotate: true
+  xy: 726, 99
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Xin/Huo_05
+  rotate: false
+  xy: 816, 44
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Xin/Huo_06
+  rotate: true
+  xy: 726, 17
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Xin/Huo_07
+  rotate: false
+  xy: 644, 1
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+Xin/LZ_01
+  rotate: false
+  xy: 974, 152
+  size: 139, 138
+  orig: 139, 138
+  offset: 0, 0
+  index: -1
+Xin/LZ_02
+  rotate: false
+  xy: 974, 13
+  size: 139, 138
+  orig: 139, 138
+  offset: 0, 0
+  index: -1
+Xin/smoke_02
+  rotate: false
+  xy: 875, 298
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+cicici
+  rotate: false
+  xy: 1, 281
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+da_star_01
+  rotate: false
+  xy: 515, 5
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+halo_03
+  rotate: false
+  xy: 1, 24
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+halo_04
+  rotate: false
+  xy: 258, 281
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+pk_pp_suipian01
+  rotate: true
+  xy: 1004, 291
+  size: 135, 94
+  orig: 135, 94
+  offset: 0, 0
+  index: -1
+shan_glow_guang01
+  rotate: false
+  xy: 515, 181
+  size: 368, 110
+  orig: 368, 110
+  offset: 0, 0
+  index: -1
+shan_glow_guang02
+  rotate: false
+  xy: 746, 427
+  size: 368, 110
+  orig: 368, 110
+  offset: 0, 0
+  index: -1
+shuibo01
+  rotate: false
+  xy: 258, 24
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+star_shiti
+  rotate: true
+  xy: 515, 135
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+BY_XL_ruchang.png
+size: 1660,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BZ_01
+  rotate: false
+  xy: 1010, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_02
+  rotate: false
+  xy: 1010, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_03
+  rotate: false
+  xy: 1140, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_04
+  rotate: false
+  xy: 1140, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_05
+  rotate: false
+  xy: 1270, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_06
+  rotate: false
+  xy: 1270, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_07
+  rotate: false
+  xy: 1400, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_08
+  rotate: false
+  xy: 1400, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_09
+  rotate: false
+  xy: 1530, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CH_01
+  rotate: false
+  xy: 776, 28
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+ci_01
+  rotate: false
+  xy: 2, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_02
+  rotate: false
+  xy: 1530, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+star_03
+  rotate: false
+  xy: 260, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+yuan_bai
+  rotate: false
+  xy: 518, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

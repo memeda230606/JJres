@@ -1,0 +1,272 @@
+
+xinshoulibao_xia.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_xinshoulibao
+  rotate: false
+  xy: 2, 537
+  size: 832, 477
+  orig: 832, 477
+  offset: 0, 0
+  index: -1
+dingdaerguang
+  rotate: false
+  xy: 2, 239
+  size: 231, 189
+  orig: 256, 256
+  offset: 9, 40
+  index: -1
+icon_huanyingyouxia
+  rotate: false
+  xy: 862, 869
+  size: 146, 145
+  orig: 146, 145
+  offset: 0, 0
+  index: -1
+lizi_00134
+  rotate: false
+  xy: 729, 387
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+lizi_00161
+  rotate: false
+  xy: 925, 633
+  size: 46, 46
+  orig: 64, 64
+  offset: 9, 9
+  index: -1
+shuibo
+  rotate: false
+  xy: 333, 465
+  size: 200, 70
+  orig: 220, 90
+  offset: 10, 10
+  index: -1
+title_xinshoulibao
+  rotate: false
+  xy: 2, 430
+  size: 329, 105
+  orig: 329, 105
+  offset: 0, 0
+  index: -1
+xinshoulibao_02
+  rotate: false
+  xy: 898, 635
+  size: 25, 45
+  orig: 177, 53
+  offset: 6, 6
+  index: -1
+xinshoulibao_03
+  rotate: false
+  xy: 795, 403
+  size: 38, 48
+  orig: 177, 53
+  offset: 7, 3
+  index: -1
+xinshoulibao_04
+  rotate: true
+  xy: 518, 324
+  size: 53, 49
+  orig: 177, 53
+  offset: 7, 2
+  index: -1
+xinshoulibao_05
+  rotate: false
+  xy: 836, 579
+  size: 60, 49
+  orig: 177, 53
+  offset: 14, 2
+  index: -1
+xinshoulibao_06
+  rotate: false
+  xy: 862, 682
+  size: 61, 49
+  orig: 177, 53
+  offset: 28, 2
+  index: -1
+xinshoulibao_07
+  rotate: false
+  xy: 925, 681
+  size: 61, 50
+  orig: 177, 53
+  offset: 43, 0
+  index: -1
+xinshoulibao_08
+  rotate: false
+  xy: 836, 527
+  size: 59, 50
+  orig: 177, 53
+  offset: 58, 0
+  index: -1
+xinshoulibao_09
+  rotate: false
+  xy: 836, 630
+  size: 60, 50
+  orig: 177, 53
+  offset: 72, 0
+  index: -1
+xinshoulibao_10
+  rotate: false
+  xy: 392, 324
+  size: 61, 53
+  orig: 177, 53
+  offset: 87, 0
+  index: -1
+xinshoulibao_11
+  rotate: false
+  xy: 455, 324
+  size: 61, 53
+  orig: 177, 53
+  offset: 101, 0
+  index: -1
+xinshoulibao_12
+  rotate: false
+  xy: 818, 473
+  size: 56, 52
+  orig: 177, 53
+  offset: 115, 1
+  index: -1
+xinshoulibao_13
+  rotate: true
+  xy: 973, 638
+  size: 41, 49
+  orig: 177, 53
+  offset: 130, 1
+  index: -1
+xinshoulibao_14
+  rotate: true
+  xy: 2, 2
+  size: 26, 44
+  orig: 177, 53
+  offset: 145, 1
+  index: -1
+xinshoulibao_15
+  rotate: false
+  xy: 535, 467
+  size: 9, 21
+  orig: 177, 53
+  offset: 160, 2
+  index: -1
+xulie_00
+  rotate: false
+  xy: 560, 405
+  size: 82, 83
+  orig: 95, 92
+  offset: 7, 5
+  index: -1
+xulie_01
+  rotate: false
+  xy: 114, 29
+  size: 82, 83
+  orig: 95, 92
+  offset: 7, 5
+  index: -1
+xulie_02
+  rotate: true
+  xy: 648, 453
+  size: 82, 83
+  orig: 95, 92
+  offset: 7, 5
+  index: -1
+xulie_03
+  rotate: true
+  xy: 733, 453
+  size: 82, 83
+  orig: 95, 92
+  offset: 7, 5
+  index: -1
+xulie_04
+  rotate: false
+  xy: 392, 379
+  size: 82, 84
+  orig: 95, 92
+  offset: 7, 5
+  index: -1
+xulie_05
+  rotate: false
+  xy: 166, 153
+  size: 82, 84
+  orig: 95, 92
+  offset: 7, 5
+  index: -1
+xulie_06
+  rotate: false
+  xy: 250, 158
+  size: 82, 84
+  orig: 95, 92
+  offset: 7, 5
+  index: -1
+xulie_07
+  rotate: false
+  xy: 476, 379
+  size: 82, 84
+  orig: 95, 92
+  offset: 7, 5
+  index: -1
+xulie_08
+  rotate: false
+  xy: 235, 244
+  size: 84, 83
+  orig: 95, 92
+  offset: 6, 5
+  index: -1
+xulie_09
+  rotate: true
+  xy: 644, 369
+  size: 82, 83
+  orig: 95, 92
+  offset: 7, 5
+  index: -1
+ye1
+  rotate: false
+  xy: 862, 733
+  size: 125, 134
+  orig: 125, 134
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: false
+  xy: 2, 30
+  size: 110, 207
+  orig: 110, 207
+  offset: 0, 0
+  index: -1
+ye3
+  rotate: false
+  xy: 535, 490
+  size: 111, 45
+  orig: 111, 45
+  offset: 0, 0
+  index: -1
+ye4
+  rotate: false
+  xy: 235, 329
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+ye5
+  rotate: false
+  xy: 333, 348
+  size: 57, 115
+  orig: 57, 115
+  offset: 0, 0
+  index: -1
+ye6
+  rotate: false
+  xy: 114, 114
+  size: 50, 123
+  orig: 50, 123
+  offset: 0, 0
+  index: -1
+形状 15 拷贝
+  rotate: true
+  xy: 836, 700
+  size: 314, 24
+  orig: 380, 31
+  offset: 0, 7
+  index: -1

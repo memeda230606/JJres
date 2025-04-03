@@ -1,0 +1,111 @@
+
+gongxi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Line001
+  rotate: false
+  xy: 2, 13
+  size: 128, 45
+  orig: 128, 45
+  offset: 0, 0
+  index: -1
+Lizi
+  rotate: false
+  xy: 958, 405
+  size: 64, 54
+  orig: 64, 64
+  offset: 0, 5
+  index: -1
+SJ001
+  rotate: false
+  xy: 308, 69
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+SJ002
+  rotate: false
+  xy: 372, 69
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+SJ003
+  rotate: false
+  xy: 436, 69
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+bg_cefenge
+  rotate: false
+  xy: 2, 60
+  size: 304, 207
+  orig: 304, 207
+  offset: 0, 0
+  index: -1
+caidai/caidai_1
+  rotate: false
+  xy: 685, 247
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+caidai/caidai_2
+  rotate: false
+  xy: 2, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+caidai/caidai_4
+  rotate: false
+  xy: 904, 312
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+caidai/caidai_5
+  rotate: false
+  xy: 992, 372
+  size: 30, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+lizi002
+  rotate: false
+  xy: 958, 371
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+qieguangquan2
+  rotate: false
+  xy: 706, 209
+  size: 196, 144
+  orig: 196, 144
+  offset: 0, 0
+  index: -1
+titleguang2
+  rotate: false
+  xy: 2, 269
+  size: 702, 190
+  orig: 702, 190
+  offset: 0, 0
+  index: -1
+titleguang8
+  rotate: false
+  xy: 308, 133
+  size: 375, 134
+  orig: 377, 139
+  offset: 2, 0
+  index: -1
+titleguang9
+  rotate: false
+  xy: 706, 355
+  size: 250, 104
+  orig: 256, 128
+  offset: 6, 13
+  index: -1

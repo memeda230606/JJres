@@ -1,0 +1,223 @@
+
+BY_XL_shengji.png
+size: 908,583
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 648, 23
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 844, 75
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 848, 397
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 165, 170
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 55
+  size: 180, 99
+  orig: 180, 99
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 459, 341
+  size: 188, 111
+  orig: 188, 111
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 453, 454
+  size: 189, 127
+  orig: 189, 127
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 260, 446
+  size: 191, 135
+  orig: 191, 135
+  offset: 0, 0
+  index: -1
+CH
+  rotate: false
+  xy: 518, 208
+  size: 128, 131
+  orig: 128, 131
+  offset: 0, 0
+  index: -1
+FS_01
+  rotate: false
+  xy: 648, 115
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+FS_02
+  rotate: false
+  xy: 778, 115
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+FS_03
+  rotate: false
+  xy: 518, 12
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+FS_04
+  rotate: false
+  xy: 648, 49
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+GuanGCi
+  rotate: false
+  xy: 648, 181
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+GuasngZhu
+  rotate: true
+  xy: 260, 335
+  size: 109, 197
+  orig: 109, 197
+  offset: 0, 0
+  index: -1
+GuasngZhu02
+  rotate: true
+  xy: 649, 364
+  size: 109, 197
+  orig: 109, 197
+  offset: 0, 0
+  index: -1
+ShuGuang
+  rotate: false
+  xy: 2, 156
+  size: 161, 167
+  orig: 161, 167
+  offset: 0, 0
+  index: -1
+glow_02
+  rotate: false
+  xy: 778, 181
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 518, 78
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+star_02
+  rotate: false
+  xy: 778, 49
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+star_XL_01
+  rotate: false
+  xy: 2, 2
+  size: 256, 51
+  orig: 256, 51
+  offset: 0, 0
+  index: -1
+star_XL_02
+  rotate: false
+  xy: 649, 311
+  size: 256, 51
+  orig: 256, 51
+  offset: 0, 0
+  index: -1
+star_XL_03
+  rotate: false
+  xy: 644, 529
+  size: 256, 52
+  orig: 256, 52
+  offset: 0, 0
+  index: -1
+star_XL_04
+  rotate: false
+  xy: 260, 282
+  size: 256, 51
+  orig: 256, 51
+  offset: 0, 0
+  index: -1
+star_XL_05
+  rotate: false
+  xy: 259, 229
+  size: 256, 51
+  orig: 256, 51
+  offset: 0, 0
+  index: -1
+star_XL_06
+  rotate: false
+  xy: 259, 176
+  size: 256, 51
+  orig: 256, 51
+  offset: 0, 0
+  index: -1
+star_XL_07
+  rotate: false
+  xy: 259, 123
+  size: 256, 51
+  orig: 256, 51
+  offset: 0, 0
+  index: -1
+star_XL_08
+  rotate: false
+  xy: 644, 475
+  size: 256, 52
+  orig: 256, 52
+  offset: 0, 0
+  index: -1
+star_XL_09
+  rotate: false
+  xy: 260, 70
+  size: 256, 51
+  orig: 256, 51
+  offset: 0, 0
+  index: -1
+star_XL_10
+  rotate: false
+  xy: 260, 17
+  size: 256, 51
+  orig: 256, 51
+  offset: 0, 0
+  index: -1
+yuan_bai
+  rotate: false
+  xy: 2, 325
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

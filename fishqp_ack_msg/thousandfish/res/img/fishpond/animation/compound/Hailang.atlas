@@ -1,0 +1,20 @@
+
+Hailang.png
+size: 589,358
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hailang5
+  rotate: true
+  xy: 358, 24
+  size: 333, 230
+  orig: 333, 230
+  offset: 0, 0
+  index: -1
+pinmu
+  rotate: false
+  xy: 1, 1
+  size: 356, 356
+  orig: 356, 356
+  offset: 0, 0
+  index: -1

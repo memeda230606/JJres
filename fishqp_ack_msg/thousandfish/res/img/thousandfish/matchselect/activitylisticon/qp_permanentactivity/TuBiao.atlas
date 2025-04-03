@@ -1,0 +1,125 @@
+
+TuBiao.png
+size: 234,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jd/beijing1
+  rotate: false
+  xy: 1, 120
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+jd/buyu
+  rotate: true
+  xy: 88, 114
+  size: 94, 25
+  orig: 94, 25
+  offset: 0, 0
+  index: -1
+jd/diaogan
+  rotate: false
+  xy: 1, 209
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+jd/jinbi
+  rotate: false
+  xy: 1, 1
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+qp/jinbi
+  rotate: false
+  xy: 1, 1
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+jd/libao
+  rotate: true
+  xy: 185, 49
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+qp/libao
+  rotate: true
+  xy: 185, 49
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+jd/libaobeijing
+  rotate: true
+  xy: 98, 210
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+jd/qiuka1
+  rotate: true
+  xy: 187, 197
+  size: 99, 42
+  orig: 99, 42
+  offset: 0, 0
+  index: -1
+jd/shu
+  rotate: true
+  xy: 185, 12
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+qp/shu
+  rotate: true
+  xy: 185, 12
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+qp/beijing
+  rotate: true
+  xy: 155, 113
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+qp/beijing2
+  rotate: true
+  xy: 1, 32
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+qp/buyu
+  rotate: true
+  xy: 157, 25
+  size: 87, 27
+  orig: 87, 27
+  offset: 0, 0
+  index: -1
+qp/diangan
+  rotate: false
+  xy: 79, 30
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+qp/guafen
+  rotate: true
+  xy: 114, 111
+  size: 98, 40
+  orig: 98, 40
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1, 297
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1

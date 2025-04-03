@@ -1,0 +1,146 @@
+
+BY_hedan_miaozhun.png
+size: 1208,1063
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_004_le_uv
+  rotate: true
+  xy: 835, 515
+  size: 149, 213
+  orig: 149, 213
+  offset: 0, 0
+  index: -1
+glow_01
+  rotate: false
+  xy: 1043, 28
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow_02
+  rotate: false
+  xy: 835, 806
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+halo_002_gu
+  rotate: false
+  xy: 1075, 677
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+jin
+  rotate: false
+  xy: 1, 532
+  size: 416, 530
+  orig: 416, 530
+  offset: 0, 0
+  index: -1
+qilang_01
+  rotate: false
+  xy: 1049, 538
+  size: 158, 126
+  orig: 158, 126
+  offset: 0, 0
+  index: -1
+qilang_02
+  rotate: false
+  xy: 1049, 411
+  size: 158, 126
+  orig: 158, 126
+  offset: 0, 0
+  index: -1
+qilang_03
+  rotate: false
+  xy: 757, 388
+  size: 158, 126
+  orig: 158, 126
+  offset: 0, 0
+  index: -1
+qilang_04
+  rotate: false
+  xy: 757, 261
+  size: 158, 126
+  orig: 158, 126
+  offset: 0, 0
+  index: -1
+qilang_05
+  rotate: true
+  xy: 916, 356
+  size: 158, 126
+  orig: 158, 126
+  offset: 0, 0
+  index: -1
+qilang_06
+  rotate: false
+  xy: 757, 134
+  size: 158, 126
+  orig: 158, 126
+  offset: 0, 0
+  index: -1
+qilang_07
+  rotate: true
+  xy: 916, 197
+  size: 158, 126
+  orig: 158, 126
+  offset: 0, 0
+  index: -1
+qilang_08
+  rotate: false
+  xy: 1043, 284
+  size: 158, 126
+  orig: 158, 126
+  offset: 0, 0
+  index: -1
+qilang_09
+  rotate: false
+  xy: 757, 7
+  size: 158, 126
+  orig: 158, 126
+  offset: 0, 0
+  index: -1
+qilang_10
+  rotate: true
+  xy: 916, 38
+  size: 158, 126
+  orig: 158, 126
+  offset: 0, 0
+  index: -1
+qilang_11
+  rotate: false
+  xy: 1043, 157
+  size: 158, 126
+  orig: 158, 126
+  offset: 0, 0
+  index: -1
+qk_eff_guang01
+  rotate: false
+  xy: 835, 665
+  size: 239, 140
+  orig: 239, 140
+  offset: 0, 0
+  index: -1
+sbkj_202
+  rotate: true
+  xy: 418, 19
+  size: 512, 338
+  orig: 512, 338
+  offset: 0, 0
+  index: -1
+tong
+  rotate: false
+  xy: 1, 1
+  size: 416, 530
+  orig: 416, 530
+  offset: 0, 0
+  index: -1
+yin
+  rotate: false
+  xy: 418, 532
+  size: 416, 530
+  orig: 416, 530
+  offset: 0, 0
+  index: -1

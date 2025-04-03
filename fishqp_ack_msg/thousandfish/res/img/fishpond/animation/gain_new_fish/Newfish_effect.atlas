@@ -1,0 +1,118 @@
+
+Newfish_effect.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 2
+  size: 556, 170
+  orig: 556, 170
+  offset: 0, 0
+  index: -1
+frame_1
+  rotate: false
+  xy: 706, 195
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 174
+  size: 702, 332
+  orig: 702, 332
+  offset: 0, 0
+  index: -1
+glow_1
+  rotate: false
+  xy: 964, 195
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_2
+  rotate: false
+  xy: 1222, 168
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+line_1
+  rotate: false
+  xy: 706, 453
+  size: 634, 53
+  orig: 634, 53
+  offset: 0, 0
+  index: -1
+line_2
+  rotate: false
+  xy: 1342, 495
+  size: 490, 11
+  orig: 490, 11
+  offset: 0, 0
+  index: -1
+line_3
+  rotate: false
+  xy: 1765, 216
+  size: 222, 19
+  orig: 222, 19
+  offset: 0, 0
+  index: -1
+line_4
+  rotate: false
+  xy: 1765, 196
+  size: 215, 18
+  orig: 215, 18
+  offset: 0, 0
+  index: -1
+line_5
+  rotate: false
+  xy: 1765, 186
+  size: 216, 8
+  orig: 216, 8
+  offset: 0, 0
+  index: -1
+line_6
+  rotate: true
+  xy: 1738, 168
+  size: 325, 25
+  orig: 325, 25
+  offset: 0, 0
+  index: -1
+line_7
+  rotate: false
+  xy: 706, 168
+  size: 326, 25
+  orig: 326, 25
+  offset: 0, 0
+  index: -1
+newfish
+  rotate: false
+  xy: 1342, 426
+  size: 338, 67
+  orig: 338, 67
+  offset: 0, 0
+  index: -1
+text_newfish
+  rotate: false
+  xy: 1342, 426
+  size: 338, 67
+  orig: 338, 67
+  offset: 0, 0
+  index: -1
+ring_1
+  rotate: false
+  xy: 1480, 168
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1765, 237
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+hdsc_bt.png
+size: 378,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_taitou
+  rotate: false
+  xy: 2, 131
+  size: 280, 131
+  orig: 280, 131
+  offset: 0, 0
+  index: -1
+bg_zsjt
+  rotate: true
+  xy: 266, 8
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+pic_jiantou_1
+  rotate: true
+  xy: 2, 2
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+pic_piaofuyuan
+  rotate: false
+  xy: 26, 6
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+yanwu/yw_00
+  rotate: true
+  xy: 2, 19
+  size: 110, 42
+  orig: 110, 42
+  offset: 0, 0
+  index: -1
+yanwu/yw_01
+  rotate: true
+  xy: 46, 19
+  size: 110, 42
+  orig: 110, 42
+  offset: 0, 0
+  index: -1
+yanwu/yw_02
+  rotate: true
+  xy: 90, 19
+  size: 110, 42
+  orig: 110, 42
+  offset: 0, 0
+  index: -1
+yanwu/yw_03
+  rotate: true
+  xy: 134, 19
+  size: 110, 42
+  orig: 110, 42
+  offset: 0, 0
+  index: -1
+yanwu/yw_04
+  rotate: true
+  xy: 178, 19
+  size: 110, 42
+  orig: 110, 42
+  offset: 0, 0
+  index: -1
+yanwu/yw_05
+  rotate: true
+  xy: 222, 19
+  size: 110, 42
+  orig: 110, 42
+  offset: 0, 0
+  index: -1
+yanwu/yw_06
+  rotate: false
+  xy: 266, 87
+  size: 110, 42
+  orig: 110, 42
+  offset: 0, 0
+  index: -1
+yanwu/yw_07
+  rotate: false
+  xy: 266, 43
+  size: 110, 42
+  orig: 110, 42
+  offset: 0, 0
+  index: -1
+yanwu/yw_08
+  rotate: true
+  xy: 284, 152
+  size: 110, 42
+  orig: 110, 42
+  offset: 0, 0
+  index: -1
+yanwu/yw_09
+  rotate: true
+  xy: 328, 152
+  size: 110, 42
+  orig: 110, 42
+  offset: 0, 0
+  index: -1

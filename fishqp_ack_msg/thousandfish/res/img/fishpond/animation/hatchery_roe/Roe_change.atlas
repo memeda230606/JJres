@@ -1,0 +1,230 @@
+
+Roe_change.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+YL_1
+  rotate: false
+  xy: 2, 2
+  size: 124, 114
+  orig: 124, 114
+  offset: 0, 0
+  index: -1
+YL_2
+  rotate: false
+  xy: 128, 2
+  size: 124, 114
+  orig: 124, 114
+  offset: 0, 0
+  index: -1
+YL_3
+  rotate: false
+  xy: 254, 2
+  size: 124, 114
+  orig: 124, 114
+  offset: 0, 0
+  index: -1
+frame_1
+  rotate: false
+  xy: 516, 636
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_1
+  rotate: false
+  xy: 2, 376
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_2
+  rotate: false
+  xy: 2, 118
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_3
+  rotate: false
+  xy: 1030, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow_4
+  rotate: false
+  xy: 774, 636
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_line_1
+  rotate: false
+  xy: 518, 248
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting3_01
+  rotate: false
+  xy: 2, 894
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+images/lighting3_02
+  rotate: false
+  xy: 2, 764
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+images/lighting3_03
+  rotate: false
+  xy: 516, 894
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+images/lighting3_04
+  rotate: false
+  xy: 2, 634
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
+images/lighting_01
+  rotate: false
+  xy: 776, 506
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_02
+  rotate: false
+  xy: 1160, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_03
+  rotate: false
+  xy: 1032, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_04
+  rotate: false
+  xy: 518, 118
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_05
+  rotate: false
+  xy: 1290, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_06
+  rotate: false
+  xy: 1162, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_07
+  rotate: false
+  xy: 1420, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_08
+  rotate: false
+  xy: 1292, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_09
+  rotate: false
+  xy: 1550, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_10
+  rotate: false
+  xy: 1422, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_11
+  rotate: false
+  xy: 1680, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_12
+  rotate: false
+  xy: 1552, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_13
+  rotate: false
+  xy: 1810, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_14
+  rotate: false
+  xy: 1682, 764
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_15
+  rotate: false
+  xy: 648, 248
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_16
+  rotate: false
+  xy: 648, 118
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ring_1
+  rotate: false
+  xy: 260, 376
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ring_2
+  rotate: false
+  xy: 260, 118
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ring_3
+  rotate: false
+  xy: 518, 378
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

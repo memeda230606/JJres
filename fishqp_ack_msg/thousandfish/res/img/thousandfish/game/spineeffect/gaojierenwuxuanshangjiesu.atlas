@@ -1,0 +1,27 @@
+
+gaojierenwuxuanshangjiesu.png
+size: 1544,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liemodarenjineng/贴图/Tex_Smoke_23_1
+  rotate: false
+  xy: 1284, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+qianpao/Ring_002_1
+  rotate: false
+  xy: 1414, 104
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+qianpao/任务/bg_diban1
+  rotate: false
+  xy: 2, 2
+  size: 1280, 230
+  orig: 1280, 230
+  offset: 0, 0
+  index: -1

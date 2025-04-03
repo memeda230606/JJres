@@ -1,0 +1,632 @@
+[
+    {
+        "name": "先锋勇者",
+        "skinIndex": 1,
+        "cannonID": 1,
+        "id": 1,
+        "bodyImage": "cannon_bravePioneer1",
+        "fireCrackerImage": "bullet_firecracker",
+        "violentFireCrackerImage": "bullet_firecracker",
+        "powerNumPos": { "x" : 12, "y" : 0},
+        "skinScale": 1,
+        "nameRes": "img/thousandfish/game/popup/skin/name/txt_xianfengyongzhe.png",
+        "cannonInfoNameRes": "img/thousandfish/game/popup/newcannoninfo/name/title_xianfengyongzhe.png",
+        "unlockType": 0,
+        "unlockCondition": 0,
+        "kpAnim": "kp_bravePioneer",
+        "bulletImage": "bullet_bravePioneer",
+        "violentBulletImage": "bullet_bravePioneer",
+        "bombAnim": "bomb_bravePioneer",
+        "specialBombAnim": "bomb_newyear",
+        "kpPos": { "x" : 145, "y" : 0},
+        "bombScale": 0.75,
+        "growId": 40001502,
+        "perpetualId": 40001502,
+        "fireSound": "SendBullet",
+        "bombSound": "BulletExplode",
+        "additionIcon": ["icon_speedUp1"],
+        "introText": [
+            "狂暴时攻击频率提升40%"
+        ],
+        "animType": 1,
+        "anchorY": 0.3,
+        "bulletScale": 1,
+        "cannonFrameSpeed": 15,
+        "bombFrameSpeed": 15,
+        "res": {
+            "bomb": "game/effect/bomb_bravePioneer",
+            "specialBomb": "game/effect/bomb_newyear",
+            "body": "game/cannon/packed/cannon_bravePioneer1Atlas"
+        }
+    },
+    {
+        "name": "寒冰守卫",
+        "skinIndex": 2,
+        "cannonID": 3,
+        "id": 3,
+        "fireCrackerImage": "bullet_firecracker",
+        "violentFireCrackerImage": "bullet_firecracker",
+        "powerNumPos": { "x" : 16, "y" : 2
+        },
+        "skinScale": 1,
+        "nameRes": "img/thousandfish/game/popup/skin/name/txt_hanbingshouwei.png",
+        "cannonInfoNameRes": "img/thousandfish/game/popup/newcannoninfo/name/title_hanbingshouwei.png",
+        "unlockType": 2,
+        "unlockCondition": 100,
+        "bodyImage": "cannon_iceGuard1",
+        "bulletImage": "bullet_iceGuard",
+        "violentBulletImage": "bullet_iceGuard",
+        "bombAnim": "bomb_iceGuard",
+        "specialBombAnim": "bomb_newyear",
+        "kpPos": { "x" : 130, "y" : 0
+        },
+        "bombScale": 0.6,
+        "growId": 40001571,
+        "perpetualId": 40001571,
+        "fireSound": "SendBulletIce",
+        "bombSound": "BulletExplodeIce",
+        "additionIcon": [
+            "icon_speedUp1",
+            "icon_iceGuard"
+        ],
+        "introText": [
+            "狂暴时攻击频率提升40%",
+            "狂暴时有一定几率冰冻鱼"
+        ],
+        "animType": 1,
+        "anchorY": 0.32,
+        "bulletScale": 0.9,
+        "cannonFrameSpeed": 30,
+        "bombFrameSpeed": 10,
+        "res": {
+            "bomb": "game/effect/bomb_iceGuard",
+            "specialBomb": "game/effect/bomb_newyear",
+            "body": "game/cannon/packed/cannon_iceGuard1Atlas"
+        },
+        "exCardGrow": [
+            40001556,
+            40001562
+        ]
+    },
+    {
+        "name": "时空幻影",
+        "skinIndex": 3,
+        "cannonID": 5,
+        "id": 5,
+        "fireCrackerImage": "bullet_firecracker",
+        "violentFireCrackerImage": "bullet_firecracker",
+        "powerNumPos": { "x" : 19, "y" : -0.5
+        },
+        "skinScale": 1,
+        "nameRes": "img/thousandfish/game/popup/skin/name/txt_shikonghuanying.png",
+        "cannonInfoNameRes": "img/thousandfish/game/popup/newcannoninfo/name/title_shikonghuanying.png",
+        "unlockType": 1,
+        "unlockCondition": 0,
+        "bodyImage": "cannon_spaceGhost1",
+        "ghostImage": [
+            "cannon_spaceGhost2",
+            "cannon_spaceGhost2"
+        ],
+        "kpAnim": "kp_spaceGhost",
+        "bulletImage": "bullet_spaceGhost",
+        "violentBulletImage": "bullet_spaceGhost",
+        "bombAnim": "bomb_spaceGhost2",
+        "specialBombAnim": "bomb_newyear",
+        "kpPos": { "x" : 80, "y" : 0
+        },
+        "bombScale": 0.65,
+        "growId": 40001019,
+        "perpetualId": 40001588,
+        "fireSound": "SendBullet",
+        "bombSound": "BulletExplode",
+        "additionIcon": [
+            "icon_spaceGhost1"
+        ],
+        "introText": [
+            "狂暴时炮台双重分身(2倍消耗)"
+        ],
+        "animType": 1,
+        "anchorY": 0.36,
+        "bulletScale": 0.9,
+        "cannonFrameSpeed": 15,
+        "bombFrameSpeed": 15,
+        "res": {
+            "bomb": "game/effect/bomb_spaceGhost",
+            "specialBomb": "game/effect/bomb_newyear",
+            "body": "game/cannon/packed/cannon_spaceGhost1Atlas"
+        },
+        "ghostRes": [
+            "game/cannon/packed/cannon_spaceGhost2Atlas",
+            "game/cannon/packed/cannon_spaceGhost2Atlas"
+        ],
+        "exCardGrow": [
+            40001559,
+            40001565
+        ]
+    },
+    {
+        "name": "暗影猎手",
+        "skinIndex": 4,
+        "cannonID": 7,
+        "id": 7,
+        "fireCrackerImage": "bullet_firecracker",
+        "violentFireCrackerImage": "bullet_firecracker",
+        "powerNumPos": { "x" : 14, "y" : 0.5
+        },
+        "skinScale": 1,
+        "nameRes": "img/thousandfish/game/popup/skin/name/txt_anyinglieshou.png",
+        "cannonInfoNameRes": "img/thousandfish/game/popup/newcannoninfo/name/title_anyinglieshou.png",
+        "unlockType": 2,
+        "unlockCondition": 1000,
+        "bodyImage": "cannon_shadowHunter1",
+        "bulletImage": "bullet_shandowHunter1",
+        "violentBulletImage": "bullet_shandowHunter1",
+        "bombAnim": "bomb_shadowHunter1",
+        "specialBombAnim": "bomb_newyear",
+        "kpPos": { "x" : 90, "y" : 0
+        },
+        "bombScale": 1,
+        "growId": 40001573,
+        "perpetualId": 40001573,
+        "fireSound": "SendBulletLaser",
+        "bombSound": "BulletExplodeLaser",
+        "additionIcon": [
+            "icon_shadowHunter1"
+        ],
+        "introText": [
+            "狂暴时子弹穿透一次(2倍消耗)"
+        ],
+        "animType": 1,
+        "anchorY": 0.38,
+        "bulletScale": 0.7,
+        "cannonFrameSpeed": 15,
+        "bombFrameSpeed": 15,
+        "res": {
+            "bomb": "game/effect/bomb_shadowHunter1Atlas",
+            "specialBomb": "game/effect/bomb_newyear",
+            "body": "game/cannon/packed/cannon_shadowHunter1Atlas"
+        },
+        "skinID": [
+            6
+        ],
+        "lastSkinGrow": 40210016,
+        "lastSkinGrow_New": 40002015,
+        "exCardGrow": [
+            40001557,
+            40001563
+        ],
+        "changeSkinEca": 15393
+    },
+    {
+        "name": "暗影游侠",
+        "skinIndex": 5,
+        "cannonID": 9,
+        "id": 9,
+        "fireCrackerImage": "bullet_firecracker",
+        "violentFireCrackerImage": "bullet_firecracker",
+        "powerNumPos": { "x" : 14, "y" : -1
+        },
+        "skinScale": 1,
+        "nameRes": "img/thousandfish/game/popup/skin/name/txt_anyingyouxia.png",
+        "cannonInfoNameRes": "img/thousandfish/game/popup/newcannoninfo/name/title_anyingyouxia.png",
+        "unlockType": 1,
+        "unlockCondition": 0,
+        "bodyImage": "cannon_shadowHunter3",
+        "bulletImage": "bullet_shandowHunter3",
+        "violentBulletImage": "bullet_shandowHunter3",
+        "bombAnim": "qp_hanyinglieshou_baozha",
+        "specialBombAnim": "bomb_newyear",
+        "kpPos": { "x" : 90, "y" : 0
+        },
+        "bombScale": 1,
+        "growId": 40001013,
+        "perpetualId": 40001592,
+        "perpetualCostItem": 200,
+        "fireSound": "SendBulletLaser3",
+        "bombSound": "BulletExplodeLaser",
+        "additionIcon": [
+            "icon_shadowHunter2"
+        ],
+        "introText": [
+            "狂暴时子弹穿透两次(3倍消耗)"
+        ],
+        "animType": 1,
+        "anchorY": 0.39,
+        "bulletScale": 0.8,
+        "cannonFrameSpeed": 15,
+        "bombFrameSpeed": 15,
+        "res": {
+            "bomb": "game/effect/bomb_shadowHunter3Atlas",
+            "specialBomb": "game/effect/bomb_newyear",
+            "body": "game/cannon/packed/cannon_shadowHunter3Atlas"
+        },
+        "skinID": [
+            2,
+            7
+        ],
+        "lastSkinGrow": 40210009,
+        "lastSkinGrow_New": 40002012,
+        "exCardGrow": [
+            40001561,
+            40001567
+        ],
+        "changeSkinEca": 15390
+    },
+    {
+        "name": "烈焰骑士",
+        "skinIndex": 6,
+        "cannonID": 10,
+        "id": 10,
+        "fireCrackerImage": "bullet_firecracker",
+        "violentFireCrackerImage": "bullet_firecracker",
+        "powerNumPos": { "x" : 13, "y" : 0
+        },
+        "skinScale": 1,
+        "nameRes": "img/thousandfish/game/popup/skin/name/txt_lieyanqishi.png",
+        "cannonInfoNameRes": "img/thousandfish/game/popup/newcannoninfo/name/title_lieyanqishi.png",
+        "unlockType": 2,
+        "unlockCondition": 500,
+        "bodyImage": "cannon_flameKnight1",
+        "kpAnim": "kp_flameKnight1",
+        "bulletImage": "bullet_flameKnight",
+        "violentBulletImage": "bullet_flameKnight",
+        "bombAnim": "bomb_flameKnight",
+        "specialBombAnim": "bomb_newyear",
+        "kpPos": { "x" : 130, "y" : 0
+        },
+        "bombScale": 1.15,
+        "growId": 40001572,
+        "perpetualId": 40001572,
+        "fireSound": "SendBulletFire",
+        "bombSound": "BulletExplodeFire",
+        "additionIcon": [
+            "icon_flameKnight1"
+        ],
+        "introText": [
+            "狂暴时子弹威力双倍(2倍消耗)"
+        ],
+        "animType": 1,
+        "anchorY": 0.32,
+        "bulletScale": 0.8,
+        "cannonFrameSpeed": 15,
+        "bombFrameSpeed": 20,
+        "res": {
+            "bomb": "game/effect/bomb_flameKnight",
+            "specialBomb": "game/effect/bomb_newyear",
+            "body": "game/cannon/packed/cannon_flameKnight1Atlas"
+        },
+        "exCardGrow": [
+            40001558,
+            40001564
+        ]
+    },
+    {
+        "name": "烈焰恶魔",
+        "skinIndex": 7,
+        "cannonID": 11,
+        "id": 11,
+        "fireCrackerImage": "bullet_firecracker",
+        "violentFireCrackerImage": "bullet_firecracker",
+        "powerNumPos": { "x" : 7, "y" : 3
+        },
+        "skinScale": 1,
+        "nameRes": "img/thousandfish/game/popup/skin/name/txt_lieyanemo.png",
+        "cannonInfoNameRes": "img/thousandfish/game/popup/newcannoninfo/name/title_lieyanemo.png",
+        "unlockType": 1,
+        "unlockCondition": 0,
+        "bodyImage": "cannon_lyem_pao",
+        "bulletImage": "bullet_lyem",
+        "violentBulletImage": "bullet_lyem",
+        "bombAnim": "bomb_lyem",
+        "specialBombAnim": "bomb_newyear",
+        "kpPos": { "x" : 80, "y" : 0
+        },
+        "bombScale": 0.65,
+        "growId": 40001402,
+        "perpetualId": 40001593,
+        "perpetualCostItem": 200,
+        "fireSound": "SendBulletFire2",
+        "bombSound": "BulletExplodeFire",
+        "additionIcon": [
+            "icon_flameKnight2"
+        ],
+        "introText": [
+            "狂暴时子弹威力三倍(3倍消耗)"
+        ],
+        "animType": 1,
+        "anchorY": 0.29,
+        "bulletScale": 1,
+        "cannonFrameSpeed": 15,
+        "bombFrameSpeed": 15,
+        "res": {
+            "bomb": "game/effect/bomb_lyem",
+            "specialBomb": "game/effect/bomb_newyear",
+            "body": "game/cannon/packed/cannon_lyemAtlas"
+        },
+        "skinID": [
+            1,
+            4,
+            11
+        ],
+        "lastSkinGrow": 40210008,
+        "lastSkinGrow_New": 40002011,
+        "exCardGrow": [
+            40001576,
+            40001578
+        ],
+        "changeSkinEca": 15389
+    },
+    {
+        "name": "雷神之锤",
+        "skinIndex": 8,
+        "cannonID": 12,
+        "id": 12,
+        "fireCrackerImage": "bullet_firecracker",
+        "violentFireCrackerImage": "bullet_firecracker",
+        "violentFireCrackerImageSmall": "bullet_firecracker_vio_small",
+        "powerNumPos": { "x" : 14, "y" : 0
+        },
+        "skinScale": 1,
+        "perpetualId": 40001590,
+        "nameRes": "img/thousandfish/game/popup/skin/name/txt_leishenzhichui.png",
+        "cannonInfoNameRes": "img/thousandfish/game/popup/newcannoninfo/name/title_leishenzhichui.png",
+        "unlockType": 1,
+        "unlockCondition": 0,
+        "bodyImage": "cannon_lszc_pao",
+        "bulletImage": "bullet_lszc",
+        "violentBulletImage": "bullet_lszc",
+        "bombAnim": "bomb_lszc",
+        "specialBombAnim": "bomb_newyear",
+        "kpPos": { "x" : 80, "y" : 0
+        },
+        "bombScale": 0.60,
+        "growId": 40001401,
+        "fireSound": "SendBulletElectric",
+        "bombSound": "BulletExplodeElectic",
+        "additionIcon": [
+            "icon_tanshe",
+            "icon_mabi"
+        ],
+        "introText": [
+            "狂暴时子弹弹射一次(2倍消耗)",
+            "狂暴时子弹附带麻痹减速效果"
+        ],
+        "animType": 1,
+        "anchorY": 0.29,
+        "bulletScale": 1,
+        "cannonFrameSpeed": 15,
+        "bombFrameSpeed": 15,
+        "res": {
+            "bomb": "game/effect/bomb_lszc",
+            "specialBomb": "game/effect/bomb_newyear",
+            "body": "game/cannon/packed/cannon_lszcAtlas"
+        },
+        "exCardGrow": [
+            40001575,
+            40001577
+        ]
+    },
+    {
+        "name": "极寒之刃",
+        "skinIndex": 9,
+        "cannonID": 14,
+        "id": 14,
+        "fireCrackerImage": "bullet_firecracker",
+        "violentFireCrackerImage": "bullet_firecracker",
+        "powerNumPos": { "x" : 14, "y" : 0.5
+        },
+        "skinScale": 1,
+        "nameRes": "img/thousandfish/game/popup/skin/name/txt_jihanzhiren.png",
+        "cannonInfoNameRes": "img/thousandfish/game/popup/newcannoninfo/name/title_jihanzhiren.png",
+        "unlockType": 1,
+        "unlockCondition": 0,
+        "bodyImage": "cannon_coldBlade",
+        "bulletImage": "bullet_coldBlade",
+        "violentBulletImage": "bullet_coldBlade",
+        "bombAnim": "bomb_coldBlade",
+        "specialBombAnim": "bomb_newyear",
+        "kpPos": { "x" : 80, "y" : 0
+        },
+        "bombScale": 0.65,
+        "growId": 40001011,
+        "perpetualId": 40001589,
+        "fireSound": "SendBulletIce3",
+        "bombSound": "BulletExplodeIce",
+        "additionIcon": [
+            "icon_flameKnight1",
+            "icon_iceGuard"
+        ],
+        "introText": [
+            "狂暴时子弹威力双倍(2倍消耗)",
+            "狂暴时必定冰冻鱼"
+        ],
+        "animType": 1,
+        "anchorY": 0.34,
+        "bulletScale": 0.85,
+        "cannonFrameSpeed": 15,
+        "bombFrameSpeed": 15,
+        "res": {
+            "bomb": "game/effect/bomb_coldBlade",
+            "specialBomb": "game/effect/bomb_newyear",
+            "body": "game/cannon/packed/cannon_coldBladeAtlas"
+        },
+        "exCardGrow": [
+            40001560,
+            40001566
+        ]
+    },
+    {
+        "name": "时空幽灵",
+        "skinIndex": 10,
+        "cannonID": 16,
+        "id": 16,
+        "fireCrackerImage": "bullet_firecracker",
+        "violentFireCrackerImage": "bullet_firecracker",
+        "powerNumPos": { "x" : 19, "y" : -0.5
+        },
+        "skinScale": 1,
+        "nameRes": "img/thousandfish/game/popup/skin/name/txt_shikongyouling.png",
+        "cannonInfoNameRes": "img/thousandfish/game/popup/newcannoninfo/name/title_shikongyouling.png",
+        "unlockType": 1,
+        "unlockCondition": 0,
+        "bodyImage": "cannon_specter",
+        "ghostImage": [
+            "specterGhost2",
+            "specterGhost2",
+            "specterGhost1"
+        ],
+        "kpAnim": "kp_specter",
+        "bulletImage": "bullet_specter",
+        "violentBulletImage": "bullet_specter",
+        "bombAnim": "bomb_specter",
+        "specialBombAnim": "bomb_newyear",
+        "kpPos": { "x" : 80, "y" : 0
+        },
+        "bombScale": 0.65,
+        "growId": 40001403,
+        "perpetualId": 40001591,
+        "perpetualCostItem": 200,
+        "fireSound": "SendBulletSpecter",
+        "bombSound": "BulletExplodeSpeter",
+        "additionIcon": [
+            "icon_spaceGhost2"
+        ],
+        "introText": [
+            "狂暴时炮台3重分身(3倍消耗)"
+        ],
+        "animType": 1,
+        "anchorY": 0.36,
+        "bulletScale": 1,
+        "cannonFrameSpeed": 15,
+        "bombFrameSpeed": 15,
+        "res": {
+            "bomb": "game/effect/bomb_specter",
+            "specialBomb": "game/effect/bomb_newyear",
+            "body": "game/cannon/packed/cannon_specterAtlas"
+        },
+        "ghostRes": [
+            "game/cannon/packed/specterGhost2",
+            "game/cannon/packed/specterGhost2",
+            "game/cannon/packed/specterGhost1"
+        ],
+        "skinID": [
+            3,
+            9
+        ],
+        "lastSkinGrow": 40210014,
+        "lastSkinGrow_New": 40002014,
+        "exCardGrow": [
+            40001585,
+            40001586
+        ],
+        "changeSkinEca": 15392
+    },
+    {
+        "name": "森罗战甲",
+        "skinIndex": 15,
+        "cannonID": 17,
+        "id": 17,
+        "fireCrackerImage": "bullet_firecracker",
+        "violentFireCrackerImage": "bullet_firecracker",
+        "violentFireCrackerImageSmall": "bullet_firecracker_vio_small",
+        "powerNumPos": { "x" : 22, "y" : 0
+        },
+        "skinScale": 1,
+        "nameRes": "img/thousandfish/game/popup/skin/name/txt_senluozhanjia.png",
+        "cannonInfoNameRes": "img/thousandfish/game/popup/newcannoninfo/name/title_senluozhanjia.png",
+        "unlockType": 1,
+        "unlockCondition": 0,
+        "bodyImage": "cannon_armour",
+        "bulletImage": "bullet_qp_slzj",
+        "violentBulletImage": "bullet_qp_slzj",
+        "bombAnim": "qp_slzj_bz",
+        "specialBombAnim": "bomb_newyear",
+        "kpPos": { "x" : 80, "y" : 0
+        },
+        "bombScale": 1,
+        "growId": 40001020,
+        "perpetualId": 40001503,
+        "perpetualCostItem": 200,
+        "fireSound": "armourFire",
+        "bombSound": "armourBomb",
+        "additionIcon": [
+            "icon_tanshe",
+            "icon_mabi"
+        ],
+        "introText": [
+            "狂暴威力双倍且弹射1次(3倍消耗)",
+            "狂暴时子弹附带麻痹减速效果"
+        ],
+        "animType": 1,
+        "anchorY": 0.35,
+        "bulletScale": 1,
+        "cannonFrameSpeed": 15,
+        "bombFrameSpeed": 15,
+        "res": {
+            "bomb": "game/effect/bomb_slzj",
+            "specialBomb": "game/effect/bomb_newyear",
+            "body": "game/cannon/packed/cannon_slzjAtlas"
+        },
+        "skinID": [
+            5,
+            8,
+            10
+        ],
+        "lastSkinGrow": 40210012,
+        "lastSkinGrow_New": 40002013,
+        "exCardGrow": [
+            40001504,
+            40001506
+        ],
+        "changeSkinEca": 15391
+    },
+    {
+        "name": "梦境银蛇",
+        "skinIndex": 16,
+        "cannonID": 19,
+        "id": 19,
+        "fireCrackerImage": "bullet_firecracker",
+        "violentFireCrackerImage": "bullet_firecracker",
+        "specialBombAnim": "bomb_newyear",
+        "powerNumPos": { "x" : 5, "y" : 0
+        },
+        "skinScale": 1,
+        "nameRes": "img/thousandfish/game/popup/skin/name/txt_mengjingyinshe.png",
+        "cannonInfoNameRes": "img/thousandfish/game/popup/newcannoninfo/name/title_mengjingyinshe.png",
+        "unlockType": 1,
+        "unlockCondition": 0,
+        "bodyImage": "mjys_kp",
+        "bulletImage": "bullet_ys",
+        "violentBulletImage": "bullet_ys",
+        "bombAnim": "qp_slzj_bz",
+        "kpPos": { "x" : 80, "y" : 0
+        },
+        "bombScale": 1,
+        "growId": 40001405,
+        "perpetualId": 40001508,
+        "fireSound": "armourFire",
+        "bombSound": "armourBomb",
+        "additionIcon": [
+            "icon_tanshe",
+            "icon_speedUp1"
+        ],
+        "introText": [
+            "狂暴时子弹弹射1次（2倍消耗）",
+            "攻击频率提升50%"
+        ],
+        "animType": 1,
+        "anchorY": 0.45,
+        "bulletScale": 1,
+        "cannonFrameSpeed": 15,
+        "bombFrameSpeed": 15,
+        "res": {
+            "bomb": "game/effect/bomb_slzj",
+            "specialBomb": "game/effect/bomb_newyear",
+            "body": "game/cannon/packed/cannon_mjys"
+        },
+        "exCardGrow": [
+            40001513,
+            40001516
+        ]
+    }
+]

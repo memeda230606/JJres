@@ -1,0 +1,13 @@
+
+hdsclg.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic_liuguang
+  rotate: false
+  xy: 2, 2
+  size: 210, 53
+  orig: 210, 53
+  offset: 0, 0
+  index: -1

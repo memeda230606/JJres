@@ -1,0 +1,90 @@
+
+Evolution.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Suc_glow_1
+  rotate: false
+  xy: 2, 324
+  size: 1279, 186
+  orig: 1279, 186
+  offset: 0, 0
+  index: -1
+Suc_glow_2
+  rotate: false
+  xy: 1283, 739
+  size: 702, 176
+  orig: 702, 176
+  offset: 0, 0
+  index: -1
+Suc_ring_1
+  rotate: false
+  xy: 706, 2
+  size: 334, 320
+  orig: 334, 320
+  offset: 0, 0
+  index: -1
+frame_1
+  rotate: false
+  xy: 1042, 66
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_2
+  rotate: false
+  xy: 1300, 88
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+glow_bottom
+  rotate: false
+  xy: 1558, 346
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+glow_fail
+  rotate: false
+  xy: 2, 512
+  size: 1279, 403
+  orig: 1279, 403
+  offset: 0, 0
+  index: -1
+ring_fail
+  rotate: false
+  xy: 1283, 481
+  size: 509, 256
+  orig: 509, 256
+  offset: 0, 0
+  index: -1
+ring_fail_2
+  rotate: false
+  xy: 2, 146
+  size: 702, 176
+  orig: 702, 176
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1300, 223
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+text_fail
+  rotate: false
+  xy: 2, 70
+  size: 254, 74
+  orig: 254, 74
+  offset: 0, 0
+  index: -1
+text_success_2
+  rotate: false
+  xy: 1794, 663
+  size: 252, 74
+  orig: 252, 74
+  offset: 0, 0
+  index: -1

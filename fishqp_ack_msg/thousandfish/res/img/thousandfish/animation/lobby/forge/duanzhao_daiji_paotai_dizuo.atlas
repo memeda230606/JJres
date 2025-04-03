@@ -1,0 +1,230 @@
+
+duanzhao_daiji_paotai_dizuo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_2
+  rotate: false
+  xy: 2, 416
+  size: 296, 80
+  orig: 296, 83
+  offset: 0, 2
+  index: -1
+lizi001
+  rotate: true
+  xy: 2, 2
+  size: 40, 58
+  orig: 64, 64
+  offset: 13, 3
+  index: -1
+xulie_00
+  rotate: false
+  xy: 147, 254
+  size: 143, 69
+  orig: 151, 95
+  offset: 4, 2
+  index: -1
+xulie_01
+  rotate: false
+  xy: 147, 325
+  size: 143, 89
+  orig: 151, 95
+  offset: 4, 2
+  index: -1
+xulie_02
+  rotate: false
+  xy: 292, 252
+  size: 143, 71
+  orig: 151, 95
+  offset: 4, 2
+  index: -1
+xulie_03
+  rotate: false
+  xy: 437, 251
+  size: 143, 72
+  orig: 151, 95
+  offset: 4, 2
+  index: -1
+xulie_04
+  rotate: false
+  xy: 146, 178
+  size: 143, 74
+  orig: 151, 95
+  offset: 4, 2
+  index: -1
+xulie_05
+  rotate: false
+  xy: 144, 21
+  size: 142, 75
+  orig: 151, 95
+  offset: 4, 2
+  index: -1
+xulie_06
+  rotate: false
+  xy: 291, 174
+  size: 143, 76
+  orig: 151, 95
+  offset: 4, 2
+  index: -1
+xulie_07
+  rotate: false
+  xy: 436, 172
+  size: 143, 77
+  orig: 151, 95
+  offset: 4, 2
+  index: -1
+xulie_08
+  rotate: false
+  xy: 145, 98
+  size: 143, 78
+  orig: 151, 95
+  offset: 4, 3
+  index: -1
+xulie_09
+  rotate: false
+  xy: 880, 335
+  size: 142, 79
+  orig: 151, 95
+  offset: 4, 3
+  index: -1
+xulie_10
+  rotate: false
+  xy: 668, 155
+  size: 140, 80
+  orig: 151, 95
+  offset: 5, 3
+  index: -1
+xulie_11
+  rotate: false
+  xy: 288, 11
+  size: 141, 81
+  orig: 151, 95
+  offset: 4, 3
+  index: -1
+xulie_12
+  rotate: false
+  xy: 668, 237
+  size: 140, 82
+  orig: 151, 95
+  offset: 5, 3
+  index: -1
+xulie_13
+  rotate: false
+  xy: 431, 6
+  size: 141, 83
+  orig: 151, 95
+  offset: 5, 3
+  index: -1
+xulie_14
+  rotate: true
+  xy: 582, 183
+  size: 140, 84
+  orig: 151, 95
+  offset: 5, 3
+  index: -1
+xulie_15
+  rotate: false
+  xy: 577, 325
+  size: 140, 86
+  orig: 151, 95
+  offset: 5, 3
+  index: -1
+xulie_16
+  rotate: false
+  xy: 435, 325
+  size: 140, 87
+  orig: 151, 95
+  offset: 5, 3
+  index: -1
+xulie_17
+  rotate: false
+  xy: 292, 325
+  size: 141, 88
+  orig: 151, 95
+  offset: 5, 3
+  index: -1
+xulie_18
+  rotate: false
+  xy: 719, 321
+  size: 140, 89
+  orig: 151, 95
+  offset: 5, 3
+  index: -1
+xulie_19
+  rotate: false
+  xy: 2, 137
+  size: 141, 90
+  orig: 151, 95
+  offset: 4, 3
+  index: -1
+xulie_20
+  rotate: false
+  xy: 2, 44
+  size: 140, 91
+  orig: 151, 95
+  offset: 5, 3
+  index: -1
+xulie_21
+  rotate: false
+  xy: 2, 229
+  size: 142, 91
+  orig: 151, 95
+  offset: 4, 3
+  index: -1
+xulie_22
+  rotate: false
+  xy: 2, 322
+  size: 143, 92
+  orig: 151, 95
+  offset: 4, 3
+  index: -1
+xulie_23
+  rotate: false
+  xy: 290, 94
+  size: 143, 78
+  orig: 151, 95
+  offset: 4, 2
+  index: -1
+xulie_24
+  rotate: false
+  xy: 435, 91
+  size: 143, 79
+  orig: 151, 95
+  offset: 4, 2
+  index: -1
+xulie_25
+  rotate: false
+  xy: 880, 416
+  size: 142, 80
+  orig: 151, 95
+  offset: 4, 2
+  index: -1
+xulie_26
+  rotate: false
+  xy: 300, 415
+  size: 143, 81
+  orig: 151, 95
+  offset: 4, 2
+  index: -1
+xulie_27
+  rotate: false
+  xy: 445, 414
+  size: 143, 82
+  orig: 151, 95
+  offset: 4, 2
+  index: -1
+xulie_28
+  rotate: false
+  xy: 590, 413
+  size: 143, 83
+  orig: 151, 95
+  offset: 4, 2
+  index: -1
+xulie_29
+  rotate: false
+  xy: 735, 412
+  size: 143, 84
+  orig: 151, 95
+  offset: 4, 2
+  index: -1

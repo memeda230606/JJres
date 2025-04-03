@@ -1,0 +1,188 @@
+
+BY_xianling_bing.png
+size: 1943,616
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/An_Di
+  rotate: false
+  xy: 96, 234
+  size: 381, 381
+  orig: 381, 381
+  offset: 0, 0
+  index: -1
+images/An_DiKuang
+  rotate: false
+  xy: 478, 234
+  size: 381, 381
+  orig: 381, 381
+  offset: 0, 0
+  index: -1
+images/BK
+  rotate: false
+  xy: 1, 196
+  size: 94, 419
+  orig: 94, 419
+  offset: 0, 0
+  index: -1
+images/BS_PM
+  rotate: false
+  xy: 938, 21
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/BingShuang
+  rotate: false
+  xy: 1172, 359
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/BingShuang_01
+  rotate: false
+  xy: 1195, 102
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/GH_G
+  rotate: false
+  xy: 1429, 359
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/LZ
+  rotate: false
+  xy: 1, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/PenYan_00000
+  rotate: true
+  xy: 130, 33
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+images/PenYan_00002
+  rotate: true
+  xy: 231, 33
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+images/PenYan_00004
+  rotate: true
+  xy: 332, 33
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+images/PenYan_00006
+  rotate: true
+  xy: 433, 33
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+images/PenYan_00008
+  rotate: true
+  xy: 534, 33
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+images/PenYan_00010
+  rotate: true
+  xy: 635, 33
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+images/PenYan_00012
+  rotate: true
+  xy: 736, 33
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+images/PenYan_00014
+  rotate: true
+  xy: 837, 33
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+images/PenYan_00016
+  rotate: false
+  xy: 1195, 1
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+images/PenYan_00018
+  rotate: false
+  xy: 1396, 1
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+images/PenYan_00020
+  rotate: false
+  xy: 1597, 1
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+images/PenYan_00022
+  rotate: true
+  xy: 1709, 158
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+images/PenYan_00023
+  rotate: true
+  xy: 1810, 158
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+images/Wu
+  rotate: false
+  xy: 860, 278
+  size: 311, 337
+  orig: 311, 337
+  offset: 0, 0
+  index: -1
+images/XueHua
+  rotate: false
+  xy: 1798, 29
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/Y_zha
+  rotate: false
+  xy: 1452, 102
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/Y_zha_kong
+  rotate: false
+  xy: 1686, 359
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/glow_01
+  rotate: false
+  xy: 1, 67
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+xsqd_lingqu.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liuguang_lingqu_02
+  rotate: false
+  xy: 190, 104
+  size: 10, 21
+  orig: 114, 43
+  offset: 8, 16
+  index: -1
+liuguang_lingqu_03
+  rotate: true
+  xy: 2, 2
+  size: 21, 32
+  orig: 114, 43
+  offset: 7, 5
+  index: -1
+liuguang_lingqu_04
+  rotate: false
+  xy: 157, 93
+  size: 31, 32
+  orig: 114, 43
+  offset: 7, 5
+  index: -1
+liuguang_lingqu_05
+  rotate: false
+  xy: 54, 25
+  size: 41, 32
+  orig: 114, 43
+  offset: 7, 5
+  index: -1
+liuguang_lingqu_06
+  rotate: false
+  xy: 55, 93
+  size: 50, 32
+  orig: 114, 43
+  offset: 8, 5
+  index: -1
+liuguang_lingqu_07
+  rotate: false
+  xy: 2, 25
+  size: 50, 32
+  orig: 114, 43
+  offset: 18, 5
+  index: -1
+liuguang_lingqu_08
+  rotate: false
+  xy: 55, 59
+  size: 50, 32
+  orig: 114, 43
+  offset: 28, 5
+  index: -1
+liuguang_lingqu_09
+  rotate: false
+  xy: 2, 93
+  size: 51, 32
+  orig: 114, 43
+  offset: 38, 5
+  index: -1
+liuguang_lingqu_10
+  rotate: false
+  xy: 2, 59
+  size: 51, 32
+  orig: 114, 43
+  offset: 48, 5
+  index: -1
+liuguang_lingqu_11
+  rotate: false
+  xy: 107, 93
+  size: 48, 32
+  orig: 114, 43
+  offset: 59, 5
+  index: -1
+liuguang_lingqu_12
+  rotate: false
+  xy: 107, 59
+  size: 38, 32
+  orig: 114, 43
+  offset: 69, 5
+  index: -1
+liuguang_lingqu_13
+  rotate: false
+  xy: 97, 25
+  size: 28, 32
+  orig: 114, 43
+  offset: 79, 5
+  index: -1
+liuguang_lingqu_14
+  rotate: false
+  xy: 147, 59
+  size: 18, 32
+  orig: 114, 43
+  offset: 89, 5
+  index: -1
+liuguang_lingqu_15
+  rotate: false
+  xy: 127, 43
+  size: 7, 14
+  orig: 114, 43
+  offset: 99, 5
+  index: -1

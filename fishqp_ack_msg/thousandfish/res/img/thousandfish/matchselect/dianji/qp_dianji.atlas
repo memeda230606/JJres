@@ -1,0 +1,41 @@
+
+qp_dianji.png
+size: 549,193
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aperture
+  rotate: false
+  xy: 483, 127
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bg_yu_00
+  rotate: false
+  xy: 247, 2
+  size: 234, 189
+  orig: 234, 189
+  offset: 0, 0
+  index: -1
+bg_yu_01
+  rotate: false
+  xy: 2, 2
+  size: 243, 189
+  orig: 243, 189
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 483, 61
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 483, 19
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

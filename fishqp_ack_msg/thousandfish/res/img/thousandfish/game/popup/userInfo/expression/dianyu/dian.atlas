@@ -1,0 +1,90 @@
+
+dian.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d10
+  rotate: false
+  xy: 1, 49
+  size: 109, 78
+  orig: 109, 78
+  offset: 0, 0
+  index: -1
+d11
+  rotate: false
+  xy: 112, 78
+  size: 79, 49
+  orig: 79, 49
+  offset: 0, 0
+  index: -1
+d5
+  rotate: false
+  xy: 112, 49
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+d6
+  rotate: false
+  xy: 447, 94
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+d7
+  rotate: false
+  xy: 1, 1
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+d8
+  rotate: false
+  xy: 112, 14
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+d9
+  rotate: false
+  xy: 38, 1
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+shandian-q
+  rotate: false
+  xy: 385, 86
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+yun_shanguang
+  rotate: false
+  xy: 75, 13
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+yun_xiaoshandian1
+  rotate: false
+  xy: 258, 71
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+yun_xiaoshandian2
+  rotate: true
+  xy: 322, 67
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+yun_xiaoshandian3
+  rotate: false
+  xy: 193, 70
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1

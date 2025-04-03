@@ -1,0 +1,125 @@
+
+kelingqu.png
+size: 456,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_jdbg
+  rotate: false
+  xy: 80, 53
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 416, 19
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 25
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+paopao
+  rotate: false
+  xy: 2, 17
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+shui_1
+  rotate: true
+  xy: 80, 2
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+shui_10
+  rotate: true
+  xy: 320, 4
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+shui_11
+  rotate: false
+  xy: 334, 55
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+shui_12
+  rotate: true
+  xy: 368, 4
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+shui_2
+  rotate: true
+  xy: 128, 2
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+shui_3
+  rotate: false
+  xy: 130, 55
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+shui_4
+  rotate: true
+  xy: 176, 4
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+shui_5
+  rotate: false
+  xy: 181, 55
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+shui_6
+  rotate: true
+  xy: 224, 4
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+shui_7
+  rotate: false
+  xy: 232, 55
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+shui_8
+  rotate: true
+  xy: 272, 4
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+shui_9
+  rotate: false
+  xy: 283, 55
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+shuiwen
+  rotate: false
+  xy: 385, 59
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+{
+"skeleton": { "hash": "teSfehGlbbANd2SARgcBvLlG3iA", "spine": "3.7.94", "width": 0, "height": 0 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Tex2", "parent": "root" },
+	{ "name": "guanghuan", "parent": "Tex2" },
+	{ "name": "guangyun2", "parent": "Tex2" }
+],
+"slots": [
+	{ "name": "guangquan1", "bone": "guanghuan", "blend": "additive" },
+	{ "name": "glow2", "bone": "guangyun2", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"glow2": {
+			"glow": { "width": 128, "height": 128 }
+		},
+		"guangquan1": {
+			"guangquan1": { "width": 232, "height": 232 }
+		}
+	}
+},
+"animations": {
+	"yu": {
+		"slots": {
+			"glow2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "fff4a48d" },
+					{ "time": 0.5, "color": "fff3a400" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "glow" }
+				]
+			},
+			"guangquan1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "fff4a48d" },
+					{ "time": 0.5, "color": "fff3a400" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "guangquan1" }
+				]
+			}
+		},
+		"bones": {
+			"guangyun2": {
+				"scale": [
+					{ "time": 0, "x": 1.678, "y": 1.678 }
+				]
+			},
+			"guanghuan": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

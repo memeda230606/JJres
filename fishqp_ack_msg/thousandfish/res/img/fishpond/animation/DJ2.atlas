@@ -1,0 +1,27 @@
+
+DJ2.png
+size: 259,363
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianguang01
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+guanghuan01
+  rotate: false
+  xy: 130, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 1, 130
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1

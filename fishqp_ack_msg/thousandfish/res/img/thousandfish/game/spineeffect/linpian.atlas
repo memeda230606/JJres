@@ -1,0 +1,41 @@
+
+linpian.png
+size: 456,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daojishi/Flare-Sun_lightblue
+  rotate: false
+  xy: 260, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+daojishi/Gameart8.com549
+  rotate: false
+  xy: 390, 196
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+daojishi/glow022
+  rotate: false
+  xy: 260, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+qianpao/renwuyu/linp_Xiao
+  rotate: false
+  xy: 390, 160
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+qianpao/ring009_1
+  rotate: false
+  xy: 2, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

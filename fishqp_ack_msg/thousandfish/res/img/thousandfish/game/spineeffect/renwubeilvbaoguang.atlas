@@ -1,0 +1,48 @@
+
+renwubeilvbaoguang.png
+size: 195,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xinbosslaixi/bg_guang02
+  rotate: false
+  xy: 106, 3
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+xinbosslaixi/bg_suikuai01
+  rotate: true
+  xy: 166, 2
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+xinbosslaixi/bg_suikuai02
+  rotate: false
+  xy: 2, 4
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+xinbosslaixi/bg_suikuai03
+  rotate: false
+  xy: 140, 19
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+xinbosslaixi/bg_suikuai04
+  rotate: false
+  xy: 2, 37
+  size: 162, 36
+  orig: 162, 36
+  offset: 0, 0
+  index: -1
+xinbosslaixi/bg_suikuai05
+  rotate: false
+  xy: 61, 12
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1

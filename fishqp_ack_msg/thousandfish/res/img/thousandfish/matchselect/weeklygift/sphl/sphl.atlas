@@ -1,0 +1,27 @@
+
+sphl.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s/g1
+  rotate: false
+  xy: 2, 2
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+s/gd1
+  rotate: false
+  xy: 68, 97
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+s/qp_hsxl_star2
+  rotate: false
+  xy: 2, 52
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

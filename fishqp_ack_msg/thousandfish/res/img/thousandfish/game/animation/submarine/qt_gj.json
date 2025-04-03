@@ -1,0 +1,56 @@
+{
+"skeleton": { "hash": "p38tZ9XLl5oZ03Mak7SVmxINGBQ", "spine": "3.6.53", "width": 308, "height": 304, "images": "./资源/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": -0.5 }
+],
+"slots": [
+	{ "name": "光波/qp_qt_gb_00", "bone": "bone", "attachment": "光波/qp_qt_gb_05", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"光波/qp_qt_gb_00": {
+			"光波/qp_qt_gb_00": { "width": 308, "height": 304 },
+			"光波/qp_qt_gb_01": { "width": 308, "height": 304 },
+			"光波/qp_qt_gb_02": { "width": 308, "height": 304 },
+			"光波/qp_qt_gb_03": { "width": 308, "height": 304 },
+			"光波/qp_qt_gb_04": { "width": 308, "height": 304 },
+			"光波/qp_qt_gb_05": { "width": 308, "height": 304 }
+		}
+	}
+},
+"animations": {
+	"play": {
+		"slots": {
+			"光波/qp_qt_gb_00": {
+				"color": [
+					{ "time": 0.3, "color": "ffffffff" },
+					{ "time": 0.6667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "光波/qp_qt_gb_00" },
+					{ "time": 0.0667, "name": "光波/qp_qt_gb_01" },
+					{ "time": 0.1333, "name": "光波/qp_qt_gb_02" },
+					{ "time": 0.1667, "name": "光波/qp_qt_gb_03" },
+					{ "time": 0.2333, "name": "光波/qp_qt_gb_04" },
+					{ "time": 0.3, "name": "光波/qp_qt_gb_05" },
+					{ "time": 0.3667, "name": "光波/qp_qt_gb_00" },
+					{ "time": 0.4, "name": "光波/qp_qt_gb_01" },
+					{ "time": 0.4667, "name": "光波/qp_qt_gb_02" },
+					{ "time": 0.5333, "name": "光波/qp_qt_gb_03" },
+					{ "time": 0.6, "name": "光波/qp_qt_gb_04" },
+					{ "time": 0.6667, "name": "光波/qp_qt_gb_05" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.6667, "x": 3, "y": 3 }
+				]
+			}
+		}
+	}
+}
+}

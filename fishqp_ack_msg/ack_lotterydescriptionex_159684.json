@@ -1,0 +1,187 @@
+{
+    "lotteryplaninfo": [
+        {
+            "cannonlevel": 9000,
+            "jackpotrewardinfo": [
+                {
+                    "rewardrate": 900,
+                    "minirewardex": 800000000,
+                    "minireward": 0
+                }
+            ],
+            "fixedreward": [
+                9000000,
+                1800000
+            ]
+        },
+        {
+            "cannonlevel": 8500,
+            "jackpotrewardinfo": [
+                {
+                    "rewardrate": 850,
+                    "minirewardex": 800000000,
+                    "minireward": 0
+                }
+            ],
+            "fixedreward": [
+                8500000,
+                1700000
+            ]
+        },
+        {
+            "cannonlevel": 8000,
+            "jackpotrewardinfo": [
+                {
+                    "rewardrate": 800,
+                    "minirewardex": 800000000,
+                    "minireward": 0
+                }
+            ],
+            "fixedreward": [
+                8000000,
+                1600000
+            ]
+        },
+        {
+            "cannonlevel": 7500,
+            "jackpotrewardinfo": [
+                {
+                    "rewardrate": 750,
+                    "minirewardex": 800000000,
+                    "minireward": 0
+                }
+            ],
+            "fixedreward": [
+                7500000,
+                1500000
+            ]
+        },
+        {
+            "cannonlevel": 7000,
+            "jackpotrewardinfo": [
+                {
+                    "rewardrate": 700,
+                    "minirewardex": 800000000,
+                    "minireward": 0
+                }
+            ],
+            "fixedreward": [
+                7000000,
+                1400000
+            ]
+        },
+        {
+            "cannonlevel": 6500,
+            "jackpotrewardinfo": [
+                {
+                    "rewardrate": 650,
+                    "minirewardex": 800000000,
+                    "minireward": 0
+                }
+            ],
+            "fixedreward": [
+                6500000,
+                1300000
+            ]
+        },
+        {
+            "cannonlevel": 6000,
+            "jackpotrewardinfo": [
+                {
+                    "rewardrate": 600,
+                    "minirewardex": 800000000,
+                    "minireward": 0
+                }
+            ],
+            "fixedreward": [
+                6000000,
+                1200000
+            ]
+        },
+        {
+            "cannonlevel": 5500,
+            "jackpotrewardinfo": [
+                {
+                    "rewardrate": 550,
+                    "minirewardex": 800000000,
+                    "minireward": 0
+                }
+            ],
+            "fixedreward": [
+                5500000,
+                1100000
+            ]
+        },
+        {
+            "cannonlevel": 5000,
+            "jackpotrewardinfo": [
+                {
+                    "rewardrate": 500,
+                    "minirewardex": 800000000,
+                    "minireward": 0
+                }
+            ],
+            "fixedreward": [
+                5000000,
+                1000000
+            ]
+        },
+        {
+            "cannonlevel": 4500,
+            "jackpotrewardinfo": [
+                {
+                    "rewardrate": 450,
+                    "minirewardex": 800000000,
+                    "minireward": 0
+                }
+            ],
+            "fixedreward": [
+                4500000,
+                900000
+            ]
+        },
+        {
+            "cannonlevel": 4000,
+            "jackpotrewardinfo": [
+                {
+                    "rewardrate": 400,
+                    "minirewardex": 800000000,
+                    "minireward": 0
+                }
+            ],
+            "fixedreward": [
+                4000000,
+                800000
+            ]
+        },
+        {
+            "cannonlevel": 3500,
+            "jackpotrewardinfo": [
+                {
+                    "rewardrate": 350,
+                    "minirewardex": 800000000,
+                    "minireward": 0
+                }
+            ],
+            "fixedreward": [
+                3500000,
+                700000
+            ]
+        },
+        {
+            "cannonlevel": 3000,
+            "jackpotrewardinfo": [
+                {
+                    "rewardrate": 300,
+                    "minirewardex": 800000000,
+                    "minireward": 0
+                }
+            ],
+            "fixedreward": [
+                3000000,
+                600000
+            ]
+        }
+    ],
+    "lotteryrate": 10
+}

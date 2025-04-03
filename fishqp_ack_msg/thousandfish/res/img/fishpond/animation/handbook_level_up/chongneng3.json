@@ -1,0 +1,209 @@
+{
+"skeleton": { "hash": "FLDoTvWDi8yp42EJ4sXsxrn8bWI", "spine": "3.7.94", "width": 0, "height": 0 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "chong1", "parent": "root" },
+	{ "name": "chong2", "parent": "root" },
+	{ "name": "zhezhao", "parent": "root" },
+	{ "name": "chong4", "parent": "root", "scaleX": 1.073, "scaleY": 1.073 },
+	{ "name": "chong3", "parent": "root" },
+	{ "name": "chong5", "parent": "root" },
+	{ "name": "chong6", "parent": "root" }
+],
+"slots": [
+	{ "name": "chong2", "bone": "chong2" },
+	{ "name": "chong5", "bone": "chong5" },
+	{ "name": "chong4", "bone": "chong4", "blend": "additive" },
+	{ "name": "chong1", "bone": "chong1" },
+	{ "name": "chong6", "bone": "chong6" },
+	{ "name": "chong3", "bone": "chong3", "blend": "additive" },
+	{ "name": "zhe1", "bone": "zhezhao", "attachment": "zhe1" }
+],
+"skins": {
+	"default": {
+		"chong1": {
+			"chong1": { "width": 80, "height": 98 }
+		},
+		"chong2": {
+			"chong2": { "width": 102, "height": 96 }
+		},
+		"chong3": {
+			"chong3": { "width": 120, "height": 138 }
+		},
+		"chong4": {
+			"chong4": { "width": 152, "height": 146 }
+		},
+		"chong5": {
+			"chong2": { "width": 102, "height": 96 }
+		},
+		"chong6": {
+			"chong1": { "width": 80, "height": 98 }
+		},
+		"zhe1": {
+			"zhe1": {
+				"type": "clipping",
+				"end": "zhe1",
+				"vertexCount": 17,
+				"vertices": [ -56.46, -68.4, -47.43, -68.76, -41.35, -60.02, -33.84, -53.36, -25.16, -51.44, -15.99, -54.02, -7.15, -60.76, 1.15, -68.12, 9.06, -74.37, 15.97, -77.95, 22.47, -79.04, 30.22, -77.47, 37.65, -72.89, 44.32, -66.97, 54.6, -66.97, 54.34, -91.64, -56.7, -91.19 ]
+			}
+		}
+	}
+},
+"animations": {
+	"chongman": {
+		"slots": {
+			"chong2": {
+				"attachment": [
+					{ "time": 0, "name": "chong2" }
+				]
+			},
+			"chong4": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffd384ba" },
+					{ "time": 0.3333, "color": "ffd28400" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "chong4" }
+				]
+			},
+			"chong5": {
+				"color": [
+					{ "time": 0, "color": "ffffffcb" },
+					{ "time": 0.2333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "chong2" }
+				]
+			}
+		},
+		"bones": {
+			"chong4": {
+				"scale": [
+					{ "time": 0, "x": 1.168, "y": 1.168 }
+				]
+			},
+			"chong5": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0, 0.47, 0.75, 1 ]
+					},
+					{ "time": 0.2333, "x": 1.595, "y": 1.595 }
+				]
+			}
+		}
+	},
+	"chongman2": {
+		"slots": {
+			"chong1": {
+				"attachment": [
+					{ "time": 0, "name": "chong1" }
+				]
+			},
+			"chong3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffd06598" },
+					{ "time": 0.3333, "color": "ffd06500" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "chong3" }
+				]
+			},
+			"chong6": {
+				"color": [
+					{ "time": 0, "color": "ffffffd3" },
+					{ "time": 0.2333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "chong1" }
+				]
+			}
+		},
+		"bones": {
+			"chong3": {
+				"scale": [
+					{ "time": 0, "x": 1.324, "y": 1.324 }
+				]
+			},
+			"chong6": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.2333, "x": 1.443, "y": 1.443 }
+				]
+			}
+		}
+	},
+	"loop1": {
+		"slots": {
+			"chong2": {
+				"attachment": [
+					{ "time": 0, "name": "chong2" }
+				]
+			},
+			"chong4": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"color": "ffd28466",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "color": "ffd28400" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "chong4" }
+				]
+			}
+		},
+		"bones": {
+			"chong4": {
+				"scale": [
+					{ "time": 0, "x": 0.937, "y": 0.937 }
+				]
+			}
+		}
+	},
+	"loop2": {
+		"slots": {
+			"chong1": {
+				"attachment": [
+					{ "time": 0, "name": "chong1" }
+				]
+			},
+			"chong3": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.8333,
+						"color": "ffd06545",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.6667, "color": "ffd06500" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "chong3" }
+				]
+			}
+		},
+		"bones": {
+			"chong3": {
+				"scale": [
+					{ "time": 0, "x": 1.097, "y": 1.097 }
+				]
+			}
+		}
+	}
+}
+}

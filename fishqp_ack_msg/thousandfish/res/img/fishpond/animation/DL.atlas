@@ -1,0 +1,41 @@
+
+DL.png
+size: 259,557
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pao
+  rotate: false
+  xy: 1, 195
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+dianguang01
+  rotate: false
+  xy: 130, 195
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 1, 324
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+po/01
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shuihua03
+  rotate: false
+  xy: 1, 66
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

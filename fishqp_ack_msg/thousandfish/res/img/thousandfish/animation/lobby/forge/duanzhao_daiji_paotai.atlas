@@ -1,0 +1,55 @@
+
+duanzhao_daiji_paotai.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 890, 268
+  size: 128, 129
+  orig: 128, 129
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 2
+  size: 350, 395
+  orig: 353, 395
+  offset: 0, 0
+  index: -1
+ruchang_pao_04
+  rotate: true
+  xy: 354, 21
+  size: 176, 198
+  orig: 184, 215
+  offset: 1, 7
+  index: -1
+ruchang_pao_05
+  rotate: false
+  xy: 354, 199
+  size: 177, 198
+  orig: 184, 215
+  offset: 3, 7
+  index: -1
+ruchang_pao_06
+  rotate: false
+  xy: 533, 199
+  size: 177, 198
+  orig: 184, 215
+  offset: 0, 7
+  index: -1
+ruchang_pao_07
+  rotate: false
+  xy: 712, 199
+  size: 176, 198
+  orig: 184, 215
+  offset: 1, 7
+  index: -1
+ruchang_pao_08
+  rotate: true
+  xy: 554, 21
+  size: 176, 198
+  orig: 184, 215
+  offset: 1, 7
+  index: -1

@@ -1,0 +1,27 @@
+
+weizitishi.png
+size: 543,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qianpao/biaoji/weizbj_00
+  rotate: true
+  xy: 455, 219
+  size: 152, 47
+  orig: 152, 47
+  offset: 0, 0
+  index: -1
+qianpao/biaoji/weizbj_01
+  rotate: false
+  xy: 455, 373
+  size: 86, 92
+  orig: 86, 92
+  offset: 0, 0
+  index: -1
+qianpao/biaoji/weizbj_02
+  rotate: true
+  xy: 2, 2
+  size: 463, 451
+  orig: 463, 451
+  offset: 0, 0
+  index: -1

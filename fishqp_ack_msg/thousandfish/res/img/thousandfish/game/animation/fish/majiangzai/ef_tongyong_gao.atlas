@@ -1,0 +1,159 @@
+
+ef_tongyong_gao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_hundan
+  rotate: false
+  xy: 514, 627
+  size: 456, 203
+  orig: 456, 203
+  offset: 0, 0
+  index: -1
+1_hunshuang
+  rotate: false
+  xy: 514, 423
+  size: 456, 203
+  orig: 456, 203
+  offset: 0, 0
+  index: -1
+MOON
+  rotate: false
+  xy: 660, 93
+  size: 337, 329
+  orig: 337, 329
+  offset: 0, 0
+  index: -1
+glow_guangyun
+  rotate: false
+  xy: 212, 64
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_huan
+  rotate: false
+  xy: 1, 321
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: true
+  xy: 514, 47
+  size: 375, 145
+  orig: 375, 145
+  offset: 0, 0
+  index: -1
+hailang01
+  rotate: false
+  xy: 539, 831
+  size: 464, 192
+  orig: 464, 192
+  offset: 0, 0
+  index: -1
+hailang02
+  rotate: false
+  xy: 1, 5
+  size: 210, 315
+  orig: 210, 315
+  offset: 0, 0
+  index: -1
+hailang04
+  rotate: false
+  xy: 1, 834
+  size: 537, 189
+  orig: 537, 189
+  offset: 0, 0
+  index: -1
+hailang05
+  rotate: false
+  xy: 660, 1
+  size: 106, 91
+  orig: 106, 91
+  offset: 0, 0
+  index: -1
+tex_hei
+  rotate: false
+  xy: 767, 28
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+
+ef_tongyong_gao2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_quandanke
+  rotate: false
+  xy: 1, 734
+  size: 456, 203
+  orig: 456, 203
+  offset: 0, 0
+  index: -1
+1_quanshuangke
+  rotate: false
+  xy: 1, 530
+  size: 456, 203
+  orig: 456, 203
+  offset: 0, 0
+  index: -1
+1_sananke
+  rotate: false
+  xy: 458, 734
+  size: 456, 203
+  orig: 456, 203
+  offset: 0, 0
+  index: -1
+chuan
+  rotate: false
+  xy: 1, 305
+  size: 246, 224
+  orig: 246, 224
+  offset: 0, 0
+  index: -1
+glow_z1
+  rotate: false
+  xy: 714, 605
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hailang06
+  rotate: false
+  xy: 409, 413
+  size: 109, 116
+  orig: 109, 116
+  offset: 0, 0
+  index: -1
+hailang08
+  rotate: false
+  xy: 458, 530
+  size: 255, 203
+  orig: 255, 203
+  offset: 0, 0
+  index: -1
+shan_L
+  rotate: false
+  xy: 248, 355
+  size: 160, 174
+  orig: 160, 174
+  offset: 0, 0
+  index: -1
+shan_r1
+  rotate: false
+  xy: 1, 130
+  size: 219, 174
+  orig: 219, 174
+  offset: 0, 0
+  index: -1
+wz_xin_xixian
+  rotate: false
+  xy: 1, 1
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

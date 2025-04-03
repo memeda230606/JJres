@@ -1,0 +1,160 @@
+
+BY_XL_bingqiu.png
+size: 1130,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 991, 48
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 973, 219
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 1
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 898, 4
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 792, 158
+  size: 180, 99
+  orig: 180, 99
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1018, 329
+  size: 188, 111
+  orig: 188, 111
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 450, 30
+  size: 189, 127
+  orig: 189, 127
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 258, 22
+  size: 191, 135
+  orig: 191, 135
+  offset: 0, 0
+  index: -1
+An
+  rotate: false
+  xy: 792, 388
+  size: 225, 129
+  orig: 225, 129
+  offset: 0, 0
+  index: -1
+B01
+  rotate: false
+  xy: 258, 338
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+B02
+  rotate: false
+  xy: 258, 158
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+B03
+  rotate: false
+  xy: 436, 338
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+B04
+  rotate: false
+  xy: 436, 158
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+B05
+  rotate: false
+  xy: 614, 338
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+B06
+  rotate: false
+  xy: 614, 158
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+BingaQiu
+  rotate: false
+  xy: 640, 29
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+XH
+  rotate: false
+  xy: 769, 29
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+XueHua
+  rotate: false
+  xy: 1, 45
+  size: 256, 215
+  orig: 256, 215
+  offset: 0, 0
+  index: -1
+XueHua_01
+  rotate: false
+  xy: 792, 258
+  size: 225, 129
+  orig: 225, 129
+  offset: 0, 0
+  index: -1
+XueHua_02
+  rotate: false
+  xy: 991, 73
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 1018, 202
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+yuan_bai
+  rotate: false
+  xy: 1, 261
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

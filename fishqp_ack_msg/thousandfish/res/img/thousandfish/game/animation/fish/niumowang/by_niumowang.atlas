@@ -1,0 +1,153 @@
+
+by_niumowang.png
+size: 932,774
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nmw_cjb_01
+  rotate: false
+  xy: 2, 584
+  size: 268, 188
+  orig: 268, 188
+  offset: 0, 0
+  index: -1
+nmw_cjb_03
+  rotate: false
+  xy: 2, 394
+  size: 268, 188
+  orig: 268, 188
+  offset: 0, 0
+  index: -1
+nmw_cjb_05
+  rotate: false
+  xy: 272, 584
+  size: 268, 188
+  orig: 268, 188
+  offset: 0, 0
+  index: -1
+nmw_cjb_07
+  rotate: false
+  xy: 2, 204
+  size: 268, 188
+  orig: 268, 188
+  offset: 0, 0
+  index: -1
+nmw_cjb_09
+  rotate: false
+  xy: 272, 394
+  size: 268, 188
+  orig: 268, 188
+  offset: 0, 0
+  index: -1
+nmw_cjb_11
+  rotate: false
+  xy: 542, 584
+  size: 268, 188
+  orig: 268, 188
+  offset: 0, 0
+  index: -1
+nmw_cjb_13
+  rotate: false
+  xy: 2, 14
+  size: 268, 188
+  orig: 268, 188
+  offset: 0, 0
+  index: -1
+nmw_cjb_15
+  rotate: false
+  xy: 272, 204
+  size: 268, 188
+  orig: 268, 188
+  offset: 0, 0
+  index: -1
+nmw_cjb_17
+  rotate: false
+  xy: 542, 394
+  size: 268, 188
+  orig: 268, 188
+  offset: 0, 0
+  index: -1
+nmw_tuowei_01
+  rotate: true
+  xy: 812, 572
+  size: 200, 93
+  orig: 200, 93
+  offset: 0, 0
+  index: -1
+nmw_tuowei_02
+  rotate: false
+  xy: 272, 109
+  size: 200, 93
+  orig: 200, 93
+  offset: 0, 0
+  index: -1
+nmw_tuowei_03
+  rotate: false
+  xy: 542, 299
+  size: 200, 93
+  orig: 200, 93
+  offset: 0, 0
+  index: -1
+nmw_tuowei_04
+  rotate: false
+  xy: 272, 14
+  size: 200, 93
+  orig: 200, 93
+  offset: 0, 0
+  index: -1
+nmw_tuowei_05
+  rotate: false
+  xy: 542, 204
+  size: 200, 93
+  orig: 200, 93
+  offset: 0, 0
+  index: -1
+nmw_tuowei_06
+  rotate: false
+  xy: 474, 109
+  size: 200, 93
+  orig: 200, 93
+  offset: 0, 0
+  index: -1
+nmw_tuowei_07
+  rotate: false
+  xy: 474, 14
+  size: 200, 93
+  orig: 200, 93
+  offset: 0, 0
+  index: -1
+nmw_tuowei_08
+  rotate: true
+  xy: 812, 370
+  size: 200, 93
+  orig: 200, 93
+  offset: 0, 0
+  index: -1
+nmw_tuowei_09
+  rotate: true
+  xy: 676, 2
+  size: 200, 93
+  orig: 200, 93
+  offset: 0, 0
+  index: -1
+nmw_tuowei_10
+  rotate: true
+  xy: 771, 38
+  size: 200, 93
+  orig: 200, 93
+  offset: 0, 0
+  index: -1
+smoke01
+  rotate: false
+  xy: 866, 174
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+star01
+  rotate: false
+  xy: 744, 240
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

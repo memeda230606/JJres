@@ -1,0 +1,76 @@
+
+renwuyvxiaotanban_1.png
+size: 1819,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liemodarenjineng/贴图/Tex_Smoke_23_1
+  rotate: false
+  xy: 1559, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lierenui/6A2334C65565AE03_1
+  rotate: false
+  xy: 1559, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+lierenui/jpg_d_010916
+  rotate: false
+  xy: 2, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+qianpao/eu_circle_1
+  rotate: false
+  xy: 1689, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+qianpao/renwuyu/tga_xphuoyan2
+  rotate: false
+  xy: 260, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+qianpao/xiaocaipan/bg_beijingguang
+  rotate: false
+  xy: 518, 3
+  size: 254, 257
+  orig: 254, 257
+  offset: 0, 0
+  index: -1
+qianpao/xiaocaipan/bg_neihuan
+  rotate: true
+  xy: 992, 72
+  size: 188, 187
+  orig: 188, 187
+  offset: 0, 0
+  index: -1
+qianpao/xiaocaipan/bg_waifaguang
+  rotate: false
+  xy: 774, 44
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+qianpao/xiaocaipan/bg_waihuan
+  rotate: true
+  xy: 1181, 72
+  size: 188, 187
+  orig: 188, 187
+  offset: 0, 0
+  index: -1
+qianpao/xiaocaipan/bg_yuanpan
+  rotate: true
+  xy: 1370, 72
+  size: 188, 187
+  orig: 188, 187
+  offset: 0, 0
+  index: -1

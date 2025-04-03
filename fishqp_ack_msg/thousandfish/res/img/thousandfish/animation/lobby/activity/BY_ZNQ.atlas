@@ -1,0 +1,104 @@
+
+BY_ZNQ.png
+size: 1963,800
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/beijing
+  rotate: false
+  xy: 2, 188
+  size: 1286, 610
+  orig: 1286, 610
+  offset: 0, 0
+  index: -1
+image/biaoti
+  rotate: false
+  xy: 2, 59
+  size: 800, 127
+  orig: 800, 127
+  offset: 0, 0
+  index: -1
+image/da_star_01
+  rotate: false
+  xy: 1034, 58
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+image/dangao
+  rotate: true
+  xy: 804, 15
+  size: 171, 228
+  orig: 171, 228
+  offset: 0, 0
+  index: -1
+image/dizhu
+  rotate: false
+  xy: 1290, 354
+  size: 559, 444
+  orig: 559, 444
+  offset: 0, 0
+  index: -1
+image/glow_06
+  rotate: false
+  xy: 1666, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+image/guanbi
+  rotate: false
+  xy: 374, 4
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+image/sanjiao
+  rotate: false
+  xy: 1164, 126
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+image/saoguang
+  rotate: false
+  xy: 1851, 358
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+image/shan_glow_guang02
+  rotate: true
+  xy: 1851, 430
+  size: 368, 110
+  orig: 368, 110
+  offset: 0, 0
+  index: -1
+image/shayu
+  rotate: true
+  xy: 1290, 51
+  size: 301, 374
+  orig: 301, 374
+  offset: 0, 0
+  index: -1
+image/tiao
+  rotate: false
+  xy: 2, 3
+  size: 370, 54
+  orig: 370, 54
+  offset: 0, 0
+  index: -1
+image/xiangqing
+  rotate: false
+  xy: 1034, 27
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+image/yezi
+  rotate: false
+  xy: 1666, 68
+  size: 274, 284
+  orig: 274, 284
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+xingyunduobao_03.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_huopo
+  rotate: false
+  xy: 2, 372
+  size: 180, 120
+  orig: 180, 120
+  offset: 0, 0
+  index: -1
+hupo
+  rotate: false
+  xy: 283, 58
+  size: 65, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+liuguang_00
+  rotate: true
+  xy: 106, 61
+  size: 101, 72
+  orig: 111, 74
+  offset: 5, 2
+  index: -1
+liuguang_01
+  rotate: false
+  xy: 184, 346
+  size: 101, 72
+  orig: 111, 74
+  offset: 5, 2
+  index: -1
+liuguang_02
+  rotate: false
+  xy: 287, 347
+  size: 101, 71
+  orig: 111, 74
+  offset: 5, 2
+  index: -1
+liuguang_03
+  rotate: false
+  xy: 390, 347
+  size: 101, 71
+  orig: 111, 74
+  offset: 5, 2
+  index: -1
+liuguang_04
+  rotate: false
+  xy: 180, 273
+  size: 101, 71
+  orig: 111, 74
+  offset: 5, 2
+  index: -1
+liuguang_05
+  rotate: false
+  xy: 180, 200
+  size: 101, 71
+  orig: 111, 74
+  offset: 5, 2
+  index: -1
+liuguang_06
+  rotate: false
+  xy: 180, 127
+  size: 101, 71
+  orig: 111, 74
+  offset: 5, 2
+  index: -1
+liuguang_07
+  rotate: false
+  xy: 180, 54
+  size: 101, 71
+  orig: 111, 74
+  offset: 5, 2
+  index: -1
+liuguang_08
+  rotate: true
+  xy: 283, 243
+  size: 101, 71
+  orig: 111, 74
+  offset: 5, 2
+  index: -1
+liuguang_09
+  rotate: true
+  xy: 283, 140
+  size: 101, 71
+  orig: 111, 74
+  offset: 5, 2
+  index: -1
+liuguang_10
+  rotate: false
+  xy: 2, 298
+  size: 102, 72
+  orig: 111, 74
+  offset: 4, 2
+  index: -1
+liuguang_11
+  rotate: false
+  xy: 184, 420
+  size: 102, 72
+  orig: 111, 74
+  offset: 4, 2
+  index: -1
+liuguang_12
+  rotate: false
+  xy: 2, 224
+  size: 102, 72
+  orig: 111, 74
+  offset: 4, 2
+  index: -1
+liuguang_13
+  rotate: true
+  xy: 106, 268
+  size: 102, 72
+  orig: 111, 74
+  offset: 4, 2
+  index: -1
+liuguang_14
+  rotate: false
+  xy: 288, 420
+  size: 102, 72
+  orig: 111, 74
+  offset: 4, 2
+  index: -1
+liuguang_15
+  rotate: false
+  xy: 2, 150
+  size: 102, 72
+  orig: 111, 74
+  offset: 4, 2
+  index: -1
+liuguang_16
+  rotate: true
+  xy: 106, 164
+  size: 102, 72
+  orig: 111, 74
+  offset: 4, 2
+  index: -1
+liuguang_17
+  rotate: false
+  xy: 392, 420
+  size: 102, 72
+  orig: 111, 74
+  offset: 4, 2
+  index: -1
+liuguang_18
+  rotate: false
+  xy: 2, 76
+  size: 102, 72
+  orig: 111, 74
+  offset: 4, 2
+  index: -1
+liuguang_19
+  rotate: false
+  xy: 2, 2
+  size: 102, 72
+  orig: 111, 74
+  offset: 4, 2
+  index: -1

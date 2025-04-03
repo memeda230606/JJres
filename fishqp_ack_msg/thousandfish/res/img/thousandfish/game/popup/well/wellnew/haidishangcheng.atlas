@@ -1,0 +1,258 @@
+
+haidishangcheng.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baidi
+  rotate: true
+  xy: 788, 649
+  size: 128, 54
+  orig: 128, 72
+  offset: 0, 9
+  index: -1
+bg_zhanghu
+  rotate: true
+  xy: 959, 795
+  size: 212, 46
+  orig: 212, 46
+  offset: 0, 0
+  index: -1
+bg_zuoceyeqian
+  rotate: true
+  xy: 296, 779
+  size: 228, 541
+  orig: 228, 541
+  offset: 0, 0
+  index: -1
+glow_heng
+  rotate: false
+  xy: 296, 670
+  size: 295, 107
+  orig: 322, 107
+  offset: 15, 0
+  index: -1
+glow_shu
+  rotate: false
+  xy: 2, 197
+  size: 77, 327
+  orig: 77, 352
+  offset: 0, 0
+  index: -1
+icon_jinbi
+  rotate: false
+  xy: 912, 721
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+linshi
+  rotate: false
+  xy: 2, 526
+  size: 292, 481
+  orig: 293, 483
+  offset: 1, 1
+  index: -1
+renwu_guang_05
+  rotate: true
+  xy: 912, 757
+  size: 55, 33
+  orig: 169, 253
+  offset: 56, 28
+  index: -1
+renwu_guang_06
+  rotate: false
+  xy: 383, 335
+  size: 93, 48
+  orig: 169, 253
+  offset: 53, 28
+  index: -1
+renwu_guang_07
+  rotate: true
+  xy: 755, 549
+  size: 98, 55
+  orig: 169, 253
+  offset: 48, 28
+  index: -1
+renwu_guang_08
+  rotate: false
+  xy: 362, 5
+  size: 115, 77
+  orig: 169, 253
+  offset: 31, 28
+  index: -1
+renwu_guang_09
+  rotate: true
+  xy: 491, 550
+  size: 118, 98
+  orig: 169, 253
+  offset: 28, 28
+  index: -1
+renwu_guang_10
+  rotate: true
+  xy: 338, 211
+  size: 118, 133
+  orig: 169, 253
+  offset: 28, 28
+  index: -1
+renwu_guang_11
+  rotate: true
+  xy: 591, 539
+  size: 118, 162
+  orig: 169, 253
+  offset: 28, 28
+  index: -1
+renwu_guang_12
+  rotate: false
+  xy: 242, 40
+  size: 118, 169
+  orig: 169, 253
+  offset: 28, 28
+  index: -1
+renwu_guang_13
+  rotate: false
+  xy: 122, 35
+  size: 118, 174
+  orig: 169, 253
+  offset: 28, 28
+  index: -1
+renwu_guang_14
+  rotate: false
+  xy: 839, 814
+  size: 118, 193
+  orig: 169, 253
+  offset: 28, 28
+  index: -1
+renwu_guang_15
+  rotate: true
+  xy: 296, 550
+  size: 118, 193
+  orig: 169, 253
+  offset: 28, 28
+  index: -1
+renwu_guang_16
+  rotate: false
+  xy: 143, 331
+  size: 118, 193
+  orig: 169, 253
+  offset: 28, 28
+  index: -1
+renwu_guang_17
+  rotate: true
+  xy: 593, 659
+  size: 118, 193
+  orig: 169, 253
+  offset: 28, 28
+  index: -1
+renwu_guang_18
+  rotate: false
+  xy: 2, 2
+  size: 118, 193
+  orig: 169, 253
+  offset: 28, 28
+  index: -1
+renwu_guang_19
+  rotate: false
+  xy: 263, 331
+  size: 118, 193
+  orig: 169, 253
+  offset: 28, 28
+  index: -1
+renwu_guang_20
+  rotate: true
+  xy: 143, 211
+  size: 118, 193
+  orig: 169, 253
+  offset: 28, 28
+  index: -1
+renwu_guang_21
+  rotate: false
+  xy: 383, 385
+  size: 117, 163
+  orig: 169, 253
+  offset: 28, 58
+  index: -1
+renwu_guang_22
+  rotate: true
+  xy: 590, 421
+  size: 116, 158
+  orig: 169, 253
+  offset: 29, 63
+  index: -1
+renwu_guang_23
+  rotate: false
+  xy: 362, 84
+  size: 115, 125
+  orig: 169, 253
+  offset: 29, 96
+  index: -1
+renwu_guang_24
+  rotate: false
+  xy: 502, 423
+  size: 86, 125
+  orig: 169, 253
+  offset: 39, 96
+  index: -1
+renwu_guang_25
+  rotate: false
+  xy: 844, 693
+  size: 66, 119
+  orig: 169, 253
+  offset: 39, 96
+  index: -1
+sanjiao2
+  rotate: false
+  xy: 560, 388
+  size: 28, 33
+  orig: 31, 36
+  offset: 1, 2
+  index: -1
+sanjiao3
+  rotate: false
+  xy: 812, 578
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+sanjiaoguang1
+  rotate: false
+  xy: 844, 649
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+sanjiaoguang3
+  rotate: false
+  xy: 122, 5
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+sanjiaoguang4
+  rotate: false
+  xy: 812, 614
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+sanjiaoguang5
+  rotate: true
+  xy: 81, 197
+  size: 39, 28
+  orig: 41, 30
+  offset: 1, 1
+  index: -1
+title_haidishangcheng
+  rotate: true
+  xy: 81, 238
+  size: 286, 60
+  orig: 286, 60
+  offset: 0, 0
+  index: -1
+txt_zhanghu
+  rotate: false
+  xy: 502, 388
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1

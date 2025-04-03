@@ -1,0 +1,196 @@
+{
+"skeleton": { "hash": "bfl0pjNnsO08ubM2i9m6CYh9Ojs", "spine": "3.7.94", "width": 0, "height": 0 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "JiGuang", "parent": "root" },
+	{ "name": "jiguang", "parent": "JiGuang" },
+	{ "name": "jiguang2", "parent": "JiGuang" },
+	{ "name": "glow2", "parent": "JiGuang" }
+],
+"slots": [
+	{ "name": "glow2", "bone": "glow2" },
+	{ "name": "jiguang2", "bone": "jiguang2" },
+	{ "name": "jiguang1", "bone": "jiguang", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"glow2": {
+			"glow": { "width": 128, "height": 128 }
+		},
+		"jiguang1": {
+			"jiguang2/jijuang_0000": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0002": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0004": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0006": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0008": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0010": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0012": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0014": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0016": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0018": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0020": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0022": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0024": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0026": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0028": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0030": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0032": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0034": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0036": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0038": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0040": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0042": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0044": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0046": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0048": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0050": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0052": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0054": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0056": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0058": { "width": 102, "height": 376 }
+		},
+		"jiguang2": {
+			"jiguang2/jijuang_0000": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0002": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0004": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0006": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0008": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0010": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0012": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0014": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0016": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0018": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0020": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0022": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0024": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0026": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0028": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0030": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0032": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0034": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0036": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0038": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0040": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0042": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0044": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0046": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0048": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0050": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0052": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0054": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0056": { "width": 102, "height": 376 },
+			"jiguang2/jijuang_0058": { "width": 102, "height": 376 }
+		}
+	}
+},
+"animations": {
+	"jiguang": {
+		"slots": {
+			"glow2": {
+				"color": [
+					{ "time": 0, "color": "a98bc1ff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "glow" }
+				]
+			},
+			"jiguang1": {
+				"color": [
+					{ "time": 0, "color": "ffeab758" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "jiguang2/jijuang_0000" },
+					{ "time": 0.0667, "name": "jiguang2/jijuang_0002" },
+					{ "time": 0.1333, "name": "jiguang2/jijuang_0004" },
+					{ "time": 0.2, "name": "jiguang2/jijuang_0006" },
+					{ "time": 0.2667, "name": "jiguang2/jijuang_0008" },
+					{ "time": 0.3333, "name": "jiguang2/jijuang_0010" },
+					{ "time": 0.4, "name": "jiguang2/jijuang_0012" },
+					{ "time": 0.4667, "name": "jiguang2/jijuang_0014" },
+					{ "time": 0.5333, "name": "jiguang2/jijuang_0016" },
+					{ "time": 0.6, "name": "jiguang2/jijuang_0018" },
+					{ "time": 0.6667, "name": "jiguang2/jijuang_0020" },
+					{ "time": 0.7333, "name": "jiguang2/jijuang_0022" },
+					{ "time": 0.8, "name": "jiguang2/jijuang_0024" },
+					{ "time": 0.8667, "name": "jiguang2/jijuang_0026" },
+					{ "time": 0.9333, "name": "jiguang2/jijuang_0028" },
+					{ "time": 1, "name": "jiguang2/jijuang_0030" },
+					{ "time": 1.0667, "name": "jiguang2/jijuang_0032" },
+					{ "time": 1.1333, "name": "jiguang2/jijuang_0034" },
+					{ "time": 1.2, "name": "jiguang2/jijuang_0036" },
+					{ "time": 1.2667, "name": "jiguang2/jijuang_0038" },
+					{ "time": 1.3333, "name": "jiguang2/jijuang_0040" },
+					{ "time": 1.4, "name": "jiguang2/jijuang_0042" },
+					{ "time": 1.4667, "name": "jiguang2/jijuang_0044" },
+					{ "time": 1.5333, "name": "jiguang2/jijuang_0046" },
+					{ "time": 1.6, "name": "jiguang2/jijuang_0048" },
+					{ "time": 1.6667, "name": "jiguang2/jijuang_0050" },
+					{ "time": 1.7333, "name": "jiguang2/jijuang_0052" },
+					{ "time": 1.8, "name": "jiguang2/jijuang_0054" },
+					{ "time": 1.8667, "name": "jiguang2/jijuang_0056" },
+					{ "time": 1.9333, "name": "jiguang2/jijuang_0058" }
+				]
+			},
+			"jiguang2": {
+				"color": [
+					{ "time": 0, "color": "ffffffa5" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "jiguang2/jijuang_0000" },
+					{ "time": 0.0667, "name": "jiguang2/jijuang_0002" },
+					{ "time": 0.1333, "name": "jiguang2/jijuang_0004" },
+					{ "time": 0.2, "name": "jiguang2/jijuang_0006" },
+					{ "time": 0.2667, "name": "jiguang2/jijuang_0008" },
+					{ "time": 0.3333, "name": "jiguang2/jijuang_0010" },
+					{ "time": 0.4, "name": "jiguang2/jijuang_0012" },
+					{ "time": 0.4667, "name": "jiguang2/jijuang_0014" },
+					{ "time": 0.5333, "name": "jiguang2/jijuang_0016" },
+					{ "time": 0.6, "name": "jiguang2/jijuang_0018" },
+					{ "time": 0.6667, "name": "jiguang2/jijuang_0020" },
+					{ "time": 0.7333, "name": "jiguang2/jijuang_0022" },
+					{ "time": 0.8, "name": "jiguang2/jijuang_0024" },
+					{ "time": 0.8667, "name": "jiguang2/jijuang_0026" },
+					{ "time": 0.9333, "name": "jiguang2/jijuang_0028" },
+					{ "time": 1, "name": "jiguang2/jijuang_0030" },
+					{ "time": 1.0667, "name": "jiguang2/jijuang_0032" },
+					{ "time": 1.1333, "name": "jiguang2/jijuang_0034" },
+					{ "time": 1.2, "name": "jiguang2/jijuang_0036" },
+					{ "time": 1.2667, "name": "jiguang2/jijuang_0038" },
+					{ "time": 1.3333, "name": "jiguang2/jijuang_0040" },
+					{ "time": 1.4, "name": "jiguang2/jijuang_0042" },
+					{ "time": 1.4667, "name": "jiguang2/jijuang_0044" },
+					{ "time": 1.5333, "name": "jiguang2/jijuang_0046" },
+					{ "time": 1.6, "name": "jiguang2/jijuang_0048" },
+					{ "time": 1.6667, "name": "jiguang2/jijuang_0050" },
+					{ "time": 1.7333, "name": "jiguang2/jijuang_0052" },
+					{ "time": 1.8, "name": "jiguang2/jijuang_0054" },
+					{ "time": 1.8667, "name": "jiguang2/jijuang_0056" },
+					{ "time": 1.9333, "name": "jiguang2/jijuang_0058" }
+				]
+			}
+		},
+		"bones": {
+			"jiguang": {
+				"scale": [
+					{ "time": 0, "x": 2.577, "y": 2.448 }
+				]
+			},
+			"jiguang2": {
+				"scale": [
+					{ "time": 0, "x": 2.577, "y": 2.448 }
+				]
+			},
+			"glow2": {
+				"scale": [
+					{ "time": 0, "x": 2.577, "y": 15.212 }
+				]
+			},
+			"JiGuang": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 421.79 }
+				]
+			}
+		}
+	}
+}
+}

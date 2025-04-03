@@ -1,0 +1,575 @@
+
+[
+    { "id" : 0, "name" : "JJ币", "icon" : "items/icon_coin.png", "scale" : 0.8 },
+    { "id" : 1, "name" : "秋卡", "icon" : "items/icon_qiuka.png" , "scale" : 0.7},
+    { "id" : 2, "name" : "鱼币", "icon" : "items/icon_fishcoin.png" },
+    {
+        "id" : 8,
+        "class" : 6,
+        "name" : "锁定",
+        "icon" : "skill/card_lock.png",
+        "serverDomainId" : 40000010,
+        "description" : "自动锁定一条鱼连续攻击，可手动切换锁定目标，锁定道具可以合成狂暴",
+        "scale" : 0.7
+    },
+    {
+        "id" : 9,
+        "class" : 6,
+        "name" : "冰冻",
+        "icon" : "skill/card_frozen.png",
+        "serverDomainId" : 40000011,
+        "description" : "大鱼别走！立即冰冻屏幕中的所有鱼",
+        "scale" : 0.7
+    },
+    {
+        "id" : 10,
+        "class" : 6,
+        "name" : "召唤",
+        "icon" : "skill/card_summon.png",
+        "serverDomainId" : 40000012,
+        "description" : "召唤一条黄金鱼、BOSS或特殊鱼，悬赏任务中有大几率召唤出目标黄金鱼",
+        "scale" : 0.7
+    },
+    {
+        "id" : 11,
+        "class" : 6,
+        "name" : "狂暴",
+        "icon" : "skill/card_violent.png",
+        "serverDomainId" : 40000013,
+        "description" : "发动强大的狂暴技能，有加速、冰冻、穿透、威力加倍、分身等效果，不同炮台各不相同",
+        "scale" : 0.7
+    },
+    {
+        "id" : 3,
+        "class" : 3,
+        "name" : "钻石",
+        "icon" : "items/icon_diamond.png",
+        "serverDomainId" : 40000020,
+        "description" : "用于炮火升级、威力锻造及购买道具、炮台，捕鱼中掉落，也可在商店购买",
+        "scale" : 0.7
+    },
+    {
+        "id" : 4,
+        "class" : 4,
+        "name" : "水晶",
+        "icon" : "items/icon_crystal.png",
+        "serverDomainId" : 40000021,
+        "description" : "倍率锻造的材料，在神殿、龙宫捕鱼时掉落，也可在商店购买",
+        "scale" : 0.7
+    },
+    {
+        "id" : 6,
+        "class" : 5,
+        "name" : "珊瑚",
+        "icon" : "items/icon_shanhu.png",
+        "serverDomainId" : 40000023,
+        "description" : "用于合成参赛积分或参加捕鱼活动，捕鱼中随机掉落",
+        "scale" : 0.7
+    },
+    {
+        "id" : 7,
+        "name" : "吉签",
+        "icon" : "items/icon_huodong.png",
+        "serverDomainId" : 40140005,
+        "description" : "",
+        "scale" : 0.7
+    },
+    { "id" : 12, "name" : "1元话费", "icon" : "items/huafei.png" },
+    { "id" : 13, "name" : "2元话费", "icon" : "items/huafei.png" },
+    { "id" : 14, "name" : "5元话费", "icon" : "items/huafei.png", "serverDomainId" : 6742 },
+    { "id" : 15, "name" : "10元话费", "icon" : "items/huafei.png" },
+    { "id" : 16, "name" : "20元话费", "icon" : "items/huafei.png" },
+    { "id" : 17, "name" : "50元话费", "icon" : "items/huafei.png" },
+    {
+        "id" : 19,
+        "class" : 6,
+        "name" : "狂暴II（已失效）",
+        "icon" : "skill/card_violent2.png",
+        "serverDomainId" : 40000037,
+        "description" : "强大的狂暴II道具，使用时炮台的基础威力+1！现已失效，分解可获得8钻石",
+        "scale" : 0.7
+    },
+    {
+        "id" : 20,
+        "class" : 2,
+        "nameforDraw" : "时空幻影1天",
+        "name" : "时空幻影1天体验卡",
+        "icon" : "items/cannon_one_1.png",
+        "serverDomainId" : 40001559,
+        "perpetualId" : 40001588,
+        "description" : "使用后可获得时空幻影炮台1天使用时间，如果已拥有时空幻影永久炮台，可获得20钻石",
+        "schemeName" : "cannon_spaceGhost_d1",
+        "useTime" : 1,
+        "scale" : 0.7
+    },
+    {
+        "id" : 21,
+        "class" : 2,
+        "nameforDraw" : "暗影猎手1天",
+        "name" : "暗影猎手1天体验卡",
+        "icon" : "items/cannon_one_2.png",
+        "serverDomainId" : 40001557,
+        "perpetualId" : 40001573,
+        "description" : "使用后可获得暗影猎手炮台1天使用时间，如果已拥有暗影猎手永久炮台，可获得20钻石",
+        "schemeName" : "cannon_shadowHunter1_d1",
+        "useTime" : 1,
+        "scale" : 0.7
+    },
+    {
+        "id" : 23,
+        "class" : 2,
+        "nameforDraw" : "暗影游侠1天",
+        "name" : "暗影游侠1天体验卡",
+        "icon" : "items/cannon_one_4.png",
+        "serverDomainId" : 40001561,
+        "perpetualId" : 40001592,
+        "description" : "使用后可获得暗影游侠炮台1天使用时间，如果已拥有暗影游侠永久炮台，可获得40钻石",
+        "schemeName" : "cannon_shadowHunter3_d1",
+        "useTime" : 1,
+        "scale" : 0.7
+    },
+    {
+        "id" : 25,
+        "class" : 2,
+        "nameforDraw" : "极寒之刃1天",
+        "name" : "极寒之刃1天体验卡",
+        "icon" : "items/cannon_one_6.png",
+        "serverDomainId" : 40001560,
+        "perpetualId" : 40001589,
+        "description" : "使用后可获得极寒之刃炮台1天使用时间，如果已拥有极寒之刃永久炮台，可获得20钻石",
+        "schemeName" : "cannon_coldBlade_d1",
+        "useTime" : 1,
+        "scale" : 0.7
+    },
+    {
+        "id" : 26,
+        "class" : 1,
+        "nameforDraw" : "时空幻影3天",
+        "name" : "时空幻影3天体验卡",
+        "icon" : "items/cannon_three_1.png",
+        "serverDomainId" : 40001565,
+        "perpetualId" : 40001588,
+        "description" : "使用后可获得时空幻影炮台3天使用时间，如果已拥有时空幻影永久炮台，可获得50钻石",
+        "schemeName" : "cannon_spaceGhost_d3",
+        "useTime" : 3,
+        "scale" : 0.7
+    },
+    {
+        "id" : 29,
+        "class" : 1,
+        "nameforDraw" : "暗影游侠3天",
+        "name" : "暗影游侠3天体验卡",
+        "icon" : "items/cannon_three_4.png",
+        "serverDomainId" : 40001567,
+        "perpetualId" : 40001592,
+        "description" : "使用后可获得暗影游侠炮台3天使用时间，如果已拥有暗影游侠永久炮台，可获得100钻石",
+        "schemeName" : "cannon_shadowHunter3_d3",
+        "useTime" : 3,
+        "scale" : 0.7
+    },
+    {
+        "id" : 31,
+        "class" : 1,
+        "nameforDraw" : "极寒之刃3天",
+        "name" : "极寒之刃3天体验卡",
+        "icon" : "items/cannon_three_6.png",
+        "serverDomainId" : 40001566,
+        "perpetualId" : 40001589,
+        "description" : "使用后可获得极寒之刃炮台3天使用时间，如果已拥有极寒之刃永久炮台，可获得50钻石",
+        "schemeName" : "cannon_coldBlade_d3",
+        "useTime" : 3,
+        "scale" : 0.7
+    },
+    { "id" : 32, "name" : "50元京东卡", "icon" : "items/iconjingdongka", "serverDomainId" : 4532},
+    { "id" : 33, "name" : "安慕希酸奶礼盒", "icon" : "", "serverDomainId" : 9595},
+    { "id" : 34, "name" : "干果年货大礼包", "icon" : "", "serverDomainId" : 9596},
+    { "id" : 35, "name" : "食用油5L", "icon" : "", "serverDomainId" : 9751},
+    { "id" : 36, "name" : "200元京东卡", "icon" : "items/jingdongka1", "serverDomainId" : 4512},
+    {
+        "id" : 37,
+        "class" : 1,
+        "nameforDraw" : "雷神之锤1天",
+        "name" : "雷神之锤1天体验卡",
+        "icon" : "items/pic_lszc_1.png",
+        "serverDomainId" : 40001575,
+        "perpetualId" : 40001590,
+        "description" : "使用后可获得雷神之锤炮台1天使用时间，如果已拥有雷神之锤永久炮台，可获得20钻石",
+        "schemeName" : "cannon_lszc_d1",
+        "useTime" : 1,
+        "scale" : 0.7
+    },
+    {
+        "id" : 38,
+        "class" : 1,
+        "nameforDraw" : "雷神之锤3天",
+        "name" : "雷神之锤3天体验卡",
+        "icon" : "items/pic_lszc_3.png",
+        "serverDomainId" : 40001577,
+        "perpetualId" : 40001590,
+        "description" : "使用后可获得雷神之锤炮台3天使用时间，如果已拥有雷神之锤永久炮台，可获得50钻石",
+        "schemeName" : "cannon_lszc_d3",
+        "useTime" : 3,
+        "scale" : 0.7
+    },
+    {
+        "id" : 39,
+        "class" : 1,
+        "nameforDraw" : "烈焰恶魔1天",
+        "name" : "烈焰恶魔1天体验卡",
+        "icon" : "items/pic_lyem_1.png",
+        "serverDomainId" : 40001576,
+        "perpetualId" : 40001593,
+        "description" : "使用后可获得烈焰恶魔炮台1天使用时间，如果已拥有烈焰恶魔永久炮台，可获得40钻石",
+        "schemeName" : "cannon_lyem_d1",
+        "useTime" : 1,
+        "scale" : 0.7
+    },
+    {
+        "id" : 40,
+        "class" : 1,
+        "nameforDraw" : "烈焰恶魔3天",
+        "name" : "烈焰恶魔3天体验卡",
+        "icon" : "items/pic_lyem_3.png",
+        "serverDomainId" : 40001578,
+        "perpetualId" : 40001593,
+        "description" : "使用后可获得烈焰恶魔炮台3天使用时间，如果已拥有烈焰恶魔永久炮台，可获得100钻石",
+        "schemeName" : "cannon_lyem_d3",
+        "useTime" : 3,
+        "scale" : 0.7
+    },
+    {
+        "id" : 41,
+        "class" : 1,
+        "nameforDraw" : "时空幽灵1天",
+        "name" : "时空幽灵1天体验卡",
+        "icon" : "items/cannon_one_7.png",
+        "serverDomainId" : 40001585,
+        "perpetualId" : 40001591,
+        "description" : "使用后可获得时空幽灵炮台1天使用时间，如果已拥有时空幽灵永久炮台，可获得40钻石",
+        "schemeName" : "cannon_specter_d1",
+        "useTime" : 1,
+        "scale" : 0.7
+    },
+    {
+        "id" : 42,
+        "class" : 1,
+        "nameforDraw" : "时空幽灵3天",
+        "name" : "时空幽灵3天体验卡",
+        "icon" : "items/cannon_three_7.png",
+        "serverDomainId" : 40001586,
+        "perpetualId" : 40001591,
+        "description" : "使用后可获得时空幽灵炮台3天使用时间，如果已拥有时空幽灵永久炮台，可获得100钻石",
+        "schemeName" : "cannon_specter_d3",
+        "useTime" : 3,
+        "scale" : 0.7
+    },
+    {
+        "id" : 43,
+        "class" : 1,
+        "nameforDraw" : "森罗战甲1天",
+        "name" : "森罗战甲1天体验卡",
+        "icon" : "items/pic_slzj_1.png",
+        "serverDomainId" : 40001504,
+        "perpetualId" : 40001503,
+        "description" : "使用后可获得森罗战甲炮台1天使用时间，如果已拥有森罗战甲永久炮台，可获得40钻石",
+        "schemeName" : "cannon_armour_d1",
+        "useTime" : 1,
+        "scale" : 0.7
+    },
+    {
+        "id" : 44,
+        "class" : 1,
+        "nameforDraw" : "森罗战甲3天",
+        "name" : "森罗战甲3天体验卡",
+        "icon" : "items/pic_slzj_3.png",
+        "serverDomainId" : 40001506,
+        "perpetualId" : 40001503,
+        "description" : "使用后可获得森罗战甲炮台3天使用时间，如果已拥有森罗战甲永久炮台，可获得100钻石",
+        "schemeName" : "cannon_armour_d3",
+        "useTime" : 3,
+        "scale" : 0.7
+    },
+    {
+        "id" : 45,
+        "class" : 1,
+        "nameforDraw" : "梦境银蛇1天体验卡",
+        "name" : "梦境银蛇1天体验卡",
+        "icon" : "items/pic_mjys_1.png",
+        "serverDomainId" : 40001513,
+        "perpetualId" : 40001508,
+        "description" : "使用后可获得梦境银蛇炮台1天使用时间，如果已拥有梦幻银蛇永久炮台，可获得20钻石",
+        "schemeName" : "cannon_mjys_d1",
+        "isNewScheme" : true,
+        "useTime" : 1,
+        "scale" : 0.7
+    },
+    {
+        "id" : 46,
+        "class" : 1,
+        "nameforDraw" : "梦境银蛇3天体验卡",
+        "name" : "梦境银蛇3天体验卡",
+        "icon" : "items/pic_mjys_3.png",
+        "serverDomainId" : 40001516,
+        "perpetualId" : 40001508,
+        "description" : "使用后可获得梦境银蛇炮台3天使用时间，如果已拥有梦幻银蛇永久炮台，可获得50钻石",
+        "schemeName" : "cannon_mjys_d3",
+        "isNewScheme" : true,
+        "useTime" : 3,
+        "scale" : 0.7
+    },
+    {
+        "id" : 60,
+        "name" : "普通鱼卵",
+        "icon" : "items/icon_roe_normal.png",
+        "serverDomainId" : 40011006
+    },
+    {
+        "id" : 61,
+        "name" : "稀有鱼卵",
+        "icon" : "items/icon_roe_rare.png",
+        "serverDomainId" : 40011007
+    },
+    {
+        "id" : 62,
+        "name" : "神秘鱼卵",
+        "icon" : "items/icon_roe_secret.png",
+        "serverDomainId" : 40011008
+    },
+    {
+        "id" : 64,
+        "name" : "海洋之魂",
+        "icon" : "items/icon_sea_soul.png",
+        "serverDomainId" : 40011013
+    },
+    {
+        "id" : 71,
+        "name" : "蛋糕",
+        "icon" : "items/item_cake_16.png",
+        "serverDomainId" : 40008006
+    },
+    {
+        "id" : 72,
+        "name" : "锤子",
+        "icon" : "items/icon_hammer.png",
+        "serverDomainId" : 40120005
+    },
+    {
+        "id" : 101,
+        "class" : 6,
+        "name" : "青铜弹头",
+        "icon" : "items/item_nbom_copper.png",
+        "description" : "梦幻岛专属超强道具，发射青铜弹头，释放一定威力，打击全场鱼群（BOSS、特殊鱼除外）！",
+        "scale" : 0.9,
+        "serverDomainId" : 40007005
+    },
+    {
+        "id" : 102,
+        "class" : 6,
+        "name" : "白银弹头",
+        "icon" : "items/item_nbom_silver.png",
+        "description" : "梦幻岛专属超强道具，发射白银弹头，释放较大威力，打击全场鱼群（BOSS、特殊鱼除外）！",
+        "scale" : 0.9,
+        "serverDomainId" : 40007006
+    },
+    {
+        "id" : 103,
+        "class" : 6,
+        "name" : "黄金弹头",
+        "icon" : "items/item_nbom_gold.png",
+        "description" : "梦幻岛专属超强道具，发射黄金弹头，释放巨大威力，打击全场鱼群（BOSS、特殊鱼除外）！",
+        "scale" : 0.9,
+        "serverDomainId" : 40007007
+    },
+    {
+        "id" : 104,
+        "class" : 6,
+        "name" : "弹头碎片",
+        "icon" : "items/nbom_copper_pieces.png",
+        "description" : "弹头碎片可合成青铜弹头，在梦幻岛中使用",
+        "scale" : 1,
+        "serverDomainId" : 40007008
+    },
+    {
+        "id" : 200,
+        "name" : "琥珀",
+        "class" : 5,
+        "icon" : "items/icon_hupo.png",
+        "serverDomainId" : 40000036,
+        "description" : "可在琥珀商店兑换永久炮台、技能、炮台皮肤等",
+        "scale" : 0.85
+    },
+    {
+        "id" : 201,
+        "name" : "雷神之锤",
+        "icon" : "cannon/body/cannon_lszc_pao.png",
+        "serverDomainId" : 40001590,
+        "description" : "",
+        "scale" : 0.5
+    },
+    {
+        "id" : 202,
+        "class" : 7,
+        "name" : "夺宝抵用券",
+        "icon" : "items/icon_dbdyj.png",
+        "serverDomainId" : 40000038,
+        "description" : "可以在幸运夺宝中参与1次夺宝(每次消耗1张抵用券)",
+        "scale" : 0.8
+    },
+    {
+        "id" : 203,
+        "name" : "时空幻影",
+        "icon" : "",
+        "serverDomainId" : 40001588,
+        "description" : ""
+    },
+    {
+        "id" : 204,
+        "name" : "极寒之刃",
+        "icon" : "cannon/body/cannon_iceGuard1.png",
+        "serverDomainId" : 40001589,
+        "description" : ""
+    },
+    {
+        "id" : 88,
+        "class" : 7,
+        "name" : "福卡",
+        "icon" : "items/icon_fuka.png",
+        "description" : "可同参赛积分一起合成金币",
+        "scale" : 0.7
+    },
+    {
+        "id" : 89,
+        "class" : 4,
+        "name" : "炮台皮肤自选礼盒",
+        "icon" : "items/body_zixuan.png",
+        "serverDomainId" : 40000019,
+        "description" : "内含圣光、煌黑、器械、星辰皮肤，可任选其一，如都拥有则获赠300钻石"
+    },
+    {
+        "id" : 206,
+        "name" : "龙珠",
+        "icon" : "items/icon_longzhu.png",
+        "serverDomainId" : 40001040,
+        "scale" : 0.7
+    },
+    {
+        "id" : 207,
+        "name" : "鱼币红包",
+        "icon" : "items/icon_yubihongbao.png"
+    },
+    {
+        "id" : 208,
+        "name" : "秋卡红包",
+        "icon" : "items/icon_qiukahongbao.png"
+    },
+    {
+        "id" : 209,
+        "name" : "星星",
+        "icon" : "items/icon_xingxing.png"
+    },
+    {
+        "id" : 210,
+        "name" : "参赛积分",
+        "icon" : "items/icon_csjf.png"
+    },
+    {
+        "id" : 211,
+        "name" : "活动名片·海滩",
+        "icon" : "items/icon_shatanmingpian.png",
+        "serverDomainId" : 40210018
+    },
+    {
+        "id" : 212,
+        "name" : "活动名片·锦鲤",
+        "icon" : "items/icon_jinli.png",
+        "serverDomainId" : 40210021
+    },
+    {
+        "id" : 213,
+        "name" : "糖果",
+        "icon" : "items/icon_candy.png",
+        "serverDomainId" : 40001056
+    },
+    {
+        "id" : 214,
+        "name" : "梦幻币",
+        "icon" : "items/icon_dreamCoin.png",
+        "serverDomainId" : 20020005
+    },
+    {
+        "id" : 105,
+        "class" : 6,
+        "name" : "经验结晶",
+        "icon" : "items/item_faerie_exp.png",
+        "description" : "用于仙灵升级，捕鱼与仙灵挂机收益均会产出，也可在商店购买。渔场中的掉落上限随持有仙灵的总等级增加而增加",
+        "descriptionHelp" : "用于仙灵升级，捕鱼中掉落，也可在商店购买，每日掉落上限随仙灵等级提升",
+        "serverDomainId" : 40007010
+    },
+    {
+        "id" : 106,
+        "class" : 6,
+        "name" : "灵气结晶",
+        "icon" : "items/item_faerie_grade.png",
+        "description" : "用于仙灵升阶，捕鱼中掉落，也可在商店购买。渔场中的掉落上限随持有仙灵的总等级增加而增加",
+        "descriptionHelp" : "用于仙灵升阶，捕鱼中掉落，也可在商店购买，每日掉落上限随仙灵等级提升",
+        "serverDomainId" : 40007011
+    },
+    {
+        "id" : 301,
+        "name" : "火凤",
+        "icon" : "items/faerie_1.png",
+        "serverDomainId" : 40003012
+    },
+    {
+        "id" : 302,
+        "name" : "冰狐",
+        "icon" : "items/faerie_2.png",
+        "serverDomainId" : 40003013
+    },
+    {
+        "id" : 107,
+        "class" : 6,
+        "category" : 2,
+        "name" : "梦之精华",
+        "description" : "用于神树培育，捕鱼中掉落。渔场中的掉落上限随神树的等级与花数增加而增加",
+        "descriptionHelp" : "用于神树培育，捕鱼中掉落。每日掉落上限随神树的等级与花数提升",
+        "icon" : "items/icon_dream_essence.png",
+        "serverDomainId" : 40007012
+    },
+    {
+        "id" : 20001,
+        "class" : 6,
+        "category" : 2,
+        "name" : "橙彩果实",
+        "description" : "用于神树橙彩奖池抽奖，神树培育产出",
+        "icon" : "items/icon_normalFruit.png"
+    },
+    {
+        "id" : 20002,
+        "class" : 6,
+        "category" : 2,
+        "name" : "星幻果实",
+        "description" : "用于神树星幻奖池抽奖，神树培育产出",
+        "icon" : "items/icon_specialFruit.png"
+    },
+    {
+        "id" : 20003,
+        "class" : 6,
+        "category" : 2,
+        "name" : "梦境结晶",
+        "description" : "用于神树结晶提炼，升级梦幻之境与仙灵大招，在神树奖池抽奖中概率获得",
+        "icon" : "items/icon_treeJiejing.png"
+    },
+    {
+        "id" : 65,
+        "name" : "鱼钩",
+        "icon" : "items/item_fishhook.png",
+        "serverDomainId" : 40013005
+    },
+    {
+        "id" : 66,
+        "name" : "紫宝石",
+        "icon" : "items/item_purple_gem.png",
+        "serverDomainId" : 40013007
+    }
+]

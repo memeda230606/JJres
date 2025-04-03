@@ -1,0 +1,41 @@
+
+hylb_icon.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_dikuang
+  rotate: false
+  xy: 2, 45
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+bg_huiyuanlihe
+  rotate: false
+  xy: 75, 59
+  size: 79, 57
+  orig: 79, 57
+  offset: 0, 0
+  index: -1
+bg_huiyuanshuijing
+  rotate: false
+  xy: 2, 2
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+txt_hylb
+  rotate: false
+  xy: 156, 90
+  size: 89, 26
+  orig: 89, 26
+  offset: 0, 0
+  index: -1
+xingguang
+  rotate: false
+  xy: 38, 10
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,230 @@
+
+baoxiang_lingqu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci
+  rotate: false
+  xy: 2, 355
+  size: 154, 154
+  orig: 160, 160
+  offset: 3, 3
+  index: -1
+lizi_00
+  rotate: true
+  xy: 2, 2
+  size: 68, 84
+  orig: 142, 134
+  offset: 24, 25
+  index: -1
+lizi_01
+  rotate: false
+  xy: 317, 166
+  size: 84, 85
+  orig: 142, 134
+  offset: 23, 24
+  index: -1
+lizi_02
+  rotate: true
+  xy: 390, 78
+  size: 86, 72
+  orig: 142, 134
+  offset: 22, 23
+  index: -1
+lizi_03
+  rotate: false
+  xy: 292, 9
+  size: 89, 74
+  orig: 142, 134
+  offset: 20, 22
+  index: -1
+lizi_04
+  rotate: false
+  xy: 199, 22
+  size: 91, 76
+  orig: 142, 134
+  offset: 18, 21
+  index: -1
+lizi_05
+  rotate: false
+  xy: 383, 2
+  size: 74, 74
+  orig: 142, 134
+  offset: 36, 21
+  index: -1
+lizi_06
+  rotate: false
+  xy: 220, 172
+  size: 95, 79
+  orig: 142, 134
+  offset: 16, 20
+  index: -1
+lizi_07
+  rotate: false
+  xy: 773, 429
+  size: 97, 80
+  orig: 142, 134
+  offset: 14, 19
+  index: -1
+lizi_08
+  rotate: false
+  xy: 158, 351
+  size: 99, 73
+  orig: 142, 134
+  offset: 13, 27
+  index: -1
+lizi_09
+  rotate: false
+  xy: 469, 434
+  size: 100, 75
+  orig: 142, 134
+  offset: 12, 26
+  index: -1
+lizi_10
+  rotate: false
+  xy: 365, 433
+  size: 102, 76
+  orig: 142, 134
+  offset: 11, 26
+  index: -1
+lizi_11
+  rotate: false
+  xy: 261, 351
+  size: 95, 77
+  orig: 142, 134
+  offset: 10, 26
+  index: -1
+lizi_12
+  rotate: true
+  xy: 220, 253
+  size: 96, 77
+  orig: 142, 134
+  offset: 9, 26
+  index: -1
+lizi_13
+  rotate: false
+  xy: 872, 431
+  size: 98, 78
+  orig: 142, 134
+  offset: 8, 26
+  index: -1
+lizi_14
+  rotate: false
+  xy: 571, 430
+  size: 99, 79
+  orig: 142, 134
+  offset: 7, 26
+  index: -1
+lizi_15
+  rotate: false
+  xy: 261, 430
+  size: 102, 79
+  orig: 142, 134
+  offset: 6, 26
+  index: -1
+lizi_16
+  rotate: false
+  xy: 2, 155
+  size: 103, 80
+  orig: 142, 134
+  offset: 5, 26
+  index: -1
+lizi_17
+  rotate: true
+  xy: 377, 266
+  size: 85, 78
+  orig: 142, 134
+  offset: 24, 25
+  index: -1
+lizi_18
+  rotate: true
+  xy: 403, 179
+  size: 85, 78
+  orig: 142, 134
+  offset: 24, 25
+  index: -1
+lizi_19
+  rotate: false
+  xy: 365, 353
+  size: 88, 78
+  orig: 142, 134
+  offset: 22, 25
+  index: -1
+lizi_20
+  rotate: false
+  xy: 298, 85
+  size: 90, 79
+  orig: 142, 134
+  offset: 21, 25
+  index: -1
+lizi_21
+  rotate: false
+  xy: 204, 100
+  size: 92, 70
+  orig: 142, 134
+  offset: 20, 35
+  index: -1
+lizi_22
+  rotate: false
+  xy: 104, 44
+  size: 93, 73
+  orig: 142, 134
+  offset: 20, 33
+  index: -1
+lizi_23
+  rotate: false
+  xy: 107, 119
+  size: 95, 74
+  orig: 142, 134
+  offset: 19, 32
+  index: -1
+lizi_24
+  rotate: true
+  xy: 299, 253
+  size: 96, 76
+  orig: 142, 134
+  offset: 18, 31
+  index: -1
+lizi_25
+  rotate: false
+  xy: 120, 272
+  size: 98, 77
+  orig: 142, 134
+  offset: 17, 30
+  index: -1
+lizi_26
+  rotate: false
+  xy: 120, 195
+  size: 98, 75
+  orig: 142, 134
+  offset: 17, 32
+  index: -1
+lizi_27
+  rotate: false
+  xy: 672, 429
+  size: 99, 80
+  orig: 142, 134
+  offset: 16, 28
+  index: -1
+lizi_28
+  rotate: false
+  xy: 2, 72
+  size: 100, 81
+  orig: 142, 134
+  offset: 16, 27
+  index: -1
+lizi_29
+  rotate: false
+  xy: 158, 426
+  size: 101, 83
+  orig: 142, 134
+  offset: 15, 26
+  index: -1
+quan
+  rotate: false
+  xy: 2, 237
+  size: 116, 116
+  orig: 128, 128
+  offset: 6, 6
+  index: -1

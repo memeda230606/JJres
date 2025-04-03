@@ -1,0 +1,181 @@
+
+Fish_Evolution.png
+size: 904,906
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frame_1
+  rotate: false
+  xy: 0, 650
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_1
+  rotate: false
+  xy: 0, 392
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_2
+  rotate: false
+  xy: 258, 650
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_3
+  rotate: false
+  xy: 516, 520
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow_4
+  rotate: false
+  xy: 0, 134
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_line_1
+  rotate: false
+  xy: 774, 778
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_01
+  rotate: false
+  xy: 130, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_02
+  rotate: false
+  xy: 516, 390
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_03
+  rotate: false
+  xy: 260, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_04
+  rotate: false
+  xy: 516, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_05
+  rotate: false
+  xy: 646, 520
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_06
+  rotate: false
+  xy: 646, 390
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_07
+  rotate: false
+  xy: 646, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_08
+  rotate: false
+  xy: 390, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_09
+  rotate: false
+  xy: 520, 130
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_10
+  rotate: false
+  xy: 520, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_11
+  rotate: false
+  xy: 650, 130
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_12
+  rotate: false
+  xy: 650, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_13
+  rotate: false
+  xy: 776, 648
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_14
+  rotate: false
+  xy: 776, 518
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_15
+  rotate: false
+  xy: 776, 388
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/lighting_16
+  rotate: false
+  xy: 0, 4
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ring_1
+  rotate: false
+  xy: 258, 392
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ring_2
+  rotate: false
+  xy: 516, 650
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ring_3
+  rotate: false
+  xy: 258, 134
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

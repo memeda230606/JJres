@@ -1,0 +1,167 @@
+
+huishouyu_guangdian1.png
+size: 525,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangdian/guangdian_0000
+  rotate: false
+  xy: 130, 423
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0001
+  rotate: false
+  xy: 1, 193
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0002
+  rotate: false
+  xy: 228, 423
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0003
+  rotate: false
+  xy: 1, 92
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0004
+  rotate: false
+  xy: 326, 423
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0005
+  rotate: true
+  xy: 424, 426
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0006
+  rotate: true
+  xy: 424, 328
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0007
+  rotate: false
+  xy: 99, 294
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0008
+  rotate: false
+  xy: 99, 193
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0009
+  rotate: false
+  xy: 99, 92
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0010
+  rotate: false
+  xy: 197, 322
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0011
+  rotate: false
+  xy: 197, 221
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0012
+  rotate: false
+  xy: 295, 322
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0013
+  rotate: false
+  xy: 197, 120
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0014
+  rotate: false
+  xy: 295, 221
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0015
+  rotate: false
+  xy: 295, 120
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0016
+  rotate: false
+  xy: 393, 227
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0017
+  rotate: false
+  xy: 393, 126
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0018
+  rotate: true
+  xy: 197, 22
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0019
+  rotate: false
+  xy: 298, 19
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0020
+  rotate: false
+  xy: 396, 25
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangdian/guangdian_0021
+  rotate: false
+  xy: 1, 294
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+guangyun02
+  rotate: false
+  xy: 1, 395
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

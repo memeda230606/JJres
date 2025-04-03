@@ -1,0 +1,41 @@
+
+shezhitanban.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_chilun
+  rotate: false
+  xy: 1, 1
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+bg_chilun1
+  rotate: false
+  xy: 439, 79
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+bg_daodan
+  rotate: false
+  xy: 205, 57
+  size: 151, 61
+  orig: 151, 61
+  offset: 0, 0
+  index: -1
+bg_daodan1
+  rotate: false
+  xy: 358, 78
+  size: 79, 40
+  orig: 79, 40
+  offset: 0, 0
+  index: -1
+txt_shezhi
+  rotate: false
+  xy: 1, 31
+  size: 202, 87
+  orig: 202, 87
+  offset: 0, 0
+  index: -1

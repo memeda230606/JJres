@@ -1,0 +1,55 @@
+
+huodong.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_zuoceyeqian
+  rotate: true
+  xy: 2, 2
+  size: 248, 567
+  orig: 253, 568
+  offset: 2, 0
+  index: -1
+glow_001
+  rotate: false
+  xy: 571, 84
+  size: 163, 87
+  orig: 179, 91
+  offset: 14, 2
+  index: -1
+glow_shu
+  rotate: true
+  xy: 571, 173
+  size: 77, 327
+  orig: 77, 352
+  offset: 0, 0
+  index: -1
+sanjiao1
+  rotate: false
+  xy: 736, 135
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+sanjiao2
+  rotate: false
+  xy: 571, 40
+  size: 54, 42
+  orig: 57, 45
+  offset: 2, 1
+  index: -1
+sanjiao3
+  rotate: false
+  xy: 900, 174
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+sanjiao4
+  rotate: false
+  xy: 900, 208
+  size: 57, 42
+  orig: 61, 44
+  offset: 1, 1
+  index: -1

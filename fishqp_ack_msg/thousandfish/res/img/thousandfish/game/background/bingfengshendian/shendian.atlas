@@ -1,0 +1,27 @@
+
+shendian.png
+size: 1281,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qianpao/changjing/shendianguang
+  rotate: false
+  xy: 2, 2
+  size: 944, 500
+  orig: 944, 500
+  offset: 0, 0
+  index: -1
+qianpao/changjing/shendianshuicao1
+  rotate: false
+  xy: 948, 292
+  size: 331, 210
+  orig: 331, 210
+  offset: 0, 0
+  index: -1
+qianpao/changjing/shendianshuicao2
+  rotate: false
+  xy: 948, 51
+  size: 212, 239
+  orig: 212, 239
+  offset: 0, 0
+  index: -1

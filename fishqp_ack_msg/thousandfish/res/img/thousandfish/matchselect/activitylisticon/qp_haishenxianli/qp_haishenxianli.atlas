@@ -1,0 +1,41 @@
+
+qp_haishenxianli.png
+size: 205,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light3
+  rotate: false
+  xy: 2, 12
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bg_haishen
+  rotate: false
+  xy: 132, 63
+  size: 71, 77
+  orig: 71, 77
+  offset: 0, 0
+  index: -1
+bg_yanpi
+  rotate: false
+  xy: 2, 2
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+bg_zuanshi
+  rotate: false
+  xy: 132, 42
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+bg_zuanshi1
+  rotate: false
+  xy: 132, 21
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+gaojierenwuxuanshang.png
+size: 1986,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liemodarenjineng/贴图/Tex_Smoke_23_1
+  rotate: false
+  xy: 1078, 141
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+qianpao/Ring_002_1
+  rotate: false
+  xy: 1078, 11
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+qianpao/任务/bg_bjhengxian
+  rotate: false
+  xy: 1284, 17
+  size: 700, 473
+  orig: 700, 473
+  offset: 0, 0
+  index: -1
+qianpao/任务/bg_diban
+  rotate: false
+  xy: 2, 271
+  size: 1280, 219
+  orig: 1280, 219
+  offset: 0, 0
+  index: -1
+qianpao/任务/bg_neihuan
+  rotate: false
+  xy: 2, 2
+  size: 267, 267
+  orig: 267, 267
+  offset: 0, 0
+  index: -1
+qianpao/任务/bg_waihuan
+  rotate: false
+  xy: 271, 2
+  size: 267, 267
+  orig: 267, 267
+  offset: 0, 0
+  index: -1
+qianpao/任务/bg_yuan
+  rotate: false
+  xy: 540, 2
+  size: 267, 267
+  orig: 267, 267
+  offset: 0, 0
+  index: -1
+qianpao/任务/bg_zhonghuan
+  rotate: false
+  xy: 809, 2
+  size: 267, 267
+  orig: 267, 267
+  offset: 0, 0
+  index: -1

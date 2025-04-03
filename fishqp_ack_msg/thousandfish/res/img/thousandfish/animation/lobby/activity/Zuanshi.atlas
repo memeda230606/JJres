@@ -1,0 +1,69 @@
+
+Zuanshi.png
+size: 1144,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+choudai
+  rotate: false
+  xy: 1, 166
+  size: 458, 91
+  orig: 458, 91
+  offset: 0, 0
+  index: -1
+diamond_coin
+  rotate: false
+  xy: 1043, 89
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+faguang2
+  rotate: false
+  xy: 1043, 157
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+gongxihuode
+  rotate: true
+  xy: 974, 1
+  size: 256, 68
+  orig: 256, 68
+  offset: 0, 0
+  index: -1
+guangci035
+  rotate: false
+  xy: 460, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 1043, 24
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shizixing
+  rotate: false
+  xy: 717, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+zhezhao
+  rotate: false
+  xy: 322, 37
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ziguang
+  rotate: false
+  xy: 1, 5
+  size: 320, 160
+  orig: 320, 160
+  offset: 0, 0
+  index: -1

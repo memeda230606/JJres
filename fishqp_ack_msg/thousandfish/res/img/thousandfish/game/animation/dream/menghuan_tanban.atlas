@@ -1,0 +1,236 @@
+
+menghuan_tanban.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_dth_caidai0
+  rotate: false
+  xy: 580, 38
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+bg_dth_caidai1
+  rotate: true
+  xy: 992, 78
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+bg_dth_caidai2
+  rotate: false
+  xy: 2, 8
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+bg_dth_caidai3
+  rotate: false
+  xy: 728, 2
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+bg_dth_caidai4
+  rotate: false
+  xy: 790, 12
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+bg_dth_caidai5
+  rotate: false
+  xy: 992, 36
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+bg_dth_guang0
+  rotate: false
+  xy: 2, 170
+  size: 326, 320
+  orig: 326, 320
+  offset: 0, 0
+  index: -1
+bg_dth_guang2
+  rotate: false
+  xy: 2, 40
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bg_dth_jingbi0
+  rotate: false
+  xy: 396, 15
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+bg_dth_jingbi1
+  rotate: false
+  xy: 488, 75
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+bg_dth_jingbi2
+  rotate: false
+  xy: 662, 2
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+bg_dth_jingbi3
+  rotate: false
+  xy: 396, 67
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+bg_dth_jingbi4
+  rotate: false
+  xy: 488, 7
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+bg_dth_xing
+  rotate: false
+  xy: 132, 40
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bg_fangshexian
+  rotate: false
+  xy: 262, 41
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+bg_guang1
+  rotate: false
+  xy: 262, 41
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+bg_lingxing_kong
+  rotate: false
+  xy: 262, 41
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+bg_fenshudi
+  rotate: false
+  xy: 2, 492
+  size: 642, 114
+  orig: 642, 114
+  offset: 0, 0
+  index: -1
+bg_glow_guangquan
+  rotate: false
+  xy: 662, 54
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bg_glow_xian
+  rotate: true
+  xy: 1004, 850
+  size: 170, 12
+  orig: 170, 12
+  offset: 0, 0
+  index: -1
+bg_mianban
+  rotate: false
+  xy: 2, 608
+  size: 1000, 412
+  orig: 1000, 412
+  offset: 0, 0
+  index: -1
+ciguang/bg_dth_ciguang__00
+  rotate: false
+  xy: 616, 120
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ciguang/bg_dth_ciguang__01
+  rotate: false
+  xy: 818, 120
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cj_pao
+  rotate: true
+  xy: 330, 149
+  size: 341, 284
+  orig: 341, 284
+  offset: 0, 0
+  index: -1
+jingbi/jinbi_00
+  rotate: false
+  xy: 728, 54
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jingbi/jinbi_01
+  rotate: false
+  xy: 794, 54
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jingbi/jinbi_02
+  rotate: false
+  xy: 860, 54
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jingbi/jinbi_03
+  rotate: false
+  xy: 926, 54
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+pt_pao
+  rotate: false
+  xy: 646, 322
+  size: 341, 284
+  orig: 341, 284
+  offset: 0, 0
+  index: -1
+
+menghuan_tanban2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ciguang/bg_dth_ciguang__02
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ciguang/bg_dth_ciguang__03
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ciguang/bg_dth_ciguang__04
+  rotate: false
+  xy: 406, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

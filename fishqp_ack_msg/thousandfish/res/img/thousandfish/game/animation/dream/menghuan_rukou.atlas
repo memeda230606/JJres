@@ -1,0 +1,202 @@
+
+menghuan_rukou.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_dth_caidai0
+  rotate: false
+  xy: 406, 230
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+bg_dth_caidai1
+  rotate: false
+  xy: 334, 82
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+bg_dth_caidai2
+  rotate: false
+  xy: 406, 198
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+bg_dth_caidai3
+  rotate: true
+  xy: 296, 14
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+bg_dth_caidai4
+  rotate: false
+  xy: 488, 270
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+bg_dth_caidai5
+  rotate: true
+  xy: 488, 238
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+bg_dth_jingbi0
+  rotate: true
+  xy: 334, 114
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+bg_dth_jingbi1
+  rotate: false
+  xy: 204, 2
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+bg_dth_jingbi2
+  rotate: true
+  xy: 946, 544
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+bg_dth_jingbi3
+  rotate: false
+  xy: 524, 528
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+bg_dth_jingbi4
+  rotate: false
+  xy: 524, 460
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+bg_dth_xing
+  rotate: false
+  xy: 204, 76
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bg_fangshexian
+  rotate: true
+  xy: 406, 312
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+bg_guang1
+  rotate: true
+  xy: 406, 312
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+bg_lingxing_kong
+  rotate: true
+  xy: 406, 312
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+bg_glow_guangquan
+  rotate: false
+  xy: 616, 544
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+bg_glow_xian
+  rotate: true
+  xy: 1004, 852
+  size: 170, 12
+  orig: 170, 12
+  offset: 0, 0
+  index: -1
+bg_mianban
+  rotate: false
+  xy: 2, 610
+  size: 1000, 412
+  orig: 1000, 412
+  offset: 0, 0
+  index: -1
+ciguang/bg_dth_ciguang__00
+  rotate: false
+  xy: 2, 408
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ciguang/bg_dth_ciguang__01
+  rotate: false
+  xy: 2, 206
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ciguang/bg_dth_ciguang__02
+  rotate: false
+  xy: 204, 408
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ciguang/bg_dth_ciguang__03
+  rotate: false
+  xy: 2, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ciguang/bg_dth_ciguang__04
+  rotate: false
+  xy: 204, 206
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+jingbi/jinbi_00
+  rotate: false
+  xy: 682, 544
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jingbi/jinbi_01
+  rotate: false
+  xy: 748, 544
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jingbi/jinbi_02
+  rotate: false
+  xy: 814, 544
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+jingbi/jinbi_03
+  rotate: false
+  xy: 880, 544
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 406, 446
+  size: 116, 162
+  orig: 116, 162
+  offset: 0, 0
+  index: -1

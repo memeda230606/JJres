@@ -1,0 +1,55 @@
+
+BY_XL_shengji01.png
+size: 888,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G_T
+  rotate: false
+  xy: 518, 148
+  size: 368, 110
+  orig: 368, 110
+  offset: 0, 0
+  index: -1
+HuaDong
+  rotate: false
+  xy: 759, 100
+  size: 103, 46
+  orig: 103, 46
+  offset: 0, 0
+  index: -1
+SP_01
+  rotate: false
+  xy: 648, 19
+  size: 109, 127
+  orig: 109, 127
+  offset: 0, 0
+  index: -1
+Star_01
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ci_01
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+glow_02
+  rotate: false
+  xy: 518, 18
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+qd_xiankuo
+  rotate: false
+  xy: 759, 66
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1

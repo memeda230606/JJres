@@ -1,0 +1,104 @@
+
+guiwang.png
+size: 1752,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qianpao/7c9e49aa
+  rotate: false
+  xy: 2, 8
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+qianpao/Glow_ShockWave_002_1
+  rotate: false
+  xy: 1274, 260
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+qianpao/bg_chibangl
+  rotate: true
+  xy: 1532, 19
+  size: 48, 93
+  orig: 48, 93
+  offset: 0, 0
+  index: -1
+qianpao/bg_chibangr
+  rotate: false
+  xy: 618, 43
+  size: 48, 93
+  orig: 48, 93
+  offset: 0, 0
+  index: -1
+qianpao/bg_diguang
+  rotate: false
+  xy: 1532, 69
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+qianpao/bg_pan
+  rotate: false
+  xy: 388, 18
+  size: 112, 118
+  orig: 112, 118
+  offset: 0, 0
+  index: -1
+qianpao/bg_pan1
+  rotate: false
+  xy: 502, 31
+  size: 114, 105
+  orig: 114, 105
+  offset: 0, 0
+  index: -1
+qianpao/bg_zhaunpan
+  rotate: false
+  xy: 262, 13
+  size: 124, 123
+  orig: 124, 123
+  offset: 0, 0
+  index: -1
+qianpao/pic_chibang_you
+  rotate: false
+  xy: 668, 46
+  size: 47, 90
+  orig: 47, 90
+  offset: 0, 0
+  index: -1
+qianpao/pic_chibang_zuo
+  rotate: false
+  xy: 717, 46
+  size: 47, 90
+  orig: 47, 90
+  offset: 0, 0
+  index: -1
+qianpao/pic_guang
+  rotate: true
+  xy: 1532, 249
+  size: 267, 218
+  orig: 267, 218
+  offset: 0, 0
+  index: -1
+qianpao/ring009_1
+  rotate: false
+  xy: 1274, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+shengjijiesuo/arcaneMissiles_projectile_rings
+  rotate: false
+  xy: 132, 8
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shengjijiesuo/bg_sj_guang4
+  rotate: false
+  xy: 2, 138
+  size: 1270, 378
+  orig: 1270, 378
+  offset: 0, 0
+  index: -1

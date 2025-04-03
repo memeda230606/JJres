@@ -1,0 +1,48 @@
+
+denglongsiwang.png
+size: 778,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qianpao/3
+  rotate: false
+  xy: 2, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+qianpao/6
+  rotate: false
+  xy: 260, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+qianpao/Gameart8.com438
+  rotate: false
+  xy: 518, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+qianpao/eu_circle_1
+  rotate: false
+  xy: 648, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shengjijiesuo/arcaneMissiles_projectile_rings
+  rotate: false
+  xy: 518, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+shengjijiesuo/bg_xing
+  rotate: false
+  xy: 648, 82
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1

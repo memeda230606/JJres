@@ -1,0 +1,71 @@
+{
+"skeleton": { "hash": "O6R0N6UnruytNGxe1cKOvSJaQ8I", "spine": "3.7.94", "width": 1558, "height": 720, "images": "", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "dajiang", "parent": "root" },
+	{ "name": "saoguang", "parent": "root" }
+],
+"slots": [
+	{ "name": "bg_dajiang", "bone": "dajiang", "attachment": "bg_dajiang" },
+	{ "name": "dajiang_saoguang", "bone": "dajiang", "attachment": "dajiang_saoguang" },
+	{ "name": "saoguang", "bone": "saoguang", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"bg_dajiang": {
+			"bg_dajiang": { "x": 0.5, "y": 0.5, "width": 75, "height": 29 }
+		},
+		"dajiang_saoguang": {
+			"dajiang_saoguang": {
+				"type": "clipping",
+				"end": "dajiang_saoguang",
+				"vertexCount": 10,
+				"vertices": [ -35.46, 11.08, -33.28, 13.25, -30.4, 15.03, 37.06, 14.87, 32.56, -7.64, 31.11, -9.43, 29.27, -10.96, 27.35, -11.99, -37.04, -12.14, -36.96, 8.87 ],
+				"color": "ce3a3aff"
+			}
+		},
+		"saoguang": {
+			"saoguang": { "y": 0.5, "width": 70, "height": 33 }
+		}
+	}
+},
+"animations": {
+	"idle": {
+		"slots": {
+			"saoguang": {
+				"color": [
+					{
+						"time": 1,
+						"color": "ffffff00",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.6667,
+						"color": "ffffffff",
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 1, "name": "saoguang" }
+				]
+			}
+		},
+		"bones": {
+			"saoguang": {
+				"translate": [
+					{ "time": 0, "x": -73.87, "y": 0, "curve": "stepped" },
+					{
+						"time": 1,
+						"x": -73.87,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 2, "x": 77.41, "y": 0, "curve": "stepped" },
+					{ "time": 3.6667, "x": 77.41, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}

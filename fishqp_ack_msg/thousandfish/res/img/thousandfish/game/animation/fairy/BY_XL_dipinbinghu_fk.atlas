@@ -1,0 +1,125 @@
+
+BY_XL_dipinbinghu_fk.png
+size: 721,720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B01
+  rotate: true
+  xy: 1, 284
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+B02
+  rotate: true
+  xy: 181, 284
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+B03
+  rotate: true
+  xy: 361, 284
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+B04
+  rotate: true
+  xy: 541, 284
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+B05
+  rotate: true
+  xy: 1, 106
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+B06
+  rotate: true
+  xy: 181, 106
+  size: 177, 179
+  orig: 177, 179
+  offset: 0, 0
+  index: -1
+BZ_01
+  rotate: false
+  xy: 1, 591
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_02
+  rotate: false
+  xy: 130, 591
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_03
+  rotate: false
+  xy: 259, 591
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_04
+  rotate: false
+  xy: 388, 591
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_05
+  rotate: false
+  xy: 517, 591
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_06
+  rotate: false
+  xy: 1, 462
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_07
+  rotate: false
+  xy: 130, 462
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_08
+  rotate: false
+  xy: 259, 462
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BZ_09
+  rotate: false
+  xy: 388, 462
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+XH
+  rotate: false
+  xy: 517, 462
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+ci_01
+  rotate: false
+  xy: 361, 27
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

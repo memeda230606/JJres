@@ -1,0 +1,153 @@
+
+mofashu2.png
+size: 1446,1446
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 1197, 1084
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+glow_4
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guangci
+  rotate: false
+  xy: 1197, 1213
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+guangci2
+  rotate: false
+  xy: 491, 129
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+quandian/quandian_0000
+  rotate: false
+  xy: 1, 1149
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+quandian/quandian_0001
+  rotate: false
+  xy: 1, 852
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+quandian/quandian_0002
+  rotate: false
+  xy: 300, 1149
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+quandian/quandian_0003
+  rotate: false
+  xy: 1, 555
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+quandian/quandian_0004
+  rotate: false
+  xy: 300, 852
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+quandian/quandian_0005
+  rotate: false
+  xy: 599, 1149
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+quandian/quandian_0006
+  rotate: false
+  xy: 1, 258
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+quandian/quandian_0007
+  rotate: false
+  xy: 300, 555
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+quandian/quandian_0008
+  rotate: false
+  xy: 599, 852
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+quandian/quandian_0009
+  rotate: false
+  xy: 898, 1149
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+quandian/quandian_0010
+  rotate: false
+  xy: 300, 258
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+quandian/quandian_0011
+  rotate: false
+  xy: 599, 555
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+quandian/quandian_0012
+  rotate: false
+  xy: 898, 852
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+quandian/quandian_0013
+  rotate: false
+  xy: 599, 258
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+quandian/quandian_0014
+  rotate: false
+  xy: 898, 555
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+quandian/quandian_0015
+  rotate: false
+  xy: 898, 258
+  size: 298, 296
+  orig: 298, 296
+  offset: 0, 0
+  index: -1
+ring_2
+  rotate: false
+  xy: 258, 25
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1

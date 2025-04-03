@@ -1,0 +1,53 @@
+{
+"skeleton": { "hash": "J8vpO8YPpHRQPQzWzU+SYP/A1sY", "spine": "3.6.53", "width": 210, "height": 521.45, "images": "./image/images/" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" },
+	{ "name": "lg1", "parent": "bone", "x": 434.7, "y": -256.72 },
+	{ "name": "lg2", "parent": "bone", "x": 434.7, "y": 211.73, "scaleX": -1 }
+],
+"slots": [
+	{ "name": "pic_liuguang", "bone": "lg1", "color": "ffffff55", "attachment": "pic_liuguang", "blend": "additive" },
+	{ "name": "pic_liuguang2", "bone": "lg2", "color": "ffffffba", "attachment": "pic_liuguang", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"pic_liuguang": {
+			"pic_liuguang": { "width": 210, "height": 53 }
+		},
+		"pic_liuguang2": {
+			"pic_liuguang": { "width": 210, "height": 53 }
+		}
+	}
+},
+"animations": {
+	"play": {
+		"bones": {
+			"lg1": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 7.2, "x": -766.53, "y": 0 },
+					{ "time": 8, "x": -874.22, "y": 0 }
+				],
+				"scale": [
+					{ "time": 7.2, "x": 1, "y": 1 },
+					{ "time": 8, "x": 0, "y": 0 }
+				]
+			},
+			"lg2": {
+				"translate": [
+					{ "time": 0, "x": -812.41, "y": 0 },
+					{ "time": 0.8, "x": -766.53, "y": 0 },
+					{ "time": 7.9667, "x": 38.29, "y": 0 },
+					{ "time": 8, "x": 16.68, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 0 },
+					{ "time": 7.0333, "x": 1, "y": 1 },
+					{ "time": 8, "x": 0, "y": 0 }
+				]
+			}
+		}
+	}
+}
+}
