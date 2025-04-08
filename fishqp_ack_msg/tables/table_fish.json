@@ -840,7 +840,7 @@
                 "name": "jinlongyu",
                 "move": "qp_jinlongyu_move",
                 "speed": 72,
-                "point": 60,
+                "point": 150,
                 "width": 200,
                 "height": 90,
                 "scale": 1.126,
