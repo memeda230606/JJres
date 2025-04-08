@@ -10,7 +10,7 @@
             "passThroughNum": 0,
             "fixedAttack": 0,
             "lightingChain": 0,
-            "cannonskilltypeid":18
+            "cannonskilltypeid":1
         },
         "3":{
             "id": 3,
@@ -22,7 +22,7 @@
             "passThroughNum": 0,
             "fixedAttack": 0,
             "lightingChain": 0,
-            "cannonskilltypeid":18
+            "cannonskilltypeid":3
         },
         "7":{
             "id": 7,
@@ -46,7 +46,7 @@
             "passThroughNum": 0,
             "fixedAttack": 0,
             "lightingChain": 0,
-            "cannonskilltypeid":18
+            "cannonskilltypeid":10
         },
         "5":{
             "id": 5,
@@ -58,7 +58,7 @@
             "passThroughNum": 0,
             "fixedAttack": 0,
             "lightingChain": 0,
-            "cannonskilltypeid":18
+            "cannonskilltypeid":5
         },
         "16":{
             "id": 16,
@@ -70,7 +70,7 @@
             "passThroughNum": 0,
             "fixedAttack": 0,
             "lightingChain": 0,
-            "cannonskilltypeid":50
+            "cannonskilltypeid":16
         },
         "14":{
             "id": 14,
@@ -82,7 +82,7 @@
             "passThroughNum": 0,
             "fixedAttack": 0,
             "lightingChain": 0,
-            "cannonskilltypeid":18
+            "cannonskilltypeid":14
         },
         "9":{
             "id": 9,
@@ -118,7 +118,7 @@
             "passThroughNum": 0,
             "fixedAttack": 0,
             "lightingChain": 0,
-            "cannonskilltypeid":18
+            "cannonskilltypeid":12
         },
         "17":{
             "id": 17,
@@ -130,7 +130,7 @@
             "passThroughNum": 0,
             "fixedAttack": 0,
             "lightingChain": 0,
-            "cannonskilltypeid":51
+            "cannonskilltypeid":17
         },
         "19":{
             "id": 19,
@@ -142,7 +142,7 @@
             "passThroughNum": 0,
             "fixedAttack": 0,
             "lightingChain": 0,
-            "cannonskilltypeid":10002
+            "cannonskilltypeid":19
         }
     },
 
