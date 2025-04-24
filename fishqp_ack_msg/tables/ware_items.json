@@ -1,5 +1,65 @@
 [
     {
+        "id" : 991,
+        "grow_id" : 991,
+        "category" : 0,
+        "type" : 0,
+        "name" : "二麻活跃星票",
+        "description" : "二麻活跃星票",
+        "visible" : 1,
+        "icon" : "item_xinpiao"
+    },
+    {
+        "id" : 992,
+        "grow_id" : 992,
+        "category" : 0,
+        "type" : 0,
+        "name" : "铁质官符",
+        "description" : "铁质官符",
+        "visible" : 1,
+        "icon" : "item_guanfu"
+    },
+    {
+        "id" : 993,
+        "grow_id" : 993,
+        "category" : 0,
+        "type" : 0,
+        "name" : "军旗弹夹",
+        "description" : "军旗弹夹",
+        "visible" : 1,
+        "icon" : "item_danjia"
+    },
+    {
+        "id" : 994,
+        "grow_id" : 994,
+        "category" : 0,
+        "type" : 0,
+        "name" : "爆米花",
+        "description" : "爆米花",
+        "visible" : 1,
+        "icon" : "item_baomihua"
+    },
+    {
+        "id" : 995,
+        "grow_id" : 995,
+        "category" : 0,
+        "type" : 0,
+        "name" : "扣子",
+        "description" : "扣子",
+        "visible" : 1,
+        "icon" : "item_kouzi"
+    },
+    {
+        "id" : 996,
+        "grow_id" : 996,
+        "category" : 0,
+        "type" : 0,
+        "name" : "拖拉机通关小红花",
+        "description" : "拖拉机通关小红花",
+        "visible" : 1,
+        "icon" : "item_xiaohonghua"
+    },
+    {
         "id" : 88,
         "grow_id" : 88,
         "category" : 4,
